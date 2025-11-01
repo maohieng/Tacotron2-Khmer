@@ -1,0 +1,11 @@
+.myenv
+outdir_female/
+outdir_male/
+khmer-dataset-male/
+khmer-dataset-female/
+tacotron2_statedict.pt
+waveglow_256channels_universal_v5.pt
+pre-training-model/
+inference_Tacotron2.ipynb
+
+__pycache__

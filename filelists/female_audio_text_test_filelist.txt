@@ -1,0 +1,147 @@
+khmer-dataset-female/wavs/khm_7548_3958828704.wav|ការ កាត់ បន្ថយ ភាព ក្រីក្រ នៅ កម្ពុជា
+khmer-dataset-female/wavs/khm_7548_3981615808.wav|ផ្គត់ផ្គង់ ជួសជុល និង គ្រឿង បន្លាស់
+khmer-dataset-female/wavs/khm_7548_3997865482.wav|តាំង គីមម៉េង លក់ គ្រឿង បន្លាស់ ម៉ូតូ
+khmer-dataset-female/wavs/khm_7548_4000900685.wav|ដាវីដ  ខូភើហ្វៀល  លេង សៀក ដូច មែនទែន
+khmer-dataset-female/wavs/khm_7548_4024504753.wav|វិទ្យាស្ថាន បណ្តុះបណ្តាល កម្ពុជា
+khmer-dataset-female/wavs/khm_7548_4026968395.wav|លោក ប្រធានាធិបតី ចច ប៊ូស ត្រូវ បាន គេ លប ធ្វើ ឃាត កាលពី ខែ មេសា នៅ ប្រទេស គុយវ៉ែត តែ មិន បាន សំរេច
+khmer-dataset-female/wavs/khm_7548_4031871061.wav|ការ លុបបំបាត់ ការ ប្រកាន់ ពូជសាសន៍
+khmer-dataset-female/wavs/khm_7548_4066174613.wav|ស៊ីរី ជា ប្រទេស ដែល មាន ប្រជា ជន ក្រីក្រ ច្រើន
+khmer-dataset-female/wavs/khm_7548_4079928427.wav|អាលីហ្សា  ជា តារា បង្ហាញ ម៉ូត
+khmer-dataset-female/wavs/khm_7548_4083599474.wav|ផ្សារ សូរិយា ជា ផ្សារ ទំនើប មុន គេ នៅ ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset-female/wavs/khm_7548_4108323078.wav|សាលា ប៊ែលធី បាន បើក សាខា ទាំង អស់ ចំនួន សាមសិប ហើយ
+khmer-dataset-female/wavs/khm_7548_4134715882.wav|ព្រែក ជីក ស៊ុយអេ គឺ ជា ច្រក ដ៏ សំខាន់ មួយ ក្នុង ការ ដឹក ជញ្ជូន តាម ផ្លូវ ទឹក ឆ្លងកាត់ តាម សមុទ្រ មេឌីទែរ៉ាណេ ទៅ កាន់ សមុទ្រ ក្រហម
+khmer-dataset-female/wavs/khm_7548_4136516484.wav|ប្អូន ស្រី ខ្ញុំ បាន ទៅ ធ្វើការ នៅ ឈៀង រ៉ៃ
+khmer-dataset-female/wavs/khm_7548_4136677644.wav|ប្រជា ជន ស្រីលង្កា ភាគ ច្រើន គោរព សាសនា ព្រះ ពុទ្ធ
+khmer-dataset-female/wavs/khm_7548_4141848057.wav|ឆ័រហ្សា ច្នៃ ម៉ូត សម្លៀកបំពាក់ ប្លែក ប្លែក
+khmer-dataset-female/wavs/khm_7548_4148148093.wav|រោងចក្រ នេះ បាន ផលិត ស្រាបៀរ ដោយ ដាក់ ស្លាក សញ្ញា ពីរ គឺ ស្រាបៀរ អង្គរ និង ស្រាបៀរ បាយ័ន
+khmer-dataset-female/wavs/khm_7548_4164254192.wav|ក្រុមហ៊ុន គ្រឿង សំអាង ហ្គោលឌិន ហឺប
+khmer-dataset-female/wavs/khm_7548_4174430402.wav|លែធើរ៉ល  ប្រភព នៃ បច្ចេកវិទ្យា ទំនើប
+khmer-dataset-female/wavs/khm_7548_4183503041.wav|ម្ហូប នៅ ភោជនីយដ្ឋាន ផ្ទះ ម៉ែ ក្មេក ពិត ជា ឆ្ងាញ់ មែន
+khmer-dataset-female/wavs/khm_7548_4211543553.wav|ក្រុមហ៊ុន ញូ អេស៊ា ត្រានីត ខេមបូឌា
+khmer-dataset-female/wavs/khm_7548_4222307300.wav|ស្ថានីយ៍ ប្រេង ឥន្ធនៈ តេលា ទន្លេ សាប
+khmer-dataset-female/wavs/khm_7548_4272267792.wav|កាល បរិច្ឆេទ ប្រវត្តិសាស្ត្រ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_0028005762.wav|មនុស្ស ប្រាំ នាក់ នៅ បាវិត បាត់បង់ ជីវិត ដោយ អគ្គិភ័យ
+khmer-dataset-female/wavs/khm_8029_0064357273.wav|លោក សុភ័ណ្ឌ ណារី ត្រូវ បាន គេ តាមដាន ជីវិត សិល្បៈ របស់ លោក
+khmer-dataset-female/wavs/khm_8029_0080040048.wav|ក្រុម គ្រូ ពេទ្យ ស្ម័គ្រ ចិត្ត យុវជន
+khmer-dataset-female/wavs/khm_8029_0141556636.wav|នាយ វីតាមីនសេ បាន ជួយ ដល់ អង្គការ កុមារ កំព្រា
+khmer-dataset-female/wavs/khm_8029_0166696471.wav|កិច្ចការ ស្រាវជ្រាវ អំពី សេដ្ឋកិច្ច
+khmer-dataset-female/wavs/khm_8029_0206409645.wav|ស្រី តូច ចំណាន មាន កូន បួន នាក់ ជាមួយ លោក គិត ម៉េង
+khmer-dataset-female/wavs/khm_8029_0245461159.wav|អ៊ីពែបូល ជា ឈ្មោះ សមីការ មួយ ក្នុង មេរៀន គណិតវិទ្យា
+khmer-dataset-female/wavs/khm_8029_0252788569.wav|រដ្ឋមន្ត្រី ម៉ាំ ល្ហុង ច្រៀង ដូច សំលេង របស់ ខេមរៈ សិរីមន្ត
+khmer-dataset-female/wavs/khm_8029_0266122901.wav|វ៉ន វីវ៉ា បាន ដណ្តើម ខ្សែ ក្រវាត់ ពី កីឡា ករ ថៃ
+khmer-dataset-female/wavs/khm_8029_0272819691.wav|ចន អេឡិច ហ្សូរ៉ា មិន សូវ ល្បី ទេ
+khmer-dataset-female/wavs/khm_8029_0317983376.wav|ស្តេច កន មិន បាន ក្បត់ ប្រទេស ជាតិ ទេ
+khmer-dataset-female/wavs/khm_8029_0354407528.wav|នាយ កុយ ជា តារា កំប្លែង ដែល មាន កិត្តិនាម ល្បី
+khmer-dataset-female/wavs/khm_8029_0380749872.wav|ការ គ្រប់គ្រង ប្រព័ន្ធ ម៉ៅការ សំណង់
+khmer-dataset-female/wavs/khm_8029_0436208457.wav|ប៊ុនឃឺន  ជា មនុស្ស ស្មោះត្រង់
+khmer-dataset-female/wavs/khm_8029_0453084626.wav|អានដា បាន បង្កើត ស្តាយ ប្លែក ប្លែក ជា ច្រើន
+khmer-dataset-female/wavs/khm_8029_0469938981.wav|ការ អភិវឌ្ឍ កម្មវិធី កុំព្យូទ័រ
+khmer-dataset-female/wavs/khm_8029_0475041773.wav|លីអូណាដូ ឌីខាព្រីអូ សម្ដែង បាន ល្អ ដែរ តែ មិន ដែល ឈ្នះ ពាន អូស្កា សោះ
+khmer-dataset-female/wavs/khm_8029_0495735504.wav|ក្បត់ ធ្វើ អ្វី បើ ស្លាប់ ដូច គ្នា
+khmer-dataset-female/wavs/khm_8029_0508459051.wav|ស្រី ស្រី ឥឡូវ ចូលចិត្ត ស្លៀក ខើច ខ្លី
+khmer-dataset-female/wavs/khm_8029_0573180394.wav|បាន ស្នាក់នៅ ជាមួយ បងប្អូន ជីដូន មួយ នៅ ម្ដុំ ផ្សារ អូរ ឫស្សី
+khmer-dataset-female/wavs/khm_8029_0610634272.wav|ប្អូន ខ្ញុំ រៀន នៅ សាលា បញ្ញាសាស្ត្រ ជំនាញ អង់គ្លេស
+khmer-dataset-female/wavs/khm_8029_0634091190.wav|សូ មុយឃៀង ជា សភាចារ្យ និង សាស្ត្រាចារ្យ ដែល គួរ ឱ្យ គោរព
+khmer-dataset-female/wavs/khm_8029_0651738701.wav|ប្រុស ប្រុស ចូលចិត្ត ស្លៀក ខោ សំយេះ
+khmer-dataset-female/wavs/khm_8029_0656382319.wav|គំរោង អភិវឌ្ឍន៍ ទីក្រុង រណប ហ្គ្រេន ភ្នំពេញ
+khmer-dataset-female/wavs/khm_8029_0715156528.wav|សួន ចិន្ដា មាន សំលេង ស្រួយ ពី ធម្មជាតិ
+khmer-dataset-female/wavs/khm_8029_0799894596.wav|សាកល វិទ្យាល័យ បញ្ញាសាស្ដ្រ ធ្វើ បុណ្យ កតញ្ញូ ចំពោះ អ្នក មាន គុណ
+khmer-dataset-female/wavs/khm_8029_0895084292.wav|រេនេ ដេកាតស៍ ជា អ្នក ប្រាជ្ញ វ័យ ក្មេង ម្នាក់
+khmer-dataset-female/wavs/khm_8029_0969169351.wav|កិច្ច ប្រតិបត្តិការ ដែល មាន កិច្ច ធានា
+khmer-dataset-female/wavs/khm_8029_0990558582.wav|អេចឌីធីវី  ជា ឈ្មោះ កម្មវិធី ទូរទស្សន៍
+khmer-dataset-female/wavs/khm_8029_1002368927.wav|មនុស្ស យ៉ាង តិច បី នាក់ ស្លាប់ ដោយសារ ឆេះ ក្លឹប នៅ ចាក់អង្រែ ក្រោម
+khmer-dataset-female/wavs/khm_8029_1020765252.wav|ការ ប្រលង ឆមាស លើក ទី ពីរ ក្នុង សាលា បច្ចេកទេស ដុនបូស្កូ
+khmer-dataset-female/wavs/khm_8029_1028940636.wav|សកម្មភាព សេដ្ឋកិច្ច តំបន់ អាស៊ីប៉ាស៊ីហ្វិក មាន ការ កើន ឡើង
+khmer-dataset-female/wavs/khm_8029_1062001549.wav|គ្រប់ ប្រទេស ទាំង អស់ ត្រូវ ពង្រឹង ការ គោរព សិទ្ធិមនុស្ស
+khmer-dataset-female/wavs/khm_8029_1081125855.wav|កាល ប្រវត្តិ វិទ្យា ប្រទេស កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_1096957161.wav|ឱម ណាគ្រី បាន ចូលរួម បទ សម្ភាសន៍ នៅ ផ្សារ ទំនើប អេអន
+khmer-dataset-female/wavs/khm_8029_1153664112.wav|រៀន សេដ្ឋកិច្ច និង ច្បាប់ នៅ សាលា រូល
+khmer-dataset-female/wavs/khm_8029_1176703074.wav|លាប ឡេ ហ្នឹង ទៅ មាន អារម្មណ៍ ថា ដូចជា ឃ្មិល មុខ
+khmer-dataset-female/wavs/khm_8029_1209561458.wav|ហ្សូណូ បាន ចូល លេង កម្មវិធី ពេញចិត្ត ឬ អត់
+khmer-dataset-female/wavs/khm_8029_1271216707.wav|ការ បង្កើត រោងចក្រ ស្រាបៀរ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_1280072290.wav|បុងហ្ស៊ួ មាន ន័យ ថា ចាប់ ដៃ រលាក់
+khmer-dataset-female/wavs/khm_8029_1317440348.wav|នាយ គ្រឿន បាន ចូលរួម សម្ដែង ក្នុង រឿង ភូមិ អត់ មនុស្ស
+khmer-dataset-female/wavs/khm_8029_1400136817.wav|ការ ត្រួត ពិនិត្យ ស្ថានភាព ខាង ក្រៅ
+khmer-dataset-female/wavs/khm_8029_1423692761.wav|ខួប ព្រះ មហា ក្សត្រ នរោត្តម សីហមុនី
+khmer-dataset-female/wavs/khm_8029_1437474470.wav|កំពុង ប្រព្រឹត្ត ទៅ នៅ វត្ត សំបួរមាស ខណ្ឌ ដង្កោរ
+khmer-dataset-female/wavs/khm_8029_1541123801.wav|លីអូណាដូ ដាវីន ស៊ី ជា វិចិត្រករ ដៃ ឯក
+khmer-dataset-female/wavs/khm_8029_1604173457.wav|កែវ តារា ភព មាន សំបុរ ស្រអែម ប៉ុន្តែ សង្ហារ
+khmer-dataset-female/wavs/khm_8029_1611150059.wav|កា វិនិយោគ នៅ តំបន់ សេដ្ឋកិច្ច ពិសេស
+khmer-dataset-female/wavs/khm_8029_1617246369.wav|ជន ជាតិ ភាគ តិច កួយ បី ភូមិ នៅ ឃុំ ប្រមេរ ស្រុក ត្បែងមានជ័យ ខេត្ត ព្រះវិហារ
+khmer-dataset-female/wavs/khm_8029_1617484261.wav|ព្រះ អង្គ ឌួង ជា ព្រះ មហា ក្សត្រ របស់ ខ្មែរ
+khmer-dataset-female/wavs/khm_8029_1636406674.wav|ហ្សាមហ្សារ ជា ភោជនីយដ្ឋាន បរទេស នៅ ទួលគក
+khmer-dataset-female/wavs/khm_8029_1667995671.wav|នាយ វ៉ាងដឺ មាន កេរ្តិ៍ ឈ្មោះ ល្បី ជាង ឪពុក របស់ ខ្លួន
+khmer-dataset-female/wavs/khm_8029_1670362603.wav|ក្រុម ប្រឹក្សា អាជ្ញា កណ្ដាល កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_1670384092.wav|សារឿប និង យឿប ទៅ កំសាន្ត នៅ ភ្នំ បូកគោ
+khmer-dataset-female/wavs/khm_8029_1743690304.wav|ស៊ីវហ្គិច និយាយ ចិន ឡើង រូ
+khmer-dataset-female/wavs/khm_8029_1868928672.wav|ក្រុម បាល់ទាត់ ជម្រើស ជាតិ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_1909568786.wav|ក្រុង បាត់ដំបង នឹង រៀបចំ តំបន់ ដើរ កម្សាន្ត
+khmer-dataset-female/wavs/khm_8029_1940295032.wav|ក្រសួង ក្នុង ព្រះ រាជាណាចក្រ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_2030853985.wav|មុខរបរ ជា កម្មករ រោងចក្រ ស្នាក់នៅ ផ្ទះ ជួល ម្ដុំ សួន កាណាឌីយ៉ា
+khmer-dataset-female/wavs/khm_8029_2114790766.wav|ការ គ្រប់គ្រង ហានិភ័យ ហិរញ្ញ វត្ថុ
+khmer-dataset-female/wavs/khm_8029_2150363051.wav|ហ៊ុន ទៀន ជា ស្តេច ដំបូង គេ បង្អស់ របស់ នគរ ភ្នំ
+khmer-dataset-female/wavs/khm_8029_2264919634.wav|មហា វិថី ព្រះ សុរាម្រិត មាន ភាព ស្ងប់ស្ងាត់ ពេល បុណ្យ ភ្ជុំ បិណ្ឌ
+khmer-dataset-female/wavs/khm_8029_2266615774.wav|ការ អភិវឌ្ឍន៍ វិស័យ វិនិយោគ នៅ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_2280125830.wav|ថ្ងៃ បូជា ព្រះ បរមសព សម្ដេច ឪ នៅ វាល មេរុ ត្រូវ បាន កំណត់
+khmer-dataset-female/wavs/khm_8029_2317949377.wav|ហ្ស៊កដានី ជា ឈ្មោះ ប្រទេស មួយ អឺរ៉ុប
+khmer-dataset-female/wavs/khm_8029_2321897481.wav|កត្តា នាំ ឱ្យ ទទួល ជោគជ័យ ក្នុង មុខ ជំនួញ
+khmer-dataset-female/wavs/khm_8029_2368352983.wav|ការ ទទួល ខុស ត្រូវ ផ្នែក ព្រហ្មទណ្ឌ
+khmer-dataset-female/wavs/khm_8029_2395374325.wav|មន្ត្រី អង្គការ ក្រៅ រដ្ឋាភិបាល បាន ដាក់ ពាក្យ បណ្ដឹង ទៅ តុលាការ ខេត្ត ក្រចេះ
+khmer-dataset-female/wavs/khm_8029_2594014287.wav|មជ្ឈមណ្ឌល កំសាន្ត ឌីអេហ្គោ
+khmer-dataset-female/wavs/khm_8029_2626931573.wav|ពូ ញួញ ទិញ ញញួរ នៅ អ៊ីម៉ាញូល
+khmer-dataset-female/wavs/khm_8029_2633782438.wav|លោក រ៉ូប៊ើត ជា តារា ភាពយន្ត ដ៏ មាន ប្រជាប្រិយភាព
+khmer-dataset-female/wavs/khm_8029_2661415446.wav|សុខ សីឡាលីន បាន បាត់ ពី សិល្បៈ
+khmer-dataset-female/wavs/khm_8029_2806206175.wav|អភិបាល ខេត្ត កំពង់ឆ្នាំង សំណេះសំណាល ជាមួយ និស្សិត
+khmer-dataset-female/wavs/khm_8029_2810162453.wav|សិប្បកម្ម ផលិត ក្រដាស គ្មាន ស្លាក យីហោ ក្បែរ វត្ត មហា មន្ត្រី
+khmer-dataset-female/wavs/khm_8029_2818624602.wav|ក្រុម ប្រឹក្សា សន្តិសុខ អន្តរជាតិ
+khmer-dataset-female/wavs/khm_8029_2818932411.wav|គ្រីស្ត៍ម៉ាស់ ជា ពិធី បុណ្យ ដ៏ ធំ មួយ នៅ អឺរ៉ុប
+khmer-dataset-female/wavs/khm_8029_2830360032.wav|ក្រុម សិល្បៈ ជួប គ្រោះថ្នាក់ ចរាចរណ៍
+khmer-dataset-female/wavs/khm_8029_2837398059.wav|ឱក សុគន្ធ កញ្ញា មាន អ្នក គាំទ្រ ច្រើន ជាង តារា ចម្រៀង ដទៃ
+khmer-dataset-female/wavs/khm_8029_2851518149.wav|សេដ្ឋា រស់នៅ ខេត្ត កោះកុង
+khmer-dataset-female/wavs/khm_8029_2874232462.wav|ការ ចិញ្ចឹម ជ្រូក ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_2932029305.wav|កំលោះ ញ៉ិមញ៉ុម ក្រមុំ ញ៉េវញ៉ាវ
+khmer-dataset-female/wavs/khm_8029_3012073281.wav|ការ ប្រែប្រួល អាកាសធាតុ នៅ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_3070049476.wav|ការ ចិញ្ចឹម ជ្រូក ជា លក្ខណៈ គ្រួសារ
+khmer-dataset-female/wavs/khm_8029_3090746499.wav|អ្នកស្រី អ៊ុក សុផា ជា សាស្ត្រាចារ្យ នៃ សកល វិទ្យាល័យ ភូមិន្ទ វិចិត្រសិល្បៈ
+khmer-dataset-female/wavs/khm_8029_3157104880.wav|សឿ សុធារ៉ា បាន បង្កើត កូន ស្រី ដ៏ ស្រស់ ស្អាត ម្នាក់
+khmer-dataset-female/wavs/khm_8029_3195169308.wav|លោក អៀង ស៊ីធុល ជា ព្រឹទ្ធាចារ្យ សិល្បៈ បុរាណ ខ្មែរ
+khmer-dataset-female/wavs/khm_8029_3232080872.wav|កម្មវិធី ព័ត៌មាន ស្ត្រី នៅ កម្ពុជា
+khmer-dataset-female/wavs/khm_8029_3265475707.wav|កម្លាំង សមត្ថកិច្ច និង កម្មករ កំពុង ប្រឈមមុខ ដាក់ គ្នា ក្នុង ចម្ងាយ មួយ ម៉ែត្រ នៅ ស្ពាន ស្ទឹងមានជ័យ
+khmer-dataset-female/wavs/khm_8029_3286427518.wav|កំនើន ប្រជា ជន ប៉ះពាល់ ដល់ ការ អប់រំ
+khmer-dataset-female/wavs/khm_8029_3320059490.wav|ប៉ីប៉ីលី បាន រក ចំណូល យ៉ាង ច្រើន តាម រយៈ ហ្វេសប៊ុក
+khmer-dataset-female/wavs/khm_8029_3341222638.wav|ឈៀហ្វូល ជួសជុល និង ដំឡើង កម្មវិធី ទូរសព្ទ ដៃ
+khmer-dataset-female/wavs/khm_8029_3398653315.wav|កាបូប លុយ អ្នក ដំណើរ នៅ ព្រលាន យន្តហោះ
+khmer-dataset-female/wavs/khm_8029_3430499235.wav|ការ វាយ តំលៃ ការ អនុវត្តន៍ របស់ ធនាគារ
+khmer-dataset-female/wavs/khm_8029_3441081588.wav|ហេង ពិទូ មិន យក លំនាំ តាម បទ ចម្រៀង គេ ទេ
+khmer-dataset-female/wavs/khm_8029_3485624718.wav|កញ្ញា គ្រាប់ កាហ្វេ កូន ទា រូប អាក្រក់
+khmer-dataset-female/wavs/khm_8029_3497077331.wav|កីឡា ករ វ៉ន វីវ៉ា មាន កំពស់ ខ្ពស់ ជាង គេ នៅ ស្រុក ខ្មែរ
+khmer-dataset-female/wavs/khm_8029_3531948921.wav|ការ ថែទាំ ទារក នៅ ក្នុង ផ្ទៃ របស់ ម្តាយ
+khmer-dataset-female/wavs/khm_8029_3575980813.wav|ស្ពាន អាកាស ក្បាល ថ្នល់ ជួយ សម្រួល ចរាចរ បាន ច្រើន
+khmer-dataset-female/wavs/khm_8029_3582253530.wav|កម្ពុជា ក្នុង សម័យ អាណានិគម បារាំង
+khmer-dataset-female/wavs/khm_8029_3595778401.wav|អឺហ្សែន ជា ឈ្មោះ បុរស ម្នាក់ ដែល ល្បី ពេញ ហ្វេសប៊ុក
+khmer-dataset-female/wavs/khm_8029_3606549847.wav|ពិធី ការិនី សម្តី ផ្អែម ខៀវ សាន សាណា បាន ឃ្លាត ឆ្ងាយ ពី សិល្បៈ
+khmer-dataset-female/wavs/khm_8029_3615910170.wav|លីអូណាដូ ដាវីន ស៊ី ជា មនុស្ស មាន គំនិត ច្នៃប្រឌិត តាំងពី នៅ ក្មេង
+khmer-dataset-female/wavs/khm_8029_3629031349.wav|ជន រង គ្រោះ បាន ចូល មក តាម ច្រក អន្តរជាតិ ពោធិចិនតុង
+khmer-dataset-female/wavs/khm_8029_3631477103.wav|នាយ ចឺម ជា តារា ចម្រៀង នៅ ផលិតកម្ម សាន់ដេ
+khmer-dataset-female/wavs/khm_8029_3632267291.wav|ក្រុង ប៉ោយប៉ែត នឹង ខ្វះ ទឹក ស្អាត ប្រើ ចាប់ ពី សប្តាហ៍ ក្រោយ ទៅ
+khmer-dataset-female/wavs/khm_8029_3661462396.wav|ក្រម នីតិ វិធី ព្រហ្មទណ្ឌ អន្តរកាល
+khmer-dataset-female/wavs/khm_8029_3664700399.wav|លោក ខេហ្គ ជា អ្នក ជំនួញ មាន ទ្រព្យសម្បត្តិ ច្រើន
+khmer-dataset-female/wavs/khm_8029_3673146837.wav|ញូវហ្គីណេ ជា ហាង លក់ ផលិតផល ទំនើប
+khmer-dataset-female/wavs/khm_8029_3694947460.wav|អាន វិសាល មិន បាន ចេញ បទ ចម្រៀង ថ្មី ទេ នៅ ឆ្នាំ នេះ
+khmer-dataset-female/wavs/khm_8029_3717407303.wav|ច្បាប់ អចលនទ្រព្យ មាន សុពលភាព ចាប់ ពី ថ្ងៃ នេះ តទៅ
+khmer-dataset-female/wavs/khm_8029_3721811432.wav|មាន ភ្ញៀវ ទេសចរណ៍ ជា ច្រើន ទៅ ទស្សនា ប្រាសាទ អង្គរធំ
+khmer-dataset-female/wavs/khm_8029_3764264370.wav|នាង ស្វែង សុជាតា បាន ធ្វើ អោយ មាន ការ ភ្ញាក់ ផ្អើល កើត ឡើង នៅ ពេល ឃើញ នាង កោរ សក់
+khmer-dataset-female/wavs/khm_8029_3782712579.wav|ខុស ខ្លាំង មែន ទេ ដែល អូន នៅ ស្រលាញ់ បង
+khmer-dataset-female/wavs/khm_8029_3789523540.wav|សៀវភៅ គណិត វិទ្យា បែង ចែក ជា ពីរ គឺ គណិត វិទ្យា និង ធរណីមាត្រ
+khmer-dataset-female/wavs/khm_8029_3876217387.wav|អេឡិច ចាន់ត្រា បាន បន្ត ការ សិក្សា នៅ សាកល វិទ្យាល័យ បៀលប្រាយ
+khmer-dataset-female/wavs/khm_8029_3909250250.wav|អាហ្វហ្គានីស្ថាន ជា ប្រទេស ដែល ញាំញី ដោយ សង្គ្រាម
+khmer-dataset-female/wavs/khm_8029_3913373211.wav|ស៊ុំ សុម៉ាលី បាន បង្ហាញ ស្នាដៃ តាម រយៈ ខ្សែ ភាពយន្ត នាង កាកី
+khmer-dataset-female/wavs/khm_8029_3977247891.wav|នាយ គ្រឿន ជា តារា កំប្លែង ស្ងួត
+khmer-dataset-female/wavs/khm_8029_4098322154.wav|នាយ ប៊ូម ជា តារា កំប្លែង មិន សូវ ល្បី
+khmer-dataset-female/wavs/khm_8029_4110117399.wav|ខៀវ សាន សាណា និង តាប៊ុយ មាន ទំនាក់ទំនង ស្អិត រមួត ក្រៅ ឆាក
+khmer-dataset-female/wavs/khm_8029_4156286709.wav|ស្រី តូច ចំណាន ធ្វើ ឱ្យ ស្រី ស្រី ក្នុង ប្រទេស កម្ពុជា ច្រណែន
+khmer-dataset-female/wavs/khm_8029_4208428249.wav|សូ សុភ័ក្ដ្រ បាន ចូលរួម ពិធី មង្គលការ របស់ បង ស្រី ខ្ញុំ
+khmer-dataset-female/wavs/khm_8029_4231265904.wav|ព្រះ អង្គ ក៏ បញ្ជា ឱ្យ លើក រាជធានី ពី ទួល បាសាន ទៅ ចតុមុខ វិញ
+khmer-dataset-female/wavs/khm_8029_4263763652.wav|ឃុំ បែកចាន ស្រុក អង្គស្នួល ខេត្ត កណ្ដាល
+khmer-dataset-female/wavs/khm_8029_4267671361.wav|ទឹកដី ខេត្ត សៀមរាប ជា តំបន់ រាជធានី របស់ ចក្រភព ខ្មែរ
+khmer-dataset-female/wavs/khm_8029_4278274589.wav|ការ ប្រើប្រាស់ កម្មវិធី កុំព្យូទ័រ

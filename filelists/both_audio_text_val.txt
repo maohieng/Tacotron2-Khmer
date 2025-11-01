@@ -1,0 +1,1020 @@
+khmer-dataset/wavs/kh_atr_m001_a3316.wav|ខ្ញុំ រកឃើញ ថា មាន របស់ ក្លែងក្លាយ ដាក់ លាយ ជាមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3317.wav|ខ្ញុំ ឈឺ ពោះ ហើយ មាន អារម្មណ៍ ថា អត់ ស្រួលខ្លួន ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3318.wav|វា កើនឡើង ភ្លាម ភ្លាម ហើយ គាត់ មិន អាច ធ្វើ វា បាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3319.wav|ពួកយើង មាន ទឹកក្រូច កូកាកូឡា ទឹក រសជាតិ ខ្ញី និង ស្រាបៀរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3320.wav|ប្រសិនបើ ភោជនីយដ្ឋាន នេះ ត្រូវបាន កក់ អស់ ហើយ សូម ចាំ មក នៅ ថ្ងៃអាទិត្យ ឬ ថ្ងៃច័ន្ទ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3321.wav|យើង មាន ការសោកស្ដាយ យ៉ាង ខ្លាំង ចំពោះ កំហុស របស់ យើង ។ យើង នឹង ជួសជុល វា ឥឡូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3322.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង មិន ដក ធ្មេញ នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3323.wav|ខ្ញុំ ចង់ ភ្លក់ ម្ហូប បារាំង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3324.wav|ប្រហែលជា ប្រាំមួយ ឬ ប្រាំពីរ ឆ្នាំ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3325.wav|នៅ ពេល ដែល អ្នក មិន ដឹង អ្នក អាច សួរ នរណា ម្នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3326.wav|ខ្ញុំ ឈឺ ក្រពះ តាំងតែពី យប់ មិញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3327.wav|នៅ រដូវ រងា មាន ធ្លាក់ ព្រិល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3328.wav|ខ្ញុំ គិត ថា ខ្ញុំ ទទួលបាន លេខ ទូរស័ព្ទ ខុស ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3329.wav|ខ្ញុំ ពិត ជា រីករាយ ណាស់ ដែល អ្នក អាច ចូលរួម បាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3330.wav|ជា មួយ នឹង កាត ឥណទាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3331.wav|ខ្ញុំ ចង់បាន បន្ទប់ មួយ សំរាប់ មនុស្ស ពីរ នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3332.wav|សូម ទូរសព្ទ មក ខ្ញុំ នៅ ម៉ោង ប្រាំពីរ ព្រឹក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3333.wav|បាទ នាង បាន ទទួល វា នៅ កៅអី ខាងក្រោយ ជាមួយនឹង នាង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3334.wav|ខ្ញុំ ចង់ឱ្យ អ្នក បំពេញ វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3335.wav|ខ្ញុំ ច្បាស់ ថា ខ្ញុំ បាន បញ្ជាក់ ជើងហោះហើរ នេះ រួចហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3336.wav|ថ្លៃ ធ្វើដំណើរ ត្រូវបាន បង្ហាញ នៅលើ ក្តារ ខៀន នៅឯ ស្ថានីយ៍ នីមួយ នីមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3337.wav|សូម ឱ្យ ថ្នាំ ខ្លះ មក ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3338.wav|នោះ នឹង ល្អ ឥត ខ្ចោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3339.wav|ខ្ញុំ ស្ដាប់ អ្នក មិន ឮ ទេ ។ ពួកយើង មាន សេវា មិន ល្អ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3340.wav|ខ្ញុំ ចង់ឱ្យ អ្នក ផ្ញើ កញ្ចប់ នេះ មក ខ្ញុំ ឱ្យ បាន ឆាប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3341.wav|សូម បញ្ចូល ហ្កាស ដែក កេស ឱ្យ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3342.wav|យើង មាន ម៉ូតូ កង់ បី រ៉ឺម៉ក និង ម៉ូតូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3343.wav|ខ្ញុំ ចង់បាន ក្រមា មួយចំនួន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3344.wav|ខ្ញុំ ចង់ ដើរកម្សាន្ត កន្លះ ថ្ងៃ ។ ខ្ញុំ ត្រូវ ត្រឡប់ មកវិញ នៅ ម៉ោង ពីរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3345.wav|ខ្ញុំ ចង់ ផ្ញើ តាម បញ្ញើ ពិសេស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3346.wav|ទេ យើង នឹង ហូប ពេល ដែល យើង ត្រឡប់ ទៅ វិញ ។ ប៉ុន្តែ ប្រសិនបើ ពួកគេ ឃ្លាន សូម ហូប អាហារ សម្រន់ នៅក្នុង ផ្ទះ បាយ សិន ទៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3347.wav|ខ្ញុំ គិត ថា វា ធ្វើឱ្យ ខ្ញុំ មើលទៅ ក្មេង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3348.wav|ខ្ញុំ ចង់ ចុះឈ្មោះ លេង ប៉េតង់ ។
+khmer-dataset/wavs/kh_atr_m001_a3349.wav|ខ្ញុំ ចង់ បង់ប្រាក់ ចេញ ឥឡូវនេះ ។ បន្ទប់ របស់ ខ្ញុំ គឺ លេខ ពីរ សូន្យ ប្រាំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3350.wav|ទេ យើង ក៏ ទទួល ការកុម្ម៉ង់ តាមរយៈ ការស្នើ របស់ អ្នក ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3351.wav|ខ្ញុំ ឈ្មោះ តាណាកា នៅ បន្ទប់ លេខ ប្រាំ រយ ដប់ ប្រាំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3352.wav|យើង បាន ដុត ដំឡូង និង ស្ងោ ដំឡូង នៅ យប់ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3353.wav|ខ្ញុំ ចង់ ចុះឈ្មោះ ធ្វើដំណើរកំសាន្ត ទៅ មើល ទឹក ធ្លាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3354.wav|ខ្ញុំ ត្រូវការ កៅអី ពីរ សម្រាប់ ជើងហោះហើរ នៅ ម៉ោង ប្រាំពីរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3355.wav|ពួកយើង នឹង មាន ពិធី ជប់លៀង តូច មួយ នៅ ផ្ទះ របស់ ខ្ញុំ នៅ អាទិត្យ ក្រោយ ។ ខ្ញុំ សង្ឃឹម ថា អ្នក អាច មក ជាមួយនឹង គ្រួសារ របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3356.wav|កុំ បារម្ភ អី ។ យើង នៅ មាន ពេល ដប់ ប្រាំ នាទី ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3357.wav|ដៃគូ របស់ ខ្ញុំ ទទួលរង ការឈឺចាប់ យ៉ាង ខ្លាំង ក្នុង ក្រពះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3358.wav|ខ្ញុំ ឈឺ ក្បាល ខ្លាំង ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3359.wav|យើង នឹង មាន ពិធី ជប់លៀង ញ៉ាំ ស្រា ក្រឡុក នៅ ផ្ទះ របស់ យើង នៅ ជាន់ ទី ដប់ មួយ នៅ ម៉ោង បី រសៀល ។ បើ អ្នក ទំនេរ ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង អញ្ជើញ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3360.wav|យើង នឹង ទៅដល់ សាមសិប នាទី មុនពេល កំណត់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3361.wav|ខ្ញុំ ចង់បាន ថ្នាំ បំបាត់ ក្អក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3362.wav|ខ្ញុំ ចង់ ទូរសារ ទៅ ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3363.wav|ខ្ញុំ ចង់ ផ្ញើ របស់ នេះ ទៅ ឱ្យ សាស្ត្រាចារ្យ ដឹកនាំ របស់ ខ្ញុំ ។
+khmer-dataset/wavs/kh_atr_m001_a3364.wav|ខ្ញុំ គិត ថា វា ដូចជា តឹង ពេក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3365.wav|កុំ បារម្ភ អី ខ្ញុំ នឹង មើល វា ឱ្យ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3366.wav|កុំ ធ្វើ ចលនា សាច់ដុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3367.wav|អ្នកគ្រប់គ្រង បាន មក ប្រជុំ យឺត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3368.wav|ខ្ញុំ ភ្លេច ម៉ាស៊ីន ថត រូប នៅក្នុង ឡាន តាក់ស៊ី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3369.wav|ពួកយើង មិន ទាន់ សម្រេចចិត្ត ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3370.wav|អូខេ ! រីករាយ ថ្ងៃ ឈប់ សម្រាក ណា លា ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3371.wav|បាទ ខ្ញុំ នឹង ឱ្យ អ្នកបំរើ ឡើង ទៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3372.wav|ខ្ញុំ សិក្សា ផ្នែក គីមីវិទ្យា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3373.wav|យើង ទើបតែ មាន កូន មួយ កាលពី ឆ្នាំ ទៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3374.wav|បាទ ពួកយើង មាន ពីរ ។ វា ជា ការធ្វើដំណើរ លក្ខណៈ គ្រួសារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3375.wav|ខ្ញុំ ឈឺ ខ្លាំង ណាស់ ។ សូម ហៅ វេជ្ជបណ្ឌិត ឱ្យ ខ្ញុំ ផង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3376.wav|ខ្ញុំ ចង់ ផ្ញើ កញ្ចប់ ឥវ៉ាន់ នេះ ទៅ ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3377.wav|វា លើស លុយ ដែល ខ្ញុំ មាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3378.wav|ខ្ញុំ ចង់ ផ្ញើ សំបុត្រ នេះ ទៅ តាម យន្ដហោះ ទៅកាន់ ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3379.wav|នៅ ម៉ោង មួយ ម្ភៃ នាទី ។ វា នឹង ចេញ ទៅ ទាន់ ម៉ោង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3380.wav|នេះ គឺ បន្ទប់ បី ដប់ ប្រាំ ។ ខ្ញុំ ចង់ឱ្យ ដាស់ ខ្ញុំ នៅ ថ្ងៃស្អែក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3381.wav|ខ្ញុំ ឈ្មោះ ចាន់ថា រស្មី ។ ខ្ញុំ នឹង ចាំ នៅ ការិយាល័យ ពេល អ្នក មក ទីនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3382.wav|វា មិន មាន សុជីវធម៌ ទេ ដែល ពិសារ អាហារ ឮ សូរ អញ្ចឹង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3383.wav|ខ្ញុំ ចង់ ប្ដូរ ការកក់ របស់ ខ្ញុំ ទៅ ថ្ងៃទី ម្ភៃ ខែឧសភា វិញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3384.wav|ខ្ញុំ ចាំ រថភ្លើង ល្បឿន លឿន នៅ ប្រាំ នាទី បន្ទាប់ ។
+khmer-dataset/wavs/kh_atr_m001_a3385.wav|ទេ អ្នក ទៅ បញ្ច្រាស ហើយ ត្រឡប់ ទៅ ក្រោយ វិញ ពីរ ផ្លូវ តាម ផ្លូវ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3386.wav|អ្នក អាច ឃើញ វា ប្រសិនជា អ្នក ទៅ កែង នោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3387.wav|នាង គឺជា និស្សិត នៃ មហាវិទ្យាល័យ បច្ចេកវិទ្យា ព័ត៌មាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3388.wav|ពួក ខ្ញុំ ចង់ អង្គុយ ក្បែរ បង្អួច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3389.wav|មិន មាន ចាន បារី ទេ ។ សូម យកមក ឥលូវ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3390.wav|ជា ការពិត ណាស់ ។ សូម ចូលទៅ ខាងមុខ និង ចុះហត្ថលេខា លើ វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3391.wav|ខ្ញុំ នឹង ទៅ នៅ ព្រឹក ថ្ងៃស្អែក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3392.wav|វា ជា បន្ទប់ ដែល មាន តម្លៃ សមរម្យ បំផុត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3393.wav|ខ្ញុំ ពិត ជា ចង់ ត្រឡប់ មកវិញ នៅ ថ្ងៃ ណាមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3394.wav|តោះ ! ទៅ ឡើងជិះ នៅ ផ្លូវ ធំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3395.wav|អាប់ ប្រាក់ ច្រឡំ ហើយ ។ សូម ពិនិត្យ ម្ដង ទៀត ។
+khmer-dataset/wavs/kh_atr_m001_a3396.wav|វា មិន ចាំបាច់ នោះ ទេ ពេល ដែល មិន ទាន់ ដល់ កំណត់ ដែល ត្រូវ បង់ ពន្ធ ប៉ុន្តែ ខ្ញុំ សូម ណែនាំ ឱ្យ អ្នក ប្រកាស ដើម្បី ងាយស្រួល ក្នុង ការទូទាត់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3397.wav|ពួកយើង មាន សាច់ មាន់ អាំង យ៉ាង ឆ្ងាញ់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3398.wav|នេះ ជា លិខិត ឆ្លង ដែន និង កាត ឥណទាន របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3399.wav|ដូច្នេះ ខ្ញុំ នឹង ផ្ញើ អ៊ីមែល ទៅ អ្នក ព្រោះ វា អស់ លុយ តិច ហើយ លឿន ជាង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3400.wav|ខ្ញុំ ចង់ ផ្អាក ជើងហោះហើរ ពី ទីក្រុង តូក្យូ របស់ ខ្ញុំ នៅ ថ្ងៃទី បួន ខែកុម្ភៈ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3401.wav|ខ្ញុំ នឹង ញ៉ាំ អាហារ ដូចគ្នា នឹង របស់ អ្នក ដែល នៅ តុ នោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3402.wav|ទេ យើង មិន ទាន់ ហើយ ទេ ។ សូម ចាំ មួយ សន្ទុះ ទៀត ។
+khmer-dataset/wavs/kh_atr_m001_a3403.wav|សូម ឱ្យ ពាក្យ សុំ ទូរលេខ មួយ ច្បាប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3404.wav|អធ្យាស្រ័យ ខ្ញុំ ចង់ ប្ដូរ លុយ ដុល្លារ ទៅជា លុយ យ៉េន របស់ ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3405.wav|សូម ឱ្យ ពាក្យ សុំ ទូរលេខ ម្ដង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3406.wav|សុំទោស ខ្ញុំ រក កាបូប មិន ឃើញ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3407.wav|ពួកយើង មាន តែ ទំហំ លេខ ប្រាំបី ប៉ុណ្ណោះ ឥលូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3408.wav|ពួកយើង មាន ប្រេង សម្រាប់ ត្រាំ ទឹក ប្រហែល សាមសិប ប្រភេទ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3409.wav|ជា ការពិត ណាស់ ខាងក្រោម នេះ អាច ត្រូវបាន ពង្រីក ឬ ធ្វើ កិច្ចសន្យា តាម តែ អ្នក ពេញចិត្ត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3410.wav|ថ្នាំ នេះ សម្រាប់ បំបាត់ ឈឺ ក្រពះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3411.wav|ថ្ងៃ នេះ គួរឱ្យ ធុញ ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3412.wav|ខ្ញុំ ចង់បាន សំបុត្រ ពេទ្យ និង វិក្កយបត្រ ។ ខ្ញុំ ត្រូវការ វា សម្រាប់ ការទាមទារ ធានារ៉ាប់រង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3413.wav|ខ្ញុំ ចង់ ទិញ ហ្វ៊ីល ភ្លឺ ច្បាស់ ម៉ាក កូដាក ទំហំ សាមសិប ប្រាំមួយ អ៊ិចស្ប៉ូស័រ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3414.wav|ខ្ញុំ ចង់ឱ្យ បោក ខោអាវ ទាំង នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3415.wav|ខ្ញុំ សុំទោស ផង ខ្ញុំ មាន ការណាត់ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3416.wav|ធ្មេញ ខាងមុខ មួយ របស់ គាត់ មើលទៅ ទំនងជា បង្កឱ្យ ឈឺចាប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3417.wav|ចាំ មួយ ភ្លែត ។ ខ្ញុំ នឹង ប្រាប់ លោក វិចិត្រ ថា លោក មកដល់ ។ សុំទោស សូម ចាំ មួយ ភ្លែត ។ គាត់ កំពុង ជាប់ ប្រជុំ ។ ប៉ុន្តែ គាត់ នឹង មក ឥឡូវនេះ ហើយ ។ សូមអញ្ជើញ អង្គុយ លោក ស៊ីថាវ៉ាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3418.wav|គាត់ មាន អាយុ ប្រាំ ឆ្នាំ ដែល រៀន ជា ភាសា ខ្មែរ ។
+khmer-dataset/wavs/kh_atr_m001_a3419.wav|សុំទោស ឥលូវ នេះ នាង មិន នៅ ខាងក្នុង ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3420.wav|សូម លុប ប័ណ្ណ ឥណទាន របស់ ខ្ញុំ ចោល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3421.wav|សូម អនុញ្ញាតឱ្យ ខ្ញុំ បញ្ចប់ សិន អ្នក នឹង ឃើញ ពី គុណសម្បត្តិ នៃ ផលិតផល របស់ យើង ដែល ត្រូវ ផ្ដល់ ជូន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3422.wav|ខ្ញុំ ចង់ រៀន វគ្គ ជិះ ស្គី នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3423.wav|ខ្ញុំ សុំទោស ។ កៅអី តាម ផ្លូវ ដើរ ពេញ អស់ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3424.wav|ខ្ញុំ ស្រឡាញ់ អ្នក បំផុត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3425.wav|ជា មួយ លុយ សុទ្ធ ។ ជា ប្រាក់ រៀល ខ្មែរ ។
+khmer-dataset/wavs/kh_atr_m001_a3426.wav|ខ្ញុំ ចង់បាន កៅអី មួយ សម្រាប់ ការហោះហើរ របស់ អ្នក ទៅ តូក្យូ នៅ ថ្ងៃទី ដប់ ប្រាំបី ខែសីហា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3427.wav|ប្រធាន ក្រុម និង អាកាសយានិក សូមស្វាគមន៍ អ្នក ដែល បាន ឡើងជិះ ជើងហោះហើរ នេះ ហើយ យើង នឹង ចាកចេញ ពី ព្រលានយន្តហោះ អន្តរជាតិ ណារីតា ក្នុង ពេល ឥឡូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3428.wav|ខ្ញុំ សុំទោស បន្ទប់ របស់ យើង ទាំងអស់ ពេញ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3429.wav|ខ្ញុំ ពុំ មាន ឥវ៉ាន់ ដើម្បី ត្រួតពិនិត្យ នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3430.wav|គាត់ មាន កំពស់ ប្រហែល មួយ រយ ចិតសិប សង់ទីម៉ែត្រ ហើយ ទំពែក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3431.wav|ខ្ញុំ សុំទោស បន្ទប់ ផ្សេង ផ្សេង របស់ យើង ទាំងអស់ ពេញ ហើយ ថ្ងៃ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3432.wav|ពីព្រោះ ឥឡូវនេះ យើង កំពុង ស្ថិត នៅ រដូវកាល អូបុង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3433.wav|ខ្ញុំ ចង់ ផ្ញើ កញ្ចប់ ឥវ៉ាន់ នេះ តាម រីជីស្ទ័រ មែល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3434.wav|យ៉ាងហោចណាស់ ដប់ ប្រាំបី ដង ។ ការហោះហើរ នេះ គឺ នៅ ថ្ងៃត្រង់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3435.wav|ខ្ញុំ ពុំ ដឹង ថា មាន បញ្ហា ឡើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3436.wav|មិន អី ទេ អរគុណ ។ ខ្ញុំ លែង ចង់ បាន វា ទៀត ហើយ ។
+khmer-dataset/wavs/kh_atr_m001_a3437.wav|ខ្ញុំ ចង់បាន ឡាម កោរ ពុក មាត់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3438.wav|ខ្ញុំ ចង់ មើល ឡាន មុននឹង ជួល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3439.wav|សូម ឱ្យ ទូរស័ព្ទ សំរាប់ ហៅ រយៈចំងាយ ឆ្ងាយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3440.wav|ចាំ ពេល ក្រោយ ចុះ ។ ឥឡូវ យើង ត្រូវ ទៅ វិញ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3441.wav|សុំ សំបុត្រ ធ្វើដំណើរ ទៅ សៀមរាប អង្គរ វត្ត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3442.wav|ខ្ញុំ សុំទោស ឈ្មោះ របស់ អ្នក មិន មាន ក្នុង កុំព្យូទ័រ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3443.wav|នេះ ជា ផាប់ស្ទ្រីត ។ យើង អាច រីករាយ បាន នៅ ទីនេះ ។
+khmer-dataset/wavs/kh_atr_m001_a3444.wav|សូម ឱ្យ ខ្ញុំ ដឹង បាន ច្បាស់ ផង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3445.wav|ខ្ញុំ បាន ធ្វើ ការកក់ នៅឯ ព្រលានយន្តហោះ មួយ ម៉ោង មុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3446.wav|ខ្ញុំ សុំទោស ខ្ញុំ នឹង យក ថ្មី ឱ្យ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3447.wav|វា មិន មែន ជា ផ្លែ ប៉ោម ទេ វា ជា ផ្លែ ប៉េស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3448.wav|ញ៉ាំ ថ្នាំ ពីរ គ្រាប់ នៅ មុនពេល ទទួលទាន អាហារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3449.wav|ខ្ញុំ ចង់ ខ្ចី ដោយ ប្រើ ប័ណ្ណ ឥណទាន របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3450.wav|សូម សំបុត្រ វិល ជុំ មួយ ទៅកាន់ ឈីកាហ្គោ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3451.wav|នៅ ពេល ដែល អ្នក ចង់ ចុះ នៅ ចំណត បន្ទាប់គ្រាន់តែ ចុច ប៊ូតុង រោទិ៍ នេះ ទៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3452.wav|តើ អាច ត្រឡប់មក សណ្ឋាគារ វិញ ក្នុង ពេល កំពុង ធ្វើដំណើរ ទស្សនកិច្ច បាន ទេ ? 
+khmer-dataset/wavs/kh_atr_m001_a3453.wav|នេះ ជា វត្ថុ ហាមឃាត់ ។ កុំ យក ចូល ក្នុង អង្គរ វត្ត ។
+khmer-dataset/wavs/kh_atr_m001_a3454.wav|នៅ ពេល ដែល អ្នក ចាកចេញ ពី ផ្លូវ ក្រោម ដី អ្នក នឹង ឃើញ អគារ ពាណិជ្ជកម្ម ធំ មួយ ។ នេះ ជា ផែនទី សម្គាល់ កន្លែង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3455.wav|នំ ប៉ាវ មួយ និង ទឹកក្រូច ច្របាច់ មួយ កែវ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3456.wav|ពីរ - មួយ - ប្រាំ ។ សូម ឱ្យ កាហ្វេ ពីរ កែវ និង ទឹកក្រូច មួយ កែវ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3457.wav|សូម ខ្ចប់ នំ ប៉ាវ មួយ និង កាហ្វេ មួយ កែវ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3458.wav|តោះ ជួបគ្នា នៅ បន្ទប់ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3459.wav|ខ្ញុំ សុំទោស ។ ខ្ញុំ ពុំ មាន អ្វី គ្រប់គ្រាន់ សម្រាប់ ខ្លួនឯង ទេ ឥឡូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3460.wav|វា មាន ប្រភេទ ដំណើរ ទេសចរណ៍ ជាច្រើន ដែល ខ្ញុំ ពិបាក ក្នុង ការជ្រើសរើស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3461.wav|ខ្ញុំ ចង់ កក់ មួយ យប់ នៅ ថ្ងៃទី ដប់ ខែតុលា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3462.wav|ភ្លើង ខាងមុខ ក៏ មិន ឆេះ ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3463.wav|ខ្ញុំ សុំទោស យើង ចង់ កុម្ម៉ង់ ឥឡូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3464.wav|ប្រសិនបើ មេឃ ភ្លៀង ពួកយើង នឹង ដើរ ទិញ ឥវ៉ាន់ ជំនួស ការដើរ មើល ទេសភាព ។ 
+khmer-dataset/wavs/kh_atr_m001_a3465.wav|ខ្ញុំ នឹង ទៅ រក អ្នកណា ម្នាក់ ដែល អាច និយាយ ភាសា អង់គ្លេស បាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3466.wav|ខ្ញុំ មិន ធ្វើ តាម អ្នក ទេ ។ វា ហាក់ ដូចជា មិន សមរម្យ សោះ ។
+khmer-dataset/wavs/kh_atr_m001_a3467.wav|ខ្ញុំ សុំទោស អ្នក តម្រូវឱ្យ បង់ បង់ប្រាក់ កក់ ជាមុន កៅសិប ប្រាំបួន ថ្ងៃ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3468.wav|ជា មួយ នឹង លុយ រាយ ខ្លះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3469.wav|ថ្ងៃ នេះ គួរ ឱ្យ ខ្លាច ។ ហេតុ អ្វី បាន ជា ស្ងាត់ ឈឹង ដូចនេះ ?
+khmer-dataset/wavs/kh_atr_m001_a3470.wav|អូខេ សូម ឱ្យ ប័ណ្ណ ប្រកាស នេះ ទៅ មន្ត្រី នៅ ច្រក ចេញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3471.wav|ខ្ញុំ ចង់ កក់ សំរាប់ ពីរ នាក់ នៅ ម៉ោង ប្រាំពីរ ល្ងាច នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3472.wav|ខ្ញុំ មក យក រូប ដែល ខ្ញុំ បាន ផ្ដិត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3473.wav|ខ្ញុំ សុំ ទឹក មួយ កែវ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3474.wav|ខ្ញុំ សុំទោស មិន មាន នរណា ម្នាក់ ចេះ និយាយ ភាសា ជប៉ុន ទេ ឥលូវនេះ សូម ទូរសព្ទ មក ម្ដង ទៀត នៅ ថ្ងៃស្អែក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3475.wav|គូប៉ុង នេះ និយាយ ថា ទិញ ពីរ គិត ថ្លៃ តែ មួយ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3476.wav|ខ្ញុំ ចង់បាន ជើង ទម្រ ម៉ាស៊ីន ថត ដែល មាន ជើង បី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3477.wav|នេះ គឺ សម្រាប់ អ្នក ។ ខ្ញុំ សង្ឃឹម ថា អ្នក ចូលចិត្ត វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3478.wav|ខ្ញុំ ចង់ កក់ ចំនួន បី យប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3479.wav|ប្រហែល ម្ភៃ ដុល្លារ និង កាត ឥណទាន មួយចំនួន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3480.wav|ខ្ញុំ ចាក់សោ ខ្លួនឯង នៅក្នុង ឡាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3481.wav|ខ្ញុំ ចង់ កក់ ពី ភ្នំពេញ ទៅ សៀមរាប នៅ ម៉ោង ដប់ សាមសិប នាទី ថ្ងៃ ទី ដប់ ប្រាំ ខែឧសភា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3482.wav|នៅ ពេល នេះ សូម អ្នក ប្រាកដ ថា ខ្សែក្រវាត់ កន្លែង អង្គុយ របស់ អ្នក ត្រូវបាន ដាក់ គន្លឹះ និង បញ្ចប់ ការជក់ បារី រហូត មាន សញ្ញា ឈប់ ហាម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3483.wav|វា ពិត ជា បន្ទប់ ដ៏ ស្ងប់ស្ងាត់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3484.wav|សូម ទុក ពេល ឱ្យ ពួកយើង បន្តិច ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3485.wav|ខ្ញុំ ត្រូវការ រាយការណ៍ ពី ការបាត់ ឯកសារ សំខាន់ សំខាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3486.wav|ខ្ញុំ ចង់ ធ្វើ ការកក់ ទៅ តូក្យូ នៅ ថ្ងៃ ដប់ ប្រាំ ខែឧសភា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3487.wav|ខ្ញុំ ពុំ ដែល ឃើញ ទេសភាព ពេល រាត្រី ណា ដែល ស្រស់ស្អាត បែប នេះ ឡើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3488.wav|នៅ ថ្ងៃ នេះ ខ្ញុំ បាន ស្ថិត នៅលើ ផ្លូវ រយៈពេល ប្រាំមួយ ម៉ោង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3489.wav|ខ្ញុំ ចង់បាន បន្ទប់ គ្រែ ពីរ ដែល មាន អាង ត្រាំ ទឹក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3490.wav|វា នឹង គួរឱ្យ ស្រលាញ់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3491.wav|ខ្ញុំ ចង់ ធ្វើ ការចុះបញ្ជី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3492.wav|ខ្ញុំ មិន មែន ជា ឧទាហរណ៍ ល្អ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3493.wav|ប្រហែល ប្រាំ រយ រៀល ឬមួយ រយ ដុល្លារ អាមេរិច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3494.wav|អាហារ ពេលព្រឹក របស់ ខ្ញុំ មិន ទាន់ មកដល់ ទេ ។ សូម យក វា មក ឥឡូវ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3495.wav|អ្នក ត្រូវបាន គេ អញ្ជើញ ឱ្យ ចូលក្នុង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3496.wav|ខ្ញុំ សុំទោស ខ្ញុំ ក៏ ជា មនុស្ស ចំណូល ថ្មី នៅ កន្លែង នេះ ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3497.wav|បុរស ទាំងនោះ បាន យក ប្រាក់ របស់ ខ្ញុំ ទាំងអស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3498.wav|យើង នឹង ទៅ ទស្សនា សារមន្ទីរ មួយចំនួន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3499.wav|បន្ទាប់ពី ពេល នោះ មក វណ្ណៈ អភិជន ចាប់ផ្ដើម គ្រប់គ្រង ទឹកដី និង ប្រជាជន របស់ គេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3500.wav|សូម ចាត់ទុក ដូចជា ផ្ទះ របស់ អ្នក ចុះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3501.wav|ខ្ញុំ ពិត ជា សប្បាយ ។ ម្ហូប ក៏ ឆ្ងាញ់ ហើយ សេវាកម្ម ក៏ ល្អ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3502.wav|ហាសិប សេន ក្នុង មួយ ពាក្យ និយាយ ទៅកាន់ ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3503.wav|ទេ សូម កុំ រំខាន ។ ខ្ញុំ អត់ អី ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3504.wav|ខ្ញុំ ចង់ ហៅទូរស័ព្ទ ដោយ ប្រើ កាត ឥណទាន ទៅកាន់ ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3505.wav|សូម ជួសជុល ប្រដាប់ ដាក់ ជើង ពេល ជិះ សេះ ផង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3506.wav|សុំទោស ខ្ញុំ មិន ចូលចិត្ត វា ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3507.wav|ខ្ញុំ ប្រហែលជា វង្វេង ហើយ ។ ខ្ញុំ កំពុង រក ផ្លូវ ទៅ ធនាគារ អេប៊ីស៊ី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3508.wav|សុំទោស ខ្ញុំ មិន មាន ខ្នើយ ឬ ភួយ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3509.wav|ខ្ញុំ នឹង ចេញ វេជ្ជបញ្ជា សម្រាប់ កៅសិប ប្រាំបួន ថ្ងៃ ។ ដូច្នេះ សូម បន្ត លេប វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3510.wav|នៅ ពេល ដែល ក្រុមហ៊ុន របស់ យើង បាន ចាប់ផ្ដើម ដំណើរការ កាលពី សាមសិប ប្រាំ ឆ្នាំ មុន វា គឺជា ក្រុមហ៊ុន ផលិត ម៉ាស៊ីន គិត លេខ តូច មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3511.wav|ខ្ញុំ រក ការណែនាំ រឿង មិន ឃើញ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3512.wav|ផ្លូវ ដែក លេខ ប្រាំ នៅ ទីនោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3513.wav|អាហារ ពេលល្ងាច នេះ ជា ជម្រើស របស់ អ្នក ដំឡូង ឬ បាយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3514.wav|ទៅ ខាងមុខ ត្រង់ តាម ផ្លូវ ក្រោម រថភ្លើង និង បត់ ស្ដាំ ទៅ តាម ផ្លូវ រថភ្លើង នោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3515.wav|ខ្ញុំ ចង់ ហៅទូរស័ព្ទ ដោយ ផ្ទាល់ ទៅ ទីក្រុង តូក្យូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3516.wav|ខ្ញុំ មើល មិន ឃើញ បញ្ហា ធំ ណាមួយ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3517.wav|ខ្ញុំ ចង់ ហៅទូរស័ព្ទ ដែល គិត លុយ ពី ប័ណ្ណ ឥណទាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3518.wav|សូមទោស សំបុត្រ ប្រគំ តន្ត្រី ថ្ងៃសៅរ៍ អស់ ហើយ សល់ តែ សំបុត្រ ថ្ងៃអាទិត្យ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3519.wav|អ្នក អាច ត្រួតពិនិត្យ តារាង ចេញដំណើរ នៅលើ ប្រព័ន្ធ អេឡិចត្រូនិច ក៏ បាន ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3520.wav|សុំទោស ខ្ញុំ មិន ប្រាកដ ខ្លួនឯង ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3521.wav|វា នឹង មាន ផ្លែ ឈើ ឬ ក៏ ទឹក ផ្លែ ឈើ ពង ទា នំបុ័ង ដុត និង ភេសជ្ជៈ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3522.wav|ខ្ញុំ សូម ណែនាំ អា មួយ នេះ ចុះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3523.wav|ខ្ញុំ បាន ធ្វើ ការ ក្រៅ ម៉ោង ចំនួន បួន ថ្ងៃ ក្នុង មួយ សប្ដាហ៍ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3524.wav|ខ្ញុំ ចង់ សួរ អ្នក ថា តើ មាន បន្ទប់ ទំនេរ មួយ សម្រាប់ យប់ នេះ ដែរ ឬ ទេ ? 
+khmer-dataset/wavs/kh_atr_m001_a3525.wav|ខ្ញុំ ចង់ ហៅ ទូរសព្ទ ឆ្ងាយ ទៅកាន់ ក្រុង ភ្នំពេញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3526.wav|ផ្ទះ នេះ ធំ ហើយ ស្អាត ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3527.wav|ខ្ញុំ បាន បើកបរ ដោយ ខ្លួនឯង ម្ដង ទៀត ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3528.wav|ខ្ញុំ ប្រហែលជា អាច ផ្ដល់ ចម្លើយ ល្អ ជាង នេះ មួយ ឱ្យ អ្នក បន្ទាប់ពី ការសម្ដែង ផ្សេង ផ្សេង បាន ចប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3529.wav|ជើងហោះហើរ លេខ ប្រាំមួយ រយ ម្ភៃ ប្រាំពីរ ទៅ ទីក្រុង តូក្យូ នៅ ថ្ងៃទី ដប់ បួន ខែឧសភា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3530.wav|ខ្ញុំ ចង់ ធ្វើ ការណាត់ជួប មួយ នៅ ម៉ោង ប្រាំ ល្ងាច ថ្ងៃ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3531.wav|វា ពិត ជា ម៉ោង បី ម្ភៃ នាទី និង ដប់ វិនាទី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3532.wav|ខ្ញុំ ចង់ ណាត់ជួប ជាមួយ អ្នក នៅ ពេលណា ដែល ជា ឱកាស ល្អ របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3533.wav|បើ មាន ការផ្លាស់ប្ដូរ កាលវិភាគ យើង នឹង ផ្ដល់ ដំណឹង ឱ្យ លោក ដឹង ភ្លាម តាមរយៈ ទូរសារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3534.wav|នំ ប៉ាវ ពីរ ដំឡូង បំពង ធំ មួយ និង កូកាកូឡា ពីរ កំប៉ុង តូច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3535.wav|ខ្ញុំ សូម ណែនាំ ឱ្យ អ្នក ធ្វើដំណើរ ដោយ រថយន្ដ ទៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3536.wav|វា មិន មែន ជា បញ្ហា អ្វី នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3537.wav|ខ្ញុំ ប្រហែលជា ត្រឡប់ ទៅ ផ្ទះ វិញ ឬ បើ មិន ដូច្នោះ ទេ ជិះ ឡានក្រុង ដើរ ជុំវិញ ប្រទេស ប្រសិន បើ វា មិន សូវ ថ្លៃ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3538.wav|វា មាន ភាពសាំញ៉ាំ ខ្លាំង ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3539.wav|នេះ គឺជា ឧបករណ៍ សម្រាប់ លោត ។ សូម ទុកដាក់ ដោយ ប្រុងប្រយ័ត្ន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3540.wav|ជំរាបសួរ ខ្ញុំ ចង់ លាង ហ្វ៊ីល និង ផ្ដិត រូបភាព ។ 
+khmer-dataset/wavs/kh_atr_m001_a3541.wav|ខ្ញុំ មិន ចូលចិត្ត ភាពយន្ត សង្គ្រាម ឡើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3542.wav|អ្នក បាន យក សៀវភៅ យ៉ាង ច្រើន មក បី ដង ដូច ខ្ញុំ ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3543.wav|ចុះ នៅ ចំណត បន្ទាប់ និង ឡើងជិះ ឡានក្រុង ទៅ ឧទ្យាន ហាយ ដិ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3544.wav|ខ្ញុំ សូមទោស សូម ផែនទី ទីក្រុង មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3545.wav|ខ្ញុំ ចង់ ផ្ញើ កាត ប្រៃសណីយ៍ ទាំង នេះ ទៅ ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3546.wav|ខ្ញុំ រីករាយ ក្នុង ការជួប អ្នក ផងដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3547.wav|អរគុណ សម្រាប់ អាហារ ពេលល្ងាច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3548.wav|មិន មាន ពេលវេលា ច្រើន ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3549.wav|ខ្ញុំ ប្រតិកម្ម ជាមួយ ខ្ទឹម ស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3550.wav|តោះ ទៅ មើល យើង អាច ផ្ដល់ បន្ទប់ គ្រែ ពីរ មួយ បន្ទប់ សម្រាប់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3551.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ធនាគារ មិន ឱ្យ ប្រាក់ អ្នក ខ្ចី ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3552.wav|ម៉ាដូណា គឺ ជា អ្នក ចម្រៀង ប៉ប់ ដ៏ ល្បី ម្នាក់ នៅក្នុង ពិភពលោក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3553.wav|នេះ គឺជា កូន គោ សុទ្ធ ។ ជា ពូជ មក ពី ខេត្ត កណ្ដាល ។
+khmer-dataset/wavs/kh_atr_m001_a3554.wav|ខ្ញុំ ចង់ ជួល ឡាន រយៈពេល បួន ថ្ងៃ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3555.wav|ខ្ញុំ ចង់ ប្ដូរ ការកត់ត្រា នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3556.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ពួកយើង មិន បាន យក ប័ណ្ណ ឥណទាន មក ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3557.wav|ពួកយើង នឹង ត្រូវ ផ្លាស់ប្ដូរ សោរ ទ្វារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3558.wav|ខ្ញុំ គិត ថា ខ្ញុំ នឹង យក សាំងវិច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3559.wav|ម្ហូប នេះ ឆ្ងាញ់ ប៉ុន្តែ ខ្ញុំ ហូប ឆ្អែត ហើយ ។ អរគុណ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3560.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ពួកយើង កំពុង រវល់ ឥលូវនេះ ។ វា ត្រូវការ ពេល សាមសិប នាទី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3561.wav|អាវ ពោង សុវត្ថិភាព របស់ អ្នក ស្ថិត នៅក្រោម កន្លែង អង្គុយ របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3562.wav|ខ្ញុំ ចង់ ផ្ញើ វា ឱ្យ រហ័ស ទៅ ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3563.wav|ខ្ញុំ មិន ដែល បាន ឃើញ ទេសភាព ដ៏ ធំ ទូលាយ បែប នេះ ឡើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3564.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ឥលូវនេះ គាត់ ទៅ ក្រៅ បាត់ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3565.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ វា ត្រូវបាន ហាមឃាត់ ។ ខ្ញុំ ត្រូវតែ រឹបអូស យក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3566.wav|បន្ទប់ របស់ អ្នក ស្ថិត នៅ ជាន់ ទី បី លេខ បី រយ ហាសិប ប្រាំពីរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3567.wav|ពួកយើង មាន ត្រី សាលម៉ុន ល្អ ល្អ សំរាប់ ថ្ងៃ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3568.wav|ពួកយើង បែក គ្នា នៅឯ ព្រលានយន្តហោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3569.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ខ្ញុំ រវល់ ណាស់ ឥលូវនេះ ។ លា សិន ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3570.wav|ច្រើន ជាង ម្ភៃ នាទី យើង នឹង ទៅ ដល់ ហាង លក់ បង្កង ហើយ ។
+khmer-dataset/wavs/kh_atr_m001_a3571.wav|ខ្ញុំ ចង់ ធ្វើដំណើរ ទេសចរណ៍ ទៅ ប្រទេស ម៉ិចសិចកូ រយៈពេល មួយ សប្ដាហ៍ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3572.wav|ទេ សូម អភ័យទោស ។ បង្កង នៅ ទីនេះ លក់ អស់ ហើយ ។
+khmer-dataset/wavs/kh_atr_m001_a3573.wav|ទៅ មុខ ត្រង់ តាម ទន្លេ ប្រហែលជា កន្លះ ម៉ាយ អ្នក នឹង ទៅដល់ សួន ឧទ្យាន ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3574.wav|គាត់ កំពុង រវល់ ឥលូវនេះ ។ សូម ត្រឡប់ ទៅ វិញ សិន ទៅ ។
+khmer-dataset/wavs/kh_atr_m001_a3575.wav|ខ្ញុំ បាន ធ្វើឱ្យ កាំបិត មុត ដៃ ដោយ ខ្លួនឯង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3576.wav|អរគុណ ដែល បាន ហៅ ខ្ញុំ ចូលរួម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3577.wav|ខ្ញុំ ចង់ ផ្ញើ វា ទៅ ជប៉ុន តាមរយៈ អ៊ែមែល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3578.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ខ្ញុំ ជិះ ឡានក្រុង ខុស ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3579.wav|បាទ តាមរយៈ ការព្យាករណ៍ អាកាសធាតុ ប្រចាំ សប្ដាហ៍ វា នឹង ល្អ ប្រសើរ ក្នុង សប្ដាហ៍ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3580.wav|ខ្ញុំ សុំទោស ប៉ុន្តែ ខ្ញុំ គិត ថា អ្នក ត្រូវតែ រក្សាទុក ដោយ ខ្លួនឯង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3581.wav|ខ្ញុំ មិន បាន ដឹង នូវ ការហាមឃាត់ នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3582.wav|ខ្ញុំ ចង់បាន កន្សែង បង់ ក មួយ មាន រូប សេះ ម៉ាក ហ៊ែម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3583.wav|សូម ថ្នាំ ឈឺ ពោះ ដែល មិន ប៉ះ ពាល់ ក្រពះ ។
+khmer-dataset/wavs/kh_atr_m001_a3584.wav|សូម មក ជួប ពេទ្យ ប្រសិនបើ រោគសញ្ញា កាន់តែ ធ្ងន់ធ្ងរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3585.wav|ខ្ញុំ ឈ្មោះ មីណូរ៉ូ គីមូរ៉ាក់ ។ ខ្ញុំ ឯកទេស ខាង ទេសចរណ៍ ។
+khmer-dataset/wavs/kh_atr_m001_a3586.wav|មិន មែន ភេសជ្ជៈ នេះ ទេ ។ សូម យក តែ គុជ ។
+khmer-dataset/wavs/kh_atr_m001_a3587.wav|ខ្ញុំ នឹង ធ្វើតេស្ត ឈាម ឱ្យ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3588.wav|អាហារ នេះ ពិបាក លេប សំរាប់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3589.wav|អាហារ មិន ទាន់ មកដល់ នៅឡើយ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3590.wav|កុំ កំសាក ដូច កូន មាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3591.wav|បើ យោង ទៅ តាម ការព្យាករណ៍ អាកាសធាតុ ព្យុះ សង្ឃរា លេខ ដប់ នឹង មកដល់ តំបន់ កាន់ តូ នៅ ព្រឹក ស្អែក នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3592.wav|ខ្ញុំ សុំទោស ខ្ញុំ រក កាមេរ៉ា មិន ឃើញ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3593.wav|ខ្ញុំ នឹង ពិនិត្យ មើល បញ្ជី ឈ្មោះ ភ្ញៀវ របស់ យើង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3594.wav|សុំ ថ្នាំ អាស្ពៀរីន មួយ បន្ទះ មក ។
+khmer-dataset/wavs/kh_atr_m001_a3595.wav|បើ មាន បន្ទប់ ទំនេរ មួយ ខ្ញុំ ចង់ ប្ដូរ ទៅ បន្ទប់ ដែល អាច មើលឃើញ សមុទ្រ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3596.wav|រីករាយ ដែល បាន ជួប លោក ដូចគ្នា លោក ស្មីត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3597.wav|សូម យក ពង ទា ក្រឡុក ជាមួយ សាច់ ជ្រូក បី ជាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3598.wav|ខ្ញុំ គិត ថា អ្នក មាន ពេល ប្រហែល ម្ភៃ នាទី មុនពេល ហោះហើរ ចាប់ផ្ដើម ។ សូម ពិនិត្យ ឥវ៉ាន់ របស់ អ្នក ហើយ ផឹក កាហ្វេ មួយ កែវ សិន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3599.wav|ខ្ញុំ ធ្លាប់ សាក វា រួចហើយ ។ វា ឆ្ងាញ់ ខ្លាំង ណាស់ ។
+khmer-dataset/wavs/kh_atr_m001_a3600.wav|ខ្ញុំ សុំទោស ខ្ញុំ មិន យល់ ពី អ្នក ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3601.wav|ខ្ញុំ រីករាយ នឹង ស្វាគមន៍ ។ សូម អញ្ជើញ អង្គុយ លេង ក្នុង អង្រឹង សិន ។
+khmer-dataset/wavs/kh_atr_m001_a3602.wav|នៅក្នុង តម្លៃ នេះ ខ្ញុំ គិត ទៅ រកមើល នៅ ហាង ផ្សេង ផ្សេង ទៀត សិន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3603.wav|សូម ទៅ មជ្ឈមណ្ឌល ផាក ដែល មាន ផ្កា រីក ដ៏ ស្រស់ ស្អាត ។
+khmer-dataset/wavs/kh_atr_m001_a3604.wav|ទេ ពួកគេ មាន ទំនោរ ថ្នាក់ថ្នម កូន របស់ ពួកគេ ។ ឪពុក ម្ដាយ ជនជាតិ ជប៉ុន មួយចំនួន មិន ដែល និយាយ ថា មិន យល់ព្រម ចំពោះ កូន ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3605.wav|មិន មែន ទេ ឡានក្រុង ចេញដំណើរ នៅ ម៉ោង ប្រាំបួន ម្ភៃ ប្រាំ នាទី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3606.wav|ខ្ញុំ ចង់ ស្នាក់ នៅ សណ្ឋាគារ ជិត នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3607.wav|សូម ធ្វើ វិក្កយបត្រ ផ្សេង ពី គ្នា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3608.wav|ខ្ញុំ ចង់ និយាយ ថា វា ពិត ជា សម នឹង អ្នក ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3609.wav|ឱ្យ ក្រេម លាប មាត់ ខ្ញុំ មួយ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3610.wav|សណ្ឋាគារ នេះ គឺ អស្ចារ្យ ណាស់ ។ ខ្ញុំ មាន ពេលវេលា ដ៏ ល្អ ខ្ញុំ នឹង ត្រឡប់ មកវិញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3611.wav|សាឡាដ ដំឡូងបារាំង កន្លះ ផោន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3612.wav|នេះ គឺ មិន សូវ ឆ្អិន ទេ ។ សូម ចំអិន វា ថែម ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3613.wav|ខ្ញុំ ចង់បាន បន្ទប់ គ្រែ ភ្លោះ មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3614.wav|តោះ សំរាក មួយ ភ្លែត សិន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3615.wav|ខ្ញុំ សុំទោស ខ្ញុំ ត្រូវ ទៅ ឥឡូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3616.wav|ខ្ញុំ សុំទោស ខ្ញុំ ត្រូវ ចុះ ហើយ ឥឡូវ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3617.wav|ខ្ញុំ ពិត ជា មិន ចូលចិត្ត ពណ៌ នេះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3618.wav|ឈ្មោះ នេះ ខុស ហើយ ។ សូម បន្ថែម អក្សរ ខ មួយ ទៀត ។
+khmer-dataset/wavs/kh_atr_m001_a3619.wav|ជើងហោះហើរ លេខ អែន - ដាប់ បល យូ - សូន្យ - សូន្យ - ប្រាំមួយ នៅ ថ្ងៃទី ប្រាំមួយ ខែកក្កដា ពី ក្រុង ភ្នំពេញ ទៅ ណារីតា ក្រុង តូក្យូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3620.wav|សូម ធ្វើ វា ឱ្យ ទៅជា ពណ៌ ត្នោត ស្រាល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3621.wav|ខ្ញុំ សុំ ឡេ លាប សក់ ខ្លះ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3622.wav|ខ្ញុំ បាន ចេញ ពី បន្ទប់ ប្រហែល មួយ ម៉ោង ហើយ ពេល ខ្ញុំ ត្រឡប់ មកវិញ កាតាប យួរ ដៃ របស់ ខ្ញុំ បាន បាត់ ទៅ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3623.wav|ពួកយើង ជា រឿយ រឿយ ឃើញ ដើម ស្រល់ និង ដើម ព្រូន ក្នុង ចំណោម ដើមឈើ ដទៃ ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3624.wav|ខ្ញុំ ភ្លេច កាបូប ដៃ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3625.wav|ខ្ញុំ សុំ ជំរាប លា ឥឡូវ សិន ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3626.wav|ខ្ញុំ ឈ្មោះ ណាវី ចិន្ដា ។ ខ្ញុំ ជា ភ្ញៀវ ទេសចរណ៍ មកពី ប្រទេស កម្ពុជា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3627.wav|វា មើលទៅ គួរឱ្យ ស្រលាញ់ ណាស់ ។ អរគុណ ច្រើន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3628.wav|សុំ ដូរ វា ជា លុយ ដុល្លារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3629.wav|វា ជិត ពាក់ កណ្ដាល អធ្រាត្រ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3630.wav|ខ្ញុំ ចង់បាន កន្លែង អង្គុយ មួយ នៅ ផ្នែក កណ្ដាល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3631.wav|វា មាន តម្លៃ មួយ រយ ប៉ែតសិប ដុល្លារ ក្នុង មួយ យប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3632.wav|នេះ ជា លើក ដំបូង ដែល ខ្ញុំ បាន ឃើញ ដូចនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3633.wav|ក្រាប លើ ឥដ្ឋ ឬ ចូល ក្រោម តុ ដើម្បី សុវត្ថិភាព ។
+khmer-dataset/wavs/kh_atr_m001_a3634.wav|សាលារៀន របស់ ខ្ញុំ គឺ បង្រៀន ទាំង សិស្ស ប្រុស និង សិស្ស ស្រី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3635.wav|ខ្ញុំ ស្រឡាញ់ អង្គរ វត្ត របស់ កម្ពុជា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3636.wav|ខ្ញុំ ភ្លេច កូនសោរ ក្នុង ឡាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3637.wav|ខ្ញុំ ចង់បាន កន្លែង អង្គុយ មួយ នៅក្នុង បន្ទប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3638.wav|ខ្ញុំ នឹង ឱ្យ គាត់ ទូរសព្ទ ទៅ អ្នក ភ្លាម ពេល ដែល គាត់ មកដល់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3639.wav|ខ្ញុំ ចង់ ផ្ញើ សំបុត្រ នេះ ទៅ កាណាដា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3640.wav|ខ្ញុំ សុំ ធានា វា តម្លៃ ហាសិប ផោន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3641.wav|ខ្ញុំ ឈ្មោះ ឃែន អេហ្គោឈី ។ ខ្ញុំ ជា អ្នក សម្ដែង សៀក ។
+khmer-dataset/wavs/kh_atr_m001_a3642.wav|ហេ ! របស់ ខ្ញុំ គឺ ផលិត នៅ តៃវ៉ាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3643.wav|បាទ ពួកវា មាន តម្លៃ ថ្លៃ ណាស់ ក្នុង ករណី ជា មហាវិទ្យាល័យ ឯកជន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3644.wav|ខ្ញុំ មិន បាន ហៅ ទូរសព្ទ នេះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3645.wav|ខ្ញុំ ចង់ ដឹង ថា តើ ខ្ញុំ អាច បង់ នៅ កន្លែង ម៉ាស៊ីន គិត លុយ ឬ នៅលើ តុ នេះ ? 
+khmer-dataset/wavs/kh_atr_m001_a3646.wav|នេះ គឺ អំណោយ ខ្លះ សម្រាប់ មិត្តភ័ក្តិ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3647.wav|នេះ គឺ តាណាខា កំពុង និយាយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3648.wav|ខ្ញុំ ចង់ ដឹង ថា តើ គាត់ នឹង មក ដែរ ឬ ទេ ? 
+khmer-dataset/wavs/kh_atr_m001_a3649.wav|ខ្ញុំ មិន បាន ស្លៀកពាក់ បែប ផ្លូវការ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3650.wav|តោះ ទៅ មើល អន្ទង់ នៅលើ ខ្សាច់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3651.wav|វា មាន បញ្ហា នឹង សន្ទះ បើក ឱ្យ ពន្លឺ ចូល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3652.wav|វា មាន វីតាមីន អឺ និង សេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3653.wav|សូម ជិះ តាម ផ្លូវ ណា ដែល មាន តម្លៃ ថោក បំផុត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3654.wav|យើង មាន ពេល តែ ទិឃារដូវ នេះ ទេ នៅ ថ្ងៃ នេះ យើង ខ្ចប់ អាហារ ទៅ ញ៉ាំ នៅ ខាងក្រៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3655.wav|មិន មែន ជា ការពិត ទេ ។ អរគុណ គ្រប់ យ៉ាង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3656.wav|ឱ្យ ដំឡូងបារាំង ចៀន មួយ រយ ដុល្លារ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3657.wav|សូម លេប វា ឱ្យ បាន បី ដង ក្នុង មួយ ថ្ងៃ ក្រោយពេល ទទួលទាន អាហារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3658.wav|សុំ សំបុត្រ មួយ ទៅ ម៉ាឌ្រីត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3659.wav|សំលៀកបំពាក់ បន្ថែម របស់ ខ្ញុំ និង ផែនទី ទីក្រុង មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3660.wav|ខ្ញុំ ពិត ជា ក្រែងចិត្ត ចំពោះ ពេលវេលា របស់ អ្នក ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3661.wav|មនុស្ស នៅ បន្ទប់ ជាប់ នេះ គឺ ឡូឡា ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3662.wav|ខ្ញុំ ត្រូវការ ពណ៌ ប្រផេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3663.wav|ខ្ញុំ ចាំបាច់ ត្រូវ ទៅ ឥលូវនេះ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3664.wav|យើង ពិត ជា រីករាយ ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3665.wav|ខ្ញុំ ចង់ ផ្លាស់ប្ដូរ ការកក់ របស់ ខ្ញុំ បើសិនជា អាច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3666.wav|ខ្ញុំ មិន មែន មាន ន័យ ថា អ្នក ឈ្លើយ នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3667.wav|សូម បែងចែក សាឡាដ ហ្នឹង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3668.wav|យើង ផឹក វា នៅ ឱកាស ពិសេស ដូចជា ពិធី ជប់លៀង អាពាហ៍ពិពាហ៍ ថ្ងៃ ខួបកំណើត ជាដើម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3669.wav|សុំទោស ដែល ខ្ញុំ ភ្លេច ថ្ងៃ ខួបកំណើត របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3670.wav|ខ្ញុំ ចាំ មិត្ដភក្ដិ ខ្ញុំ មកដល់ សិន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3671.wav|តោះ ទៅ មើល ទូរទស្សន៍ បន្តិច សិន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3672.wav|ខ្ញុំ ចង់បាន សៀវភៅ ប្រលោមលោក មួយ ក្បាល ជា ភាសា អង់គ្លេស ដែល ងាយស្រួល អាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3673.wav|នោះ គឺជា មជ្ឈមណ្ឌល ពាណិជ្ជកម្ម ដែល ទើបនឹង សាងសង់ រួច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3674.wav|ខ្ញុំ នឹង នៅ ទីនោះ ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3675.wav|បាទ ពិត ណាស់ ។ មិន ធ្វើ ដូចនេះ គឺ គ្មាន គំនិត មែន ទេ លុះត្រា តែ អ្នក ជា ចោរ ឬ ស្អី មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3676.wav|នៅ ទីនេះ ចំនួន បួន ភាគរយ ។ ខ្ញុំ គិត ថា អ្នក ត្រូវតែ ជ្រើសរើស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3677.wav|ខ្ញុំ មាន ពេល ទំនេរ ខ្លះ ឥឡូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3678.wav|ខ្ញុំ ចង់ ផ្លាស់ប្ដូរ ថ្ងៃ នៃ ការចាកចេញ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3679.wav|ខ្ញុំ ចង់បាន កន្លែង អង្គុយ នៅ ផ្នែក ជក់ បារី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3680.wav|ស្ពាន ត្នោត ទេ ជា កន្លែង លេង ទឹក កំសាន្ត មួយ នា រដូវ វស្សា ។
+khmer-dataset/wavs/kh_atr_m001_a3681.wav|ស្បែកជើង ទាំង នេះ មិន ល្មម ខ្ញុំ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3682.wav|រដូវ ផ្កា រីក បាន មកដល់ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3683.wav|ខ្ញុំ សុំ មើល លិខិត ឆ្លង ដែន និង ឯកសារ របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3684.wav|ខ្ញុំ ចង់ ញ៉ាំ ស៊ុត ចៀន ដែល ដូច ព្រះច័ន្ទ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3685.wav|ខ្ញុំ ចង់បាន ស្រា ស្កុត និង ទឹក បន្ថែម ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3686.wav|ខ្ញុំ មាន ពេលវេលា ដ៏ ល្អ នៅ ទីនេះ ។ អរគុណ សម្រាប់ អ្វី គ្រប់ យ៉ាង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3687.wav|នេះ ជា លោក ស៊ីមីសា បន្ទប់ លេខ ដប់ មួយ សូន្យ ប្រាំមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3688.wav|ខ្ញុំ នឹង សរសេរ លិខិត មួយ ឱ្យ គាត់ ឬ ធ្វើ អ្វី ម្យ៉ាង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3689.wav|ប្រសើរ ណាស់ ខ្ញុំ សុំ ស៊ុត ចៀន ជ័រ ភ្នៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3690.wav|សុំ ដាក់ ឥវ៉ាន់ ខ្ញុំ នៅក្នុង រថយន្ដ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3691.wav|ដំណើរកំសាន្ត នេះ នឹង នាំមក នូវ ការចងចាំ ដ៏ អស្ចារ្យ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3692.wav|វា ជា កន្លែង ល្អ មួយ ដើម្បី ទៅ ឡើង ភ្នំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3693.wav|ពួកយើង នៅ មិន ទាន់ សំរេចចិត្ត នៅឡើយ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3694.wav|ខ្ញុំ រក ទិញ អាវធំ ដែល សម នឹង រាង ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3695.wav|ពេល ដែល ខ្ញុំ ត្រឡប់ មកដល់ ផ្ទះ វិញ ខ្ញុំ បាន ឃើញ ចាន មួយ បែក រួចទៅហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3696.wav|សូម ឱ្យ សំបុត្រ ទៅ ផឺស មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3697.wav|ខ្ញុំ នឹង ចាកចេញ ពី សណ្ឋាគារ នៅ ម៉ោង ប្រាំបី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3698.wav|ខ្ញុំ ចង់ ណាត់ ដើម្បី ម៉ាស្សា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3699.wav|ប្រហែល ពីរ ម៉ោង ដោយ ជិះ ឡាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3700.wav|សូម ការហៅទូរសព្ទ ដោយ ឆ្លងកាត់ ការី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3701.wav|កាន់តែ ឆាប់ កាន់តែ ប្រសើរ ។ ខ្ញុំ ជា ជើងឯក ពិភពលោក ។ គ្មាន អ្វី ដែល អាច ធ្វើ រឿង នេះ បាន ទេ ។ ខ្ញុំ មិន ត្រូវបាន គេ ផ្ដួល ។ ហើយក៏ គ្មាន អ្នកណា អាច ឈ្នះ ខ្ញុំ ដែរ ។ នៅ ពេល នេះ ខ្ញុំ នឹង ខិតខំ ហ្វឹកហាត់ ឱ្យ បាន ខ្លាំង នឹង មិន មាន ការផ្តួល ដោយ ឆាប់ រហ័ស នោះ ទេ ។ ខ្ញុំ នឹង ធ្វើ ទារុណកម្ម គាត់ ។ ខ្ញុំ ដាក់ ទារុណកម្ម គាត់ ពិត ជា អាក្រក់ មែន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3702.wav|អុបុង គឺជា ថ្ងៃ បុណ្យ នៃ ព្រះពុទ្ធ សាសនា ដើម្បី ឧទ្ទិស ដល់ ព្រលឹង បុព្វការី ជន ដែល បាន ចែក ឋាន ទៅ ។ វា ត្រូវបាន ប្រារព្វឡើង ក្នុង ខែសីហា នៅក្នុង តំបន់ ផ្សេង ផ្សេង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3703.wav|រថភ្លើង នេះ បាន ឈប់ រយៈពេល ខ្លី មួយ នៅឯ ស្ថានីយ៍ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3704.wav|សំរាប់ មនុស្ស ធំ ពីរ នាក់ និង ក្មេង អាយុ ក្រោម ដប់ ពីរ ឆ្នាំ ពីរ នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3705.wav|កាបូប របស់ ខ្ញុំ ត្រូវបាន គេ លួច នៅ ស្ថានីយ ក្រោម ដី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3706.wav|ខ្ញុំ ចង់ ហៅទូរស័ព្ទ ទៅ ក្រៅ ប្រទេស ទៅ ទីក្រុង អូសាកា ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3707.wav|ខ្ញុំ មិន អាច ដេក បាន ទេ ព្រោះ បន្ទប់ នៅជាប់ ទ្វារ គឺ ឡូឡា ខ្លាំង ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3708.wav|ខ្ញុំ ចង់ ធ្វើ ការណាត់ ជាមួយ លោក វិចិត្រ នៅ ថ្ងៃព្រហស្បត្តិ៍ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3709.wav|សុភាពនារី ឈ្មោះ ជូឌី បាន ទូរសព្ទ មក ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3710.wav|សំរាប់ អ្នកធ្វើដំណើរ ដែល អង្គុយ នៅ ជួរ សែសិប ដល់ សាមសិប សូម ធ្វើដំណើរ ទៅកាន់ ច្រក ឡើងជិះ យន្តហោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3711.wav|ខ្ញុំ ស្វែងរក ម្ជុល ខ្ទាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3712.wav|ប្រសិនជា អ្នក រកឃើញ វា សូម ទាក់ទង ខ្ញុំ នៅ ទីនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3713.wav|គ្រប់ ពេល ខ្ញុំ បរាជ័យ ខ្ញុំ នឹង ជោគជ័យ នៅ លើក ក្រោយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3714.wav|វា មាន ប័ណ្ណ ឥណទាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3715.wav|ខ្ញុំ ចង់ អង្គុយ នៅ កៅអី ថ្នាក់ ទី មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3716.wav|ជា មួយ ប័ណ្ណ ឥណទាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3717.wav|សូម ទូរសព្ទ រក ខ្ញុំ តាមរយៈ លេខ នេះ ប្រសិនបើ អ្នក រក វា ឃើញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3718.wav|ខ្ញុំ នឹង មាន កាមេរ៉ា ពណ៌ ក្រហម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3719.wav|សូមទោស ដែល រថភ្លើង មក យឺត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3720.wav|ត្រឡប់ ទៅ ជ្រុង ខាងឆ្វេង នៅ ផ្លូវ កែង លេខ កៅសិប ប្រាំបួន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3721.wav|សុំ ហៅ ទូរសព្ទ ទៅ មន្ត្រី ប៉ូលិស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3722.wav|ខ្ញុំ ចង់ ផ្ញើ កញ្ចប់ ឥវ៉ាន់ នេះ ទៅ ទីក្រុង តូក្យូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3723.wav|សូម ទូរសព្ទ មក ខ្ញុំ នៅ សណ្ឋាគារ ពេល ដែល អ្នក រកឃើញ កាបូប របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3724.wav|ខ្ញុំ ឈ្មោះ យូសូកិ ថាណាកាក់ ឥឡូវនេះ ខ្ញុំ កំពុង ហៅ ទូរសព្ទ ចេញ ពី អាកាសយានដ្ឋាន ទៅ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3725.wav|ខ្ញុំ ជា រៀមច្បង គេ នៅ ក្នុង គ្រួសារ ។
+khmer-dataset/wavs/kh_atr_m001_a3726.wav|ខ្ញុំ ចង់ ប្រើ ក្រេឌីត កាត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3727.wav|កៅសិប ប្រាំបួន សេន ក្នុង មួយ គីឡូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3728.wav|ខ្ញុំ ចង់ ញ៉ាំ ត្រី សាឡឺម៉ុង អាំង សម្រាប់ ចាន ពិសេស ។ 
+khmer-dataset/wavs/kh_atr_m001_a3729.wav|នេះ គឺជា ការអនុវត្ត សាកល្បង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3730.wav|ខ្ញុំ នឹង បង់ប្រាក់ ផ្សេង ពី គ្នា ដូច្នេះ សូម ធ្វើ ការគិត លុយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3731.wav|អ្នក ឆ្កួត មែន ។ ខ្ញុំ មិន មែន មាន ន័យ បែប នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3732.wav|សូម អា មួយ ផ្សេង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3733.wav|នេះ ជា វិក្កយបត្រ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3734.wav|បាទ វា ជា កន្លែង ដែល ល្អ បំផុត សម្រាប់ ហែលទឹក នៅក្នុង រដូវ ក្ដៅ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3735.wav|ខ្ញុំ នឹង មិន ប្រើ ពន្លឺ បាញ់ ឬ ជើង ទម្រ ម៉ាស៊ីន ថត ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3736.wav|ខ្ញុំ គ្មាន សង្ឃឹម ទេ ប៉ុន្តែ ខ្ញុំ ត្រូវ តែ ព្យាយាម ធ្វើ ឱ្យ បាន ល្អ ។
+khmer-dataset/wavs/kh_atr_m001_a3737.wav|នេះ ជា ដំណើរទស្សនកិច្ច លើក ទី ពីរ របស់ ខ្ញុំ ទៅ ប្រទេស អាមេរិក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3738.wav|អំពូលភ្លើង ឆេះ ខូច ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3739.wav|មាន កន្លែង រាំ ឌីស្កូ មួយ កន្លែង នៅក្នុង ក្រុង នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3740.wav|ខ្ញុំ គ្មាន ទម្លាប់ អី ទេ ។ ត្រឹមតែ ឧស្សាហ៍ ធ្វើការ ដូច ជនជាតិ ជប៉ុន ភាគ ច្រើន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3741.wav|មាន បញ្ហា មួយចំនួន ជាមួយ បន្ទប់ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3742.wav|ខ្ញុំ បាន ទទួល ថ្នាំ បង្ការ ជំងឺ គ្រុន ស្វិត ដៃ ជើង ។
+khmer-dataset/wavs/kh_atr_m001_a3743.wav|អ្នក ទៅ ធ្វើ ទៅ ។ កុំ ប្រើ មនុស្ស ស្រី ។
+khmer-dataset/wavs/kh_atr_m001_a3744.wav|ខ្ញុំ នឹង ញ៉ាំ អាម៉ុក ត្រី ជាមួយ នឹង សម្លរ កកូរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3745.wav|យើង ចង់ ទៅ ដាក់ ប្រាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3746.wav|ខ្ញុំ ឈឺ ចង្កេះ នៅ ផ្នែក ខាងក្រោយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3747.wav|គាត់ ចង់ឱ្យ អ្នក ទូរសព្ទ ទៅ វិញ កាន់តែ ឆាប់ កាន់តែ ល្អ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3748.wav|ខ្ញុំ ទុក លុយ ធីប ខ្លះ នៅ ប័ណ្ណ ឥណទាន របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3749.wav|មិន ដឹង ថា តើ អ្នក អាច ជួយ ខ្ញុំ បាន ដែរ ឬ ទេ ? 
+khmer-dataset/wavs/kh_atr_m001_a3750.wav|ខ្ញុំ សង្ឃឹម ថា នឹង បាន ជួប មិត្តភក្តិ របស់ ខ្ញុំ នៅឯ ច្រក ចេញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3751.wav|ខ្ញុំ ចង់ ទិញ ធានារ៉ាប់រង គ្រោះថ្នាក់ បុគ្គល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3752.wav|ខ្ញុំ កំពុងតែ ធ្វើដំណើរ ទស្សនកិច្ច ជា ក្រុម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3753.wav|កុំ បារម្ភ ពី រឿង នោះ ។ ខ្ញុំ នឹង យក វា ហើយ អ្នក មិន ចាំបាច់ រុំ វា ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3754.wav|តម្លៃ នេះ មិន គិត បញ្ចូល ថ្លៃ ហ្កាស ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3755.wav|ខ្នង ខាងក្រោម ខ្ញុំ ឈឺ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3756.wav|ខ្ញុំ ទន្ទឹង រងចាំ រៀន មុខវិជ្ជា ជាច្រើន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3757.wav|ល្អ ណាស់ ការតាំងពិព័រណ៍ នេះ សម្រាប់ សិល្បៈ សហសម័យ ។ ប្រសិនបើ អ្នក ចូលចិត្ត យើង អាច ទៅ សារមន្ទីរ អេប៊ីស៊ី ទៅ មើល ស្នាដៃ បរម គ្រូ នៅ គ្រប់ ជំនាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3758.wav|ខ្ញុំ ត្រូវការ របស់ ដែល ខ្ញុំ មិន អាច ទិញ បាន នៅ ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3759.wav|ខ្ញុំ នឹង ធ្វើដំណើរ តាម ជើងហោះហើរ លេខ សូន្យ - សូន្យ - មួយ ទៅកាន់ ទីក្រុង តូក្យូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3760.wav|ខ្ញុំ ត្រូវការ របស់ ខ្លះ សំរាប់ ជំងឺ ផ្ដាសាយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3761.wav|ទាំងអស់ នេះ ធ្វើឡើង ពី ដំឡូង ជាច្រើន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3762.wav|ខ្ញុំ សង្ឃឹម ថា រថយន្ដក្រុង នឹង មក ឆាប់ ឆាប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3763.wav|នេះ គឺ កាបូប លុយ ស្បែក ក្ដាន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3764.wav|សំលៀកបំពាក់ នេះ ត្រូវ នឹង ខ្ញុំ ឥត ខ្ចោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3765.wav|ដូច ធម្មតា ។ មិន បាច់ មាន ក្បាច់ រចនា ច្រើន ពេក នោះ ទេ ។
+khmer-dataset/wavs/kh_atr_m001_a3766.wav|ខ្ញុំ សប្បាយ រីករាយ ណាស់ ដែល បាន ស្នាក់ នៅ ទីក្រុង ភ្នំពេញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3767.wav|ខ្ញុំ បាន រីករាយ ខ្លាំង ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3768.wav|ហាសិប ដុល្លារ សំរាប់ បន្ទប់ អត់ មាន អាងទឹក និង ប៉ែតសិប ឬ មួយ រយ ដុល្លារ សំរាប់ បន្ទប់ ដែល មាន អាងទឹក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3769.wav|រីករាយ ណាស់ ដែល បាន ជួប អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3770.wav|ខ្ញុំ សង្ឃឹម ដូចនេះ ដែរ ។ យល់ព្រម យក ដូចនេះ ។ តែ កុំ ឱ្យ ខ្លី ពេក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3771.wav|វា គឺ នៅ ខាងក្រោយ អគារ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3772.wav|ចូរ បង់លុយ ដាច់ ដោយ ឡែក ពី គ្នា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3773.wav|អូ ខ្ញុំ គិត ថា ពួកគេ បាន ហៅ អ្នក ថា ហ្កាល់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3774.wav|ខ្ញុំ ត្រូវការ របាយការណ៍ ឧបទ្ទវហេតុ មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3775.wav|ខ្ញុំ សង្ឃឹម ថា មិន សូវ មាន មនុស្ស ច្រើន ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3776.wav|នេះ គឺជា ចំណែក ទី ដប់ ពីរ និង ជា ចំណែក ចុង ក្រោយ ផង ដែរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3777.wav|ឱ្យ ប្រដាប់ កាន់ ជក់ បារី មួយ មក ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3778.wav|ខ្ញុំ ចង់ ជិះ ឧទ្ធម្ភាគចក្រ ដើរលេង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3779.wav|ខ្ញុំ សង្ឃឹម ថា យើង អាច ជួបគ្នា ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3780.wav|ខ្ញុំ សង្ឃឹម ថា នឹង ជួប អ្នក ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3781.wav|ខ្ញុំ សង្ឃឹម ថា នឹង បាន ជួប អ្នក ម្ដង ទៀត នៅ កន្លែង ណាមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3782.wav|ខ្ញុំ សង្ឃឹម ថា យើង ជួបគ្នា ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3783.wav|ខ្ញុំ ត្រូវការ កក់ បន្ទប់ មួយ សម្រាប់ បួន យប់ ចាប់ពី ថ្ងៃទី ម្ភៃ ពីរ ខែធ្នូ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3784.wav|ខ្ញុំ សង្ឃឹម ថា ពួកគេ ត្រឹមត្រូវ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3785.wav|ខ្ញុំ សង្ឃឹម ថា នឹង ក្លាយជា ឱសថការី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3786.wav|ខ្ញុំ ចង់ ផ្លាស់ប្ដូរ វា ទៅជា ការហោះហើរ ដូចគ្នា ប៉ុន្តែ នៅ ថ្ងៃទី បួន ខែមិនា វិញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3787.wav|ខ្ញុំ សង្ឃឹម ថា នឹង ក្លាយជា គិលានុបដ្ឋាយិកា ម្នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3788.wav|អ្នក មិន ដឹង ទេ ថា វា អាចនឹង មាន កន្ទេល តា តាមី និង ហ្វុសូម៉ា នៅ ក្នុង បន្ទប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3789.wav|ខ្ញុំ សង្ឃឹម ថា នឹង ក្លាយជា អ្នកជំនាញ ខាង ធនាគារ ម្នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3790.wav|ខ្ញុំ សង្ឃឹម ថា នឹង ក្លាយជា អ្នកស្រាវជ្រាវ ម្នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3791.wav|ខ្ញុំ សង្ឃឹម ថា នឹង ក្លាយជា វេជ្ជបណ្ឌិត ម្នាក់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3792.wav|ខ្ញុំ មិន ចាំ ថា នៅ កន្លែង ណា ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3793.wav|ខ្សែ ទូរស័ព្ទ កំពុង ជាប់ រវល់ ឥលូវនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3794.wav|អូ បាទ ខ្ញុំ គិត ថា ពួកគេ នឹង មិន ពុល រលក ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3795.wav|សូម ទឹក ផ្លែ ឈើ ខ្លះ ដូចជា ទឹក ប៉ោម ឬ ទឹក ម្នាស់ ជា ដើម ។
+khmer-dataset/wavs/kh_atr_m001_a3796.wav|ខ្ញុំ សង្ឃឹម ថា វា មិន ប្រញាប់ ពេក នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3797.wav|ខ្ញុំ សង្ឃឹម ថា វា នឹង ជ្រះ ស្រឡះ ក្នុង ពេល ឆាប់ ឆាប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3798.wav|ខ្ញុំ សង្ឃឹម ថា សេដ្ឋកិច្ច នឹង កើន ឡើងវិញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3799.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង ទទួលយក សន្ដានចិត្ត ស្មោះ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3800.wav|ខ្ញុំ ចង់ ធ្វើ ការណាត់ជួប ដើម្បី ការប្រឹក្សា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3801.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក សប្បាយ ចិត្ត ក្នុង ការស្នាក់ នៅ ។ អ្នកបម្រើ នឹង នាំ អ្នក ទៅ បន្ទប់ របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3802.wav|គឺ បែប នេះ ។ សំពត់ ឆែក ជាមួយ អាវ ប៉ាក់ ផ្កា ច័ន្ទ ។
+khmer-dataset/wavs/kh_atr_m001_a3803.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង មក ប្រទេស ជប៉ុន នៅ ថ្ងៃ ណាមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3804.wav|ខ្ញុំ ចង់ ទៅ ទិញ ថ្នាំ ពេទ្យ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3805.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង មក លេង ខ្ញុំ ឆាប់ ឆាប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3806.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក មាន ឱកាស មក ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3807.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក មិន សូវ អស់ កម្លាំង ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3808.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង អាច មក នៅ ពេល ណាមួយ ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3809.wav|ខ្ញុំ គិត ថា ខ្ញុំ នឹង ទុក ឱ្យ អ្នក ជា អ្នកចាត់ចែង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3810.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង រីករាយ ជាមួយនឹង ការបង្រៀន របស់ គាត់ ហើយ ទទួលបាន នូវ អ្វី ដែល អាច ជួយ ឱ្យ ជីវិត របស់ អ្នក រីកចំរើន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3811.wav|ពួកយើង ចាប់អារម្មណ៍ លើ ប្រវត្តិសាស្ត្រ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3812.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង រីករាយ ជាមួយ ភាពយន្ត នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3813.wav|ប្រសិនបើ អ្នក រងចាំ ប្រហែល ប្រាំមួយ ខែ វា គួរតែ គ្រប់គ្រាន់ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3814.wav|ខ្ញុំ មាន ការរន្ធត់ ចិត្ត ណាស់ ពេល ឮ ថា អ្នក មាន ជំងឺ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3815.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង រីករាយ នៅ ទីនេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3816.wav|សូម ឈប់ ។ អរគុណ ។ ដាក់ ខ្ញុំ ចុះ ទីនេះ ចុះ ។
+khmer-dataset/wavs/kh_atr_m001_a3817.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង រៀបអាពាហ៍ពិពាហ៍ ដោយ ក្ដីរីករាយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3818.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង ចូលចិត្ត វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3819.wav|ឈប់ សួរ ខ្ញុំ ។ ខ្ញុំ ខ្មាស់ គេ ខ្លាំង ណាស់ ។ ខ្ញុំ មិន ធ្វើ រឿង នោះ ទៀត ទេ ។
+khmer-dataset/wavs/kh_atr_m001_a3820.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង ពេញចិត្ដ ក្នុង ការស្នាក់ នៅក្នុង ប្រទេស ជប៉ុន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3821.wav|យើង មិន ទាន់ បាន ត្រៀម ខ្លួន ដើម្បី ចាប់ផ្ដើម គម្រោង នេះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3822.wav|ទេ ខ្ញុំ មិន ប្រាកដ ទេ ។ បន្ទាប់ពី ហូប អាហារ នៅ ភោជនីយដ្ឋាន ហើយ ខ្ញុំ បាន ដើរ នៅ កន្លែង លំហែ ។ ប្រហែលជា បាត់ នៅ កន្លែង នោះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3823.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក មិន អី ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3824.wav|លិខិត ឆ្លង ដែន និង ប្រាក់ ប្រាំ រយ ដុល្លារ អាមេរិក របស់ ខ្ញុំ ត្រូវបាន គេ លួច ។ 
+khmer-dataset/wavs/kh_atr_m001_a3825.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក ញ៉ាំ អាហារ បាន ឆ្ងាញ់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3826.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក ចូលចិត្ត វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3827.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង ធូរស្បើយ ឆាប់ ឆាប់ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3828.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង ស្នាក់ នៅ ដោយ រីករាយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3829.wav|ខ្ញុំ ភ្លេច សោរ បន្ទប់ ក្នុង បន្ទប់ របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3830.wav|ខ្ញុំ ត្រូវបាន គេ លួច កាបូប នៅ ឆ្នេរសមុទ្រ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3831.wav|ខ្ញុំ រងារ ណាស់ ។ សូម ឱ្យ ផាហ៊ុម ខ្ញុំ មួយ មក ។
+khmer-dataset/wavs/kh_atr_m001_a3832.wav|ខ្ញុំ សប្បាយចិត្ត ដែល បាន ឮ អញ្ចឹង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3833.wav|ខ្ញុំ ចង់ ចុះ ពី រថយន្ដ នៅ ទីក្រុង ភ្នំពេញ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3834.wav|នាង នឹង ផ្លាស់ប្ដូរ បទ ភ្លេង របស់ នាង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3835.wav|តោះ ! វាស់ សំពាធ ឈាម របស់ អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3836.wav|អូ ខ្ញុំ គិត ថា វា គឺជា ទីក្រុង ដ៏ អស្ចារ្យ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3837.wav|ខ្ញុំ សង្ឃឹម ថា ខ្លួនឯង អាច ធ្វើ បាន ប៉ុន្តែ ខ្ញុំ បារម្មណ៍ ថា ខ្ញុំ មិន អាច ធ្វើ បាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3838.wav|ក្នុង បន្ទប់ របស់ ខ្ញុំ អត់ មាន សាប៊ូ ដុំ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3839.wav|ខ្ញុំ សង្ឃឹម ថា គ្មាន អ្វី អាក្រក់ ចំពោះ ជំងឺ នេះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3840.wav|ពេល ខ្ញុំ ហៅ ឈ្មោះ គាត់ ខ្ញុំ ទទួល ការឆ្លើយតប យ៉ាង ស្រទន់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3841.wav|ខ្ញុំ សង្ឃឹម ថា ថ្ងៃស្អែក មេឃ ស្រឡះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3842.wav|ខ្ញុំ សង្ឃឹម ដូច្នេះ ដែរ ។ អ្នក ប្រហែល ជា ឈប់ ផឹក ស្រា ឱ្យ ស្រវឹង ទៀត ហើយ ។
+khmer-dataset/wavs/kh_atr_m001_a3843.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ អាច ធ្វើ បាន ។ ហើយ សូម អរគុណ ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3844.wav|ខ្ញុំ ឈ្មោះ តាគុយ៉ា លីយ៉ាម៉ា ជា មេធាវី មក ពី ប្រទេស ជប៉ុន ។
+khmer-dataset/wavs/kh_atr_m001_a3845.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ នឹង មាន ឱកាស ទៅ ទីនោះ នា ពេល ណាមួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3846.wav|ខ្ញុំ ចង់ ទៅកាន់ ឈីខាហ្គោ នៅ ខែ ក្រោយ ។
+khmer-dataset/wavs/kh_atr_m001_a3847.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ អាចនឹង មាន សំណាង ដូច អ្នក ។ នៅ ពេលណា ដែល ខ្ញុំ ចរចា តម្លៃ ខ្ញុំ មិន អាច រក អ្វី ដែល ខ្ញុំ ចូលចិត្ត ហើយ ត្រូវ នឹង ទំហំ របស់ ខ្ញុំ នោះ ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3848.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ មិន បាន រំខាន អ្នក ទេ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3849.wav|ខ្ញុំ ចង់ឱ្យ វា មកដល់ ត្រឹម រសៀល ថ្ងៃស្អែក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3850.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ នឹង ជួប អ្នក ម្ដង ទៀត ។ 
+khmer-dataset/wavs/kh_atr_m001_a3851.wav|សុំ ត្រឹមតែ សាឡាដ មួយ ចាន បាន ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3852.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ នឹង ជាសះស្បើយ ក្នុង ពេល ឆាប់ ឆាប់ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3853.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ នឹង មាន វាសនា ដូច អ្នក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3854.wav|ខ្ញុំ សង្ឃឹម ថា ខ្ញុំ មាន អ្វី គ្រប់ យ៉ាង ។ ខ្ញុំ មាន អារម្មណ៍ ដូចជា ខ្ញុំ កំពុង បំភ្លេច អ្វី មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3855.wav|ខ្ញុំ មិន ដឹង ពី របៀប ប្រើប្រាស់ ទូរសព្ទ ទេ សូម ប្រាប់ ខ្ញុំ ផង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3856.wav|ខ្ញុំ គ្មាន ការបម្រុងប្រយ័ត្ន សោះ ។ ខ្ញុំ សង្ឃឹម ថា អ្នក លើកលែង ទោស ឱ្យ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3857.wav|ខ្ញុំ ត្រូវការ កន្សែងពោះគោ ថ្មី មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3858.wav|ខ្ញុំ ខក ជើងហោះហើរ លេខ ប្រាំ រយ ចិតសិប ពីរ ទៅ សៀមរាប ។ 
+khmer-dataset/wavs/kh_atr_m001_a3859.wav|ជួយ ផង ! ចោរ ចោរ ! ពួក គេ ឆក់ កាបូប យួរ ដៃ គាត់ ហើយ ។
+khmer-dataset/wavs/kh_atr_m001_a3860.wav|អ្នក ត្រូវតែ ទៅ មើល ការបង្ហាញ ម៉ូត នៅ ល្ងាច នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3861.wav|ខ្ញុំ ចង់ឱ្យ គេ ថត វីដេអូ នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3862.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក នឹង ដឹក ឱ្យ ខ្ញុំ ត្រឹម ម៉ោង បី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3863.wav|ខ្ញុំ ចង់ បំពេញ នូវ របាយការណ៍ នៃ គ្រោះថ្នាក់ ចរាចរណ៍ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3864.wav|អាស្រ័យ លើ ប្រភេទ ឯកសារ បោះពុម្ព ។ 
+khmer-dataset/wavs/kh_atr_m001_a3865.wav|ខ្ញុំ សង្ឃឹម ថា អ្នក និង ភរិយា របស់ អ្នក នឹង មក ចូលរួម ពិធី ជប់លៀង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3866.wav|ខ្ញុំ ទន្ទឹង រងចាំ អ្នក មក លេង នៅ សប្ដាហ៍ ក្រោយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3867.wav|ខ្ញុំ វង្វេង ផ្លូវ ហើយ ។ ខ្ញុំ ចង់ ទៅ កោះពេជ្រ ។
+khmer-dataset/wavs/kh_atr_m001_a3868.wav|ខ្ញុំ ទង្គិច ក្បាល ធ្ងន់ធ្ងរ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3869.wav|ខ្ញុំ ត្រូវការ ជួល ឧបករណ៍ ចាំបាច់ មួយ ចំនួន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3870.wav|ខ្ញុំ ត្រូវការ ឡាន មក ទទួល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3871.wav|ខ្ញុំ សប្បាយ ខ្លាំង ណាស់ នៅ កន្លែង ប្រគំ តន្ត្រី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3872.wav|នេះ គឺ សំរាប់ កាដូ មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3873.wav|សូម ប្រាប់ ខ្ញុំ នូវ ឈ្មោះ សណ្ឋាគារ ដែល មាន តម្លៃ ថោក នៅជិត នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3874.wav|ខ្ញុំ ឧស្សាហ៍ លេង វាយ កូនហ្គោល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3875.wav|សម្រាប់ បង្អែម ខ្ញុំ ចង់បាន នំ ផ្លែ ប៉ោម ។ 
+khmer-dataset/wavs/kh_atr_m001_a3876.wav|ខ្ញុំ ឧស្សាហ៍ ឈឺ ក្រពះ ញឹកញាប់ ណាស់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3877.wav|ធាតុអាកាស ថ្ងៃ នេះ មិន អាច ទាយ ទុក បាន ឡើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3878.wav|ខ្ញុំ ត្រូវការ ថ្នាំ ទឹកស៊ីរ៉ូ ក្អក មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3879.wav|ខ្ញុំ បាន សន្យា ជាមួយ ខ្លួនឯង ថា នៅ ពេល ដែល ខ្ញុំ ជួប អ្នក ខ្ញុំ នឹង ធ្វើឱ្យ អ្នក ស្គាល់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3880.wav|តោះ ជួបគ្នា នៅ ផ្ទះសំណាក់ នៅ ម៉ោង បី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3881.wav|ខ្ញុំ បាន ចាក់សោរ ពី ខាងក្រៅ ដោយ ខ្លួនឯង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3882.wav|ខ្ញុំ នឹង ទៅ លេង ប្រទេស កាណាដា បន្ទាប់ពី ចាកចេញ ពី សហរដ្ឋ អាមេរិក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3883.wav|ខ្ញុំ ត្រូវការ ទូរសព្ទ រក ពេទ្យ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3884.wav|អូ ទេ ! តើ ហេតុ អ្វី បានជា អ្នក មិន ប្រើ វា នៅពេល ធ្វើតេស្ត បើកបរ ? អ្នក នឹង មើលឃើញ ពី ភាពងាយស្រួល របស់ វា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3885.wav|សូម សួរ រក សំបុត្រ យប់ នេះ នៅ ការិយាល័យ លក់ សំបុត្រ ពេល ថ្ងៃ ។ សំបុត្រ សំរាប់ យប់ ស្អែក លក់ អស់ ហើយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3886.wav|នេះ គឺ ដំណាប់ ផ្លែ ប៉ោម ដែល ខ្ញុំ បាន ធ្វើ ។ ខ្ញុំ ចង់ឱ្យ អ្នក សាក ភ្លក់ វា មើល ។ 
+khmer-dataset/wavs/kh_atr_m001_a3887.wav|សូម ជួយ ហៅ វេជ្ជបណ្ឌិត ម្នាក់ មក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3888.wav|ខ្ញុំ ភ្លេច កាបូប លុយ នៅ តាក់ស៊ី ។ 
+khmer-dataset/wavs/kh_atr_m001_a3889.wav|ខ្ញុំ នឹង យក របស់ នេះ ដោយ ខ្លួនឯង ។ 
+khmer-dataset/wavs/kh_atr_m001_a3890.wav|ខ្ញុំ ត្រូវបាន បុរស ក្មេង ម្នាក់ ចាប់ ជំរិត នៅក្នុង សួន ឧទ្យាន ។ 
+khmer-dataset/wavs/kh_atr_m001_a3891.wav|នេះ គឺ សំបុត្រ រថភ្លើង អាមេរីផាស របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3892.wav|ជា ការប្រសើរ ណាស់ តាម របៀប នេះ អ្នក អាច បិទ កាបូប របស់ អ្នក ដោយ គ្មាន បញ្ហា ។ 
+khmer-dataset/wavs/kh_atr_m001_a3893.wav|ពួកគេ គួរតែ មាន តម្លៃ តិច ជាង ពីរ រយ ដុល្លារ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3894.wav|ខ្ញុំ បាន ខក រថភ្លើង ដែល បាន កក់ទុក ។ 
+khmer-dataset/wavs/kh_atr_m001_a3895.wav|សូម លាង និង បោះពុម្ព រូបភាព ក្នុង ហ្វ៊ីល ទាំង នេះ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3896.wav|ប្រសើរ ណាស់ សូម ឱ្យ ប័ណ្ណ សំគាល់ ខ្លួន ណាមួយ មក ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3897.wav|ទាំង នេះ ជា របស់ ប្រើ ផ្ទាល់ខ្លួន របស់ ខ្ញុំ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3898.wav|សូម ធ្វើ ការកក់ ទីធ្លា វាយ ធីននីស មួយ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3899.wav|ខ្ញុំ បាន មកដល់ រដ្ឋធានី វ៉ាស៊ីនតោន នៅ ម៉ោង ដប់ ។ 
+khmer-dataset/wavs/kh_atr_m001_a3900.wav|ជា ការប្រសើរ ណាស់ ជា ដំបូង ខ្ញុំ គួរ ទៅកាន់ មជ្ឈមណ្ឌល ព័ត៌មាន និង រកមើល សណ្ឋាគារ មួយ ។ 
+wavs/khm_6753_4101565172.wav|ចង់ ធ្វើ សង្សារ ដែល ស្រលាញ់ គ្នា រហូត
+khmer-dataset/wavs/khm_6753_4102427042.wav|ករណី ឆ្លង ជំងឺ គ្រុន ឈាម អេបូឡា នៅតែ បន្ត កើន ឡើង នៅ ទ្វីប អាហ្វ្រិក
+khmer-dataset/wavs/khm_6753_4126412560.wav|ទឹក ស៊ុប គុយទាវ ឈ្ងុយឆ្ងាញ់ មិន ប្រើ ប៊ីចេង គឺ មាន តែ នៅ ភោជនីយដ្ឋាន ផាក កាហ្វេ
+khmer-dataset/wavs/khm_6753_4127974318.wav|ចំណេះដឹង ប្រជា ជន ក្នុង វ័យ បន្ត ពូជ
+khmer-dataset/wavs/khm_6753_4134361192.wav|គ្រឹះស្ថាន មីក្រូ ហិរញ្ញ វត្ថុ ចំរើន
+khmer-dataset/wavs/khm_6753_4137081178.wav|ធនាគារ ឯកទេស ខេមខូ ផ្ដោត សំខាន់ លើ វិនិយោគទុន ក្នុង ស្រុក
+khmer-dataset/wavs/khm_6753_4145672341.wav|បើ មិន អាច ទេ កុំ មក បំផើម គេ ចោល
+khmer-dataset/wavs/khm_6753_4146676096.wav|គម្រោង វារី អគ្គិសនី ស្ទឹង អាតៃ មាន កម្លាំង មួយ រយ ម្ភៃ មេហ្កា វ៉ាត់
+khmer-dataset/wavs/khm_6753_4148880837.wav|ភឺរី មក សាលា យឺត រហូត
+khmer-dataset/wavs/khm_6753_4150678694.wav|អ្នក ភូមិ របស់ ខ្ញុំ បាន ទៅ ដើរ លេង នៅ ទីក្រុង ហ៊ូជីមិញ
+khmer-dataset/wavs/khm_6753_4153230134.wav|ពែកមី និង ខ្ញុង ទៅ សម្ដែង នៅ រដ្ឋ កាលីហ្វ័រញ៉ា
+khmer-dataset/wavs/khm_6753_4159553355.wav|ម្ទេស នេះ មាន ផ្លែ កន្តិញកន្តុញ
+khmer-dataset/wavs/khm_6753_4169647169.wav|ខៀវ សាន សាណា ត្រៀម ដឹក ដៃ កូន ទៅ លេង ឪពុក នៅ កាណាដា
+khmer-dataset/wavs/khm_6753_4170500721.wav|ស្មារតី យុវជន ជា បទ ចម្រៀង របស់ ករុណា ពេជ្រ
+khmer-dataset/wavs/khm_6753_4173201712.wav|ប្រវត្តិ ក្រុម ប្រឹក្សា ធម្មនុញ្ញ
+khmer-dataset/wavs/khm_6753_4174851815.wav|អ្នក ភូមិសាស្ត្រ ស្គាល់ ថា ក្រុមហ៊ុន កាណាឌីយ៉ា នៅ សង្កាត់ ព្រែកលៀប
+khmer-dataset/wavs/khm_6753_4177724591.wav|ផ្ទះ របស់  សាំងហ្ស៊ក  នៅ ក្នុង ក្រុង  ហ្ស៊កថោន
+khmer-dataset/wavs/khm_6753_4184535986.wav|តាម ផ្លូវ រថភ្លើង ប្រទេស អូទ្រីស
+khmer-dataset/wavs/khm_6753_4190945201.wav|ភោជនីយដ្ឋាន អូរ រមីស បុប្ផា លាក់ ខ្លួន ក្រោម ស្ពាន ថ្ម នៅ មណ្ឌលគិរី
+khmer-dataset/wavs/khm_6753_4194131614.wav|ចង់ បាន សៀវភៅ ថ្មី ថ្មី ទាល់ តែ ទៅ រក មើល នៅ បណ្ណាគារ នគរ ភ្នំ
+khmer-dataset/wavs/khm_6753_4196235909.wav|វដ្ត មេរោគ គ្រុន ចាញ់ ក្នុង ខ្លួន មូស
+khmer-dataset/wavs/khm_6753_4198440911.wav|ផាន់សៀរី ជា គ្រូ បង្រៀន គណិត វិទ្យា
+khmer-dataset/wavs/khm_6753_4198918075.wav|កាបូរ៉ាទ័រ ជា ផ្នែក មួយ នៃ ម៉ូតូ ដែល យើង ស្គាល់ គ្រប់ គ្នា ថា បេន សាំង
+khmer-dataset/wavs/khm_6753_4202056593.wav|ខ្ញុំ បាន បើក គណនី មួយ នៅ អេ អឹម ខេ
+khmer-dataset/wavs/khm_6753_4204376595.wav|មាន ប្រពន្ធ ហើយ ម្តេច មិន ប្រាប់ អូន
+khmer-dataset/wavs/khm_6753_4205791216.wav|ធឺន អង្គុយ លេង ភ្លេង
+khmer-dataset/wavs/khm_6753_4207800558.wav|ប៉ុស្ដិ៍ ការពារ ព្រំដែន នៅ សំពៅលូន
+khmer-dataset/wavs/khm_6753_4208088192.wav|ឈ្មោះ ខេត្ត ដែល មាន របាំ ប្រពៃណី ខ្មែរ
+khmer-dataset/wavs/khm_6753_4220872775.wav|ច្បាប់ ស្តីពី តំបន់ ការពារ ធម្មជាតិ
+khmer-dataset/wavs/khm_6753_4222048442.wav|បាន បញ្ជូន មក មន្ទីរពេទ្យ ពេទ្យ កាល់ម៉ែត
+khmer-dataset/wavs/khm_6753_4225794123.wav|វិទ្យាស្ថាន ពហុ បច្ចេកទេស កម្ពុជា
+khmer-dataset/wavs/khm_6753_4231159434.wav|ខោវប៊យ ឥឡូវ មាន ម៉ូត ស្អាត ស្អាត ណាស់
+khmer-dataset/wavs/khm_6753_4233919582.wav|សំណូម ពរ រក្សា ស្រែ អំបិល ទុក ផលិត អំបិល
+khmer-dataset/wavs/khm_6753_4235631165.wav|ឆ្ងល់ ណាស់ ថា អ៊ីរ៉ង់ មាន កន្លែង ទេសចរណ៍ ឬ អត់ ណ៎
+khmer-dataset/wavs/khm_6753_4239331848.wav|លោក ឃ្លែរ ជា អ្នក វិទ្យាសាស្ត្រ ផ្នែក គីមី
+khmer-dataset/wavs/khm_6753_4240400101.wav|ថេយ៉ុន មាន រាង ខ្ពស់ សង្ហា
+khmer-dataset/wavs/khm_6753_4243584774.wav|ព្រះ រាជអាជ្ញា បាន ចុះ ប្រតិបត្តិ ឆែកឆេរ បុរី ប្រាំបួន រយ កៅ ប្រាំបួន នៅ ជាប់ វត្ត ចាក់អង្រែ ក្រោម
+khmer-dataset/wavs/khm_6753_4246081146.wav|លង់ សម្រស់ ថៃល័រ ស្វីហ្វ ពេល នាង ឡើង ឆាក ហ្គ្រេមី
+khmer-dataset/wavs/khm_6753_4246099615.wav|វប្បធម៌ ទូទៅ ទាក់ទង នឹង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_6753_4249094207.wav|មន្ទីរ សំរាក ព្យាបាល និង សម្ភព ខេមា
+khmer-dataset/wavs/khm_6753_4252375133.wav|ធ្វីតធើ មិន សូវ ពេញ និយម ទេ ក្នុង ប្រទេស កម្ពុជា យើង
+khmer-dataset/wavs/khm_6753_4259548240.wav|ប្រវត្តិ នៃ ពិធី បុណ្យ សែន នំ ព្រះ ខែ
+khmer-dataset/wavs/khm_6753_4261359977.wav|ហេតុការណ៍ នេះ បាន ធ្វើ ឱ្យ បុរស សង្ហារ ដើរ ពេញ ផ្លូវ ក្នុង រដ្ឋ ឈីកាហ្គោ
+khmer-dataset/wavs/khm_6753_4268971859.wav|ព្រះ បាទ ហ៊ុន ទៀន បាន ធ្វើ សង្គ្រាម ចាញ់ ព្រះ នាង លីវយី
+khmer-dataset/wavs/khm_6753_4271136840.wav|ឱក សុគន្ធ កញ្ញា បាន ធ្វើ ឱ្យ កក្រើក ឆាក រស្មី ហង្ស មាស
+khmer-dataset/wavs/khm_6753_4275741197.wav|ប្រវត្តិ សម័យ កម្ពុជា ប្រជាធិបតេយ្យ
+khmer-dataset/wavs/khm_6753_4277545682.wav|លោក ពូ រស់នៅ ភូមិ កំពង់ រទេះ សង្កាត់ កំពង់ រទេះ ក្រុង ស្ទឹងសែន
+khmer-dataset/wavs/khm_6753_4278395341.wav|រចនា សម្ព័ន្ធ ដឹកនាំ ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_6753_4278915166.wav|វិទ្យាស្ថាន បណ្ដុះបណ្ដាល បច្ចេកទេស
+khmer-dataset/wavs/khm_6753_4279322785.wav|អ៊ិចឆេង សេវា ថែទាំ រថយន្ត
+khmer-dataset/wavs/khm_6753_4287112943.wav|ធនាគារ អេស៊ីលីដា ចាប់ ដៃគូ ជាមួយ ក្រុមហ៊ុន ព្រូដិនសល
+khmer-dataset/wavs/khm_7548_0010974073.wav|លី គុនហេ ជា ប្រធាន ក្រុមហ៊ុន ទូរសព្ទ សាំសុង
+khmer-dataset/wavs/khm_7548_0018883571.wav|ហ្វ័រឈូន  ដាក់ ឱ្យ ប្រើប្រាស់ សេវា ទិញ លក់ លើ អ៊ីនធឺណិត
+khmer-dataset/wavs/khm_7548_0028642620.wav|ទះ ថ្ពាល់ ស្ដាំ អង្អែល ថ្ពាល់ ឆ្វេង
+khmer-dataset/wavs/khm_7548_0057081242.wav|ផ្ទះ សំណាក់ និង ភោជនីយដ្ឋាន ត្រី មាស
+khmer-dataset/wavs/khm_7548_0057323790.wav|សាលា វិមាន ទិព្វ បង្រៀន ជួសជុល ម៉ូតូ គ្រប់ ធុន
+khmer-dataset/wavs/khm_7548_0071039977.wav|ក្រុមហ៊ុន ទូរសព្ទ ចល័ត  អាយឌាហ្វូន  បើក សាខា នៅ អារញ្ញ
+khmer-dataset/wavs/khm_7548_0074212529.wav|ប្រជា ជន នៅ ទីក្រុង ស៊ីដនី ចេះ ជួយ គ្នា ទៅ វិញ ទៅ មក
+khmer-dataset/wavs/khm_7548_0077715342.wav|ប្រោន កាហ្វេ មាន ដៃគូ ជំនាញ ខាង លីង កាហ្វេ បាន ល្អ នៅ ក្រុង បាងកក ប្រទេស ថៃ
+khmer-dataset/wavs/khm_7548_0078171362.wav|ស៊ីងហ្គាពួរ ជា ប្រទេស ដែល មាន ផ្ទៃ ដី តូច ជាង គេ
+khmer-dataset/wavs/khm_7548_0108469175.wav|កុំ មួល ហ្គែរ កប់ កប់ ពេក យើង ត្រូវ ចេះ អធ្យាស្រ័យ ឱ្យ គ្នា
+khmer-dataset/wavs/khm_7548_0118204570.wav|អ៊ិត សេដ្ឋា ជា ពិធី ករ ជើង ចាស់ មួយ រូប
+khmer-dataset/wavs/khm_7548_0120330022.wav|ប្រាយុទ្ធ ចាន់អូចា ជា នាយក រដ្ឋមន្ត្រី នៃ ប្រទេស ថៃ
+khmer-dataset/wavs/khm_7548_0169815374.wav|សកល វិទ្យាល័យ កម្ពុជា បាន ផ្តល់ អាហារូបករណ៍ មួយ រយ ភាគរយ ដល់ សិស្ស ក្រីក្រ
+khmer-dataset/wavs/khm_7548_0177647153.wav|មន្ទីរ សំរាក ព្យាបាល កុមារ ភ្នំពេញ
+khmer-dataset/wavs/khm_7548_0205643350.wav|តើ កត្តា អ្វី ខ្លះ ដែល ធ្វើ ឱ្យ ព្រះ បាទ ចន្ទ រាជា យក ជ័យជម្នះ លើ ស្ដេច កន បាន
+khmer-dataset/wavs/khm_7548_0216003364.wav|ភោជនីយដ្ឋាន តា សារ៉ន ប្រាំ មាន លក់ សាច់ អាំង
+khmer-dataset/wavs/khm_7548_0229180573.wav|បៃឌូ ផលិត ឧបករណ៍ សម្រាប់ ស្រូប យក សំរាម នៅ តាម គេហដ្ឋាន
+khmer-dataset/wavs/khm_7548_0237649703.wav|ទូរទស្សន៍ ខ្សែកាប រាជធានី ភ្នំពេញ
+khmer-dataset/wavs/khm_7548_0266576083.wav|វីង ជា អ្នក ផ្តល់ សេវាកម្ម ផ្ទេរ ប្រាក់ និង ទូទាត់ ប្រាក់ ចល័ត ដែល ឈាន មុខ គេ នៅ ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_0317153692.wav|ម្ចាស់ រថយន្ត បង្ក ហេតុ ម៉ាក ហ៊ីយ៉ាន់ដាយ ពណ៌ ស បាន រត់ គេច ខ្លួន បាត់
+khmer-dataset/wavs/khm_7548_0318021302.wav|បាត់បង់ ស្នេហា គ្មាន អ្វី អស្ចារ្យ ទេ
+khmer-dataset/wavs/khm_7548_0321092596.wav|ហៃ សាំងហេង សិប្បកម្ម ដែក និង អ៊ីណុក
+khmer-dataset/wavs/khm_7548_0329088368.wav|សណ្ឋាគារ រ៉ាហ្វល ជា សណ្ឋាគារ ដ៏ ល្អ ប្រណិត មុន ដំបូង គេ បង្អស់ នៅ ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_0334316715.wav|ហាង លក់ មាស និង ប្ដូរ ប្រាក់ ខៃ សាខាវ
+khmer-dataset/wavs/khm_7548_0388949539.wav|មជ្ឈមណ្ឌល ឯកទេស ព្យាបាល ជំងឺ បេះដូង
+khmer-dataset/wavs/khm_7548_0391271850.wav|ប្រជា ជន ភាគ ច្រើន ចូលចិត្ត នឹង សេវាកម្ម ល្អ របស់ ធនាគារ ឯកទេស ខេមខូ
+khmer-dataset/wavs/khm_7548_0396820354.wav|មជ្ឈមណ្ឌល ថែ រក្សា សម្ផស្ស មេហ្គាប៊ែល បញ្ចុះ តម្លៃ ពិសេស
+khmer-dataset/wavs/khm_7548_0402083719.wav|ហ្វូតូក្រាហ្វី  បោះពុម្ព សៀវភៅ និង ឯកសារ ផ្សេង ផ្សេង
+khmer-dataset/wavs/khm_7548_0407104514.wav|ប្រទេស នេប៉ាល់ បាន អនុវត្ត យុទ្ធនាការ ទេសចរ ម្នាក់ ដើម ឈើ មួយ ដើម ដោយ ជោគជ័យ
+khmer-dataset/wavs/khm_7548_0407936692.wav|ប្រ៊េដ ថក ជា ហាង ផលិត នំប៉័ង ខ្នាត អន្តរជាតិ ធំ មួយ ក្នុង ចំណោម ហាង ល្បី ល្បី នៅ លើ ពិភព លោក
+khmer-dataset/wavs/khm_7548_0421264591.wav|នៅ ឆ្នាំ ពីរ ពាន់ ដប់ ប្រាំ វ៉ុលវ៉ូ មាន បុគ្គលិក ចំនួន ដប់ មួយ ម៉ឺន នាក់
+khmer-dataset/wavs/khm_7548_0433776663.wav|ហាង លក់ ម៉ាស៊ីន កិន ស្រូវ លី វេងហេង
+khmer-dataset/wavs/khm_7548_0457583155.wav|ពេល ទៅ មណ្ឌលគិរី ខ្ញុំ ជិះ កាត់ ភោជនីយដ្ឋាន អូរ រមីស រហូត តែ យ៉ាប់ រឿង មិន ដែល បាន ចូល ញ៉ាំ អី នឹង គេ
+khmer-dataset/wavs/khm_7548_0481380619.wav|ទីតាំង ភូមិសាស្ត្រ ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_0482595908.wav|ជំនួស ឱ្យ ការ អាន ឥឡូវ អ្នក អាច ស្ដាប់ សៀវភៅ នៅ លើ អូឌីបល បាន
+khmer-dataset/wavs/khm_7548_0483551559.wav|មែនញូឡៃ មាន ច្រើន សាខា ក្នុង តំបន់ អាស៊ី
+khmer-dataset/wavs/khm_7548_0492045858.wav|មាន ការ រៀបចំ ប្រឡង បវរ កញ្ញា ខ្ទើយ នៅ ក្រុង ប៉ាតាយ៉ា
+khmer-dataset/wavs/khm_7548_0501600693.wav|ប្រជា ជន អាតែន តែងតែ ជឿជាក់ លើ ព្រះ អាទិទេព
+khmer-dataset/wavs/khm_7548_0504303282.wav|ផ្លូវ ទៅ សាលា ចំការ ដូង ទើបតែ ធ្វើ សោះ ឥឡូវ ឡើង ម៉ត់
+khmer-dataset/wavs/khm_7548_0519935736.wav|សហគមន៍ អ្នក ជំនួញ អង់គ្លេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_0530031132.wav|សាលា ន័រតុន បាន ប្ដូរ ទីតាំង ថ្មី ហើយ
+khmer-dataset/wavs/khm_7548_0530760234.wav|មជ្ឈមណ្ឌល សហ ប្រតិបត្តិការ កម្ពុជា
+khmer-dataset/wavs/khm_7548_0533578039.wav|វិទ្យាស្ថាន ស្ថាបត្យកម្ម កម្ពុជា
+khmer-dataset/wavs/khm_7548_0542085404.wav|តាយ ម៉េង លក់ និង ជួសជុល ទូរសព្ទ ដៃ
+khmer-dataset/wavs/khm_7548_0546779051.wav|ផ្សារ រាត្រី នៅ ទីក្រុង ភ្នំពេញ ស្ថិត នៅ ខាង មុខ ផ្សារ ចាស់ នៅ ក្បែរ មាត់ ទន្លេ
+khmer-dataset/wavs/khm_7548_0555606247.wav|ម៉ាយ ធីវី ជា ប៉ុស្តិ៍ ទូរទស្សន៍ សម្រាប់ យុវវ័យ
+khmer-dataset/wavs/khm_7548_0566497137.wav|ចំងាយ ផ្លូវ ពី ភ្នំពេញ ទៅ ខេត្ត នានា
+khmer-dataset/wavs/khm_7548_0577651596.wav|វិទ្យាស្ថាន អន្តរ ទ្វីប អាមេរិកាំង
+khmer-dataset/wavs/khm_7548_0606552862.wav|សាលា បញ្ញាសាស្ត្រ រៀបចំ សន្និសីទ ស្តីពី ប្រព័ន្ធ ផ្សព្វផ្សាយ សង្គម និង យុវជន កម្ពុជា
+khmer-dataset/wavs/khm_7548_0613286901.wav|អង្គការ ក្រៅ រដ្ឋាភិបាល បេះដូង មាស
+khmer-dataset/wavs/khm_7548_0641002246.wav|យាយ របស់ ខ្ញុំ បាន ទៅ ណៃ រ៉ូប៊ី
+khmer-dataset/wavs/khm_7548_0650565126.wav|លី សាវឡុង មាន ឈ្មោះ បោះ សម្លេង តាំងពី ខ្ញុំ នៅ តូច
+khmer-dataset/wavs/khm_7548_0654135195.wav|ពេទ្យ អន្តរជាតិ អេស អូ អេស ជា មន្ទីរពេទ្យ ពេទ្យ ដែល មាន គុណភាព ខ្ពស់
+khmer-dataset/wavs/khm_7548_0659874894.wav|មែនញូឡៃ ជា ក្រុមហ៊ុន ធានារ៉ាប់រង ជីវិត មុន គេ នៅ កម្ពុជា
+khmer-dataset/wavs/khm_7548_0671320714.wav|សិស្ស សាលា ន័រតុន រៀនសូត្រ និង ស្រាវជ្រាវ ទាំង យប់ ទាំង ថ្ងៃ
+khmer-dataset/wavs/khm_7548_0685945887.wav|ផ្សារ ថៃ ហួត មាន លក់ ឥវ៉ាន់ ដែល មាន គុណភាព ល្អ ពិត មក ពី ប្រទេស ថៃ
+khmer-dataset/wavs/khm_7548_0698591099.wav|សាកល វិទ្យាល័យ ភូមិន្ទ នីតិសាស្ត្រ និង វិទ្យាសាស្ត្រ សេដ្ឋកិច្ច ឬ ហៅ កាត់ ថា សាលា រូល
+khmer-dataset/wavs/khm_7548_0711011082.wav|កម្មវិធី សម្រាប់ បញ្ចូល កុំព្យូទ័រ
+khmer-dataset/wavs/khm_7548_0745084490.wav|រឿង ព្រះ អាទិត្យ ថ្មី រះ លើ ដែន ដី ចាស់
+khmer-dataset/wavs/khm_7548_0750801378.wav|អេទែរអេទីលិក ជា វិហារ សាសនា ឥស្លាម
+khmer-dataset/wavs/khm_7548_0754669290.wav|ហ្គាតា មាន តំបន់ ទេសចរណ៍ ល្បី ល្បី ច្រើន
+khmer-dataset/wavs/khm_7548_0799055423.wav|រឿង កម្លោះ ពីរ នាក់ ចង់ បាន ប្រពន្ធ គេ
+khmer-dataset/wavs/khm_7548_0800633104.wav|វិទ្យាស្ថាន បច្ចេកវិទ្យា កម្ពុជា
+khmer-dataset/wavs/khm_7548_0802523716.wav|មែសស៊ី ជា អ្នក ជំនាញ ផ្នែក ទីផ្សារ ដ៏ ល្បី ម្នាក់
+khmer-dataset/wavs/khm_7548_0827059743.wav|មហា កំផែង ចិន ត្រូវ បាន ព័ត៌មាន ខ្មែរ ចុះផ្សាយ
+khmer-dataset/wavs/khm_7548_0827568124.wav|កណ្ដៀរ ជា សត្វ ល្អិត មួយ ប្រភេទ ដែល ចេះ ពូន ដី ឱ្យ កើត ជា ដំបូក
+khmer-dataset/wavs/khm_7548_0828491260.wav|ស៊ីតថល មិន មាន សំរាម ច្រើន ទេ
+khmer-dataset/wavs/khm_7548_0880316022.wav|ហ្វង់តានីល ជា សាស្ត្រាចារ្យ ដែល មាន វ័យ ចំណាស់
+khmer-dataset/wavs/khm_7548_0897849767.wav|ផ្សារ ថ្មី បោះពុម្ព និង ឆ្លាក់ ត្រា
+khmer-dataset/wavs/khm_7548_0940684336.wav|ប្រទេស អេហ្ស៊ីប មាន ប្រាសាទ ពីរ៉ាមីត
+khmer-dataset/wavs/khm_7548_0948865780.wav|លោក ថូម៉ាស់ អេឌីសាន់ កើត នៅ ឆ្នាំ មួយ ពាន់ ប្រាំបី រយ សែសិប ប្រាំពីរ
+khmer-dataset/wavs/khm_7548_0960212186.wav|ភោជនីយដ្ឋាន ដាវ កាហ្វេ បើក ទីតាំង ថ្មី
+khmer-dataset/wavs/khm_7548_1006781431.wav|បុគ្គលិក ផ្នែក ព័ត៌មាន វិទ្យា នៅ ធនាគារ ឯកទេស តូម៉ាតូ បាន ប្រាក់ ខែ ខ្ពស់
+khmer-dataset/wavs/khm_7548_1025793221.wav|រថយន្ត ដឹក ទឹក សុទ្ធ ហាយតិច បុក អ្នក ជិះ ម៉ូតូ ទាំង កម្រោល នៅ មុខ វត្ត និរោធ
+khmer-dataset/wavs/khm_7548_1027324251.wav|មូលដ្ឋាន នៅ ទីក្រុង ដូហា ត្រូវ បាន កាន់កាប់ ដោយ មូស្លីម
+khmer-dataset/wavs/khm_7548_1057512741.wav|លី តាវហួ ជា តួ សម្ដែង ចិន ដែល ស្ថិត ក្នុង ចិត្ត របស់ ទស្សនិកជន ខ្មែរ
+khmer-dataset/wavs/khm_7548_1077756198.wav|ភីហ្សា វើល ផ្តល់ ជូន នូវ ប្រភេទ ផ្សេង ផ្សេង គ្នា នៃ ភីហ្សា សាឡាត់ ស៊ុប សាច់ មាន់ បង្អែម និង ភេសជ្ជៈ
+khmer-dataset/wavs/khm_7548_1103955358.wav|ប្រទេស អង់ដូរ៉ា ជា ប្រទេស ដែល ចាយ ប្រាក់ អឺរ៉ូ
+khmer-dataset/wavs/khm_7548_1110755581.wav|ក្រុម ប្រឹក្សា ជំនិត ព្រះ មហា ក្សត្រ ថៃ
+khmer-dataset/wavs/khm_7548_1111647359.wav|គូនីភែ  និង  គូរ៉ូនែ  ជា បងប្អូន បង្កើត និង គ្នា
+khmer-dataset/wavs/khm_7548_1130559257.wav|ផ្សារ ដើម ថ្កូវ មាន លក់ បន្លែ បោះ ដុំ
+khmer-dataset/wavs/khm_7548_1137388939.wav|ប្រវត្តិ ពិធី បុណ្យ ចូល ឆ្នាំ ខ្មែរ
+khmer-dataset/wavs/khm_7548_1211354958.wav|សាលា រចនា មាន បង្រៀន សិស្ស គូរ គំនូរ និង រាំ
+khmer-dataset/wavs/khm_7548_1255862101.wav|ផ្សារ បឹងកេងកង ជា ផ្សារ ដ៏ ពេញ និយម មួយ ក្នុង ចំណោម យុវវ័យ កម្ពុជា ដែល កំពុង ស្វែងរក សម្លៀកបំពាក់ ដែល មាន តម្លៃ សមរម្យ
+khmer-dataset/wavs/khm_7548_1265551585.wav|ម៉ូណាកូ ជា ប្រទេស ដែល មាន ទំហំ ផ្ទៃ ដី តូច ជាង គេ
+khmer-dataset/wavs/khm_7548_1269995388.wav|ភាគ ច្រើន អ្នក ដែល ស្គាល់ លោក សាំយូអែល ជែកសិន គឺ ជា អ្នក គ្មាន គូ
+khmer-dataset/wavs/khm_7548_1280582828.wav|ចំនួន ប្រជា ជន ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_1290874163.wav|ភោជនីយដ្ឋាន និង សណ្ឋាគារ រ៉ូយ៉ាល់
+khmer-dataset/wavs/khm_7548_1293719375.wav|ខាហ្វ័រយូ  ផលិត រថយន្ត ទំនើប ទំនើប
+khmer-dataset/wavs/khm_7548_1304286050.wav|ភីហ្សា វើល មាន ប្រាំ សាខា ក្នុង ក្រុង ភ្នំពេញ គឺ នៅ ផ្លូវ មុនីវង្ស ផ្សារ សុវណ្ណា ផ្សារ ស៊ីធីម៉ល ផ្សារ រតនា ផ្លាហ្សា និង ផ្លូវ កម្ពុជា ក្រោម
+khmer-dataset/wavs/khm_7548_1305365590.wav|ផ្លាក សញ្ញា ចរាចរណ៍ នៅ កូរ៉េ ខាង ត្បូង
+khmer-dataset/wavs/khm_7548_1341593564.wav|វប្បធម៌ ទំនៀមទំលាប់ ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_1343596016.wav|វិធីសាស្ត្រ ការពារ ខ្លួន ពី ព្រាន នារី
+khmer-dataset/wavs/khm_7548_1351671201.wav|សុន្ទរកថា ទទួល សញ្ញាបត្រ បណ្ឌិត កិត្តិយស ភាព ជា អ្នក ដឹកនាំ ឆ្នើម ពី សកល វិទ្យាល័យ លីមកុកវីង នៃ ប្រទេស ម៉ាឡេស៊ី
+khmer-dataset/wavs/khm_7548_1354508200.wav|វ៉ោយ  សុធន់  ត្រូវ ឡើង រេញ នៅ ក្រុង បាងកក
+khmer-dataset/wavs/khm_7548_1416411334.wav|ហាង នេះ មើល ទៅ កខ្វិកកខ្វក់ ណាស់
+khmer-dataset/wavs/khm_7548_1423276771.wav|ប្រទេស ស៊ុយអែត បាន ត្រួតត្រា ទីក្រុង អ៊ីស្តង់ប៊ុល ក្នុង កំឡុង សង្គ្រាម លោក
+khmer-dataset/wavs/khm_7548_1430402582.wav|ម៉ាលី មាន នាំ ចេញ ស្រាបៀរ ដ៏ ល្បី លើ ពិភព លោក
+khmer-dataset/wavs/khm_7548_1512963107.wav|អ្នក នេសាទ ប្រើ  សាយ៉ឺន  ឬ  ស្បៃ មុង ដើម្បី រក ត្រី
+khmer-dataset/wavs/khm_7548_1545753407.wav|យុទ្ធសាស្ត្រ នៃ ការ គ្រប់គ្រង ឥរិយាបថ
+khmer-dataset/wavs/khm_7548_1585135238.wav|ព្រះ រាជ ពិធី ច្រត់ ព្រះ នង្គ័ល
+khmer-dataset/wavs/khm_7548_1585174826.wav|អិន អេ ប្លាស្ទិច សូឡូសិន ខូ អិល ធី ឌី
+khmer-dataset/wavs/khm_7548_1587284716.wav|សុគន្ធ នីសា ត្រូវ ផលិតកម្ម ថោន ហាម មិន ឱ្យ ច្រៀង នៅ ទូរទស្សន៍ ហង្ស មាស
+khmer-dataset/wavs/khm_7548_1596579559.wav|ប្រទេស ព្រុយណេ សំបូរ អណ្ដូង ប្រេង ណាស់
+khmer-dataset/wavs/khm_7548_1610863075.wav|ម៉ូហ្សាំប៊ិក មាន លក់ សម្ភារៈ សិក្សា
+khmer-dataset/wavs/khm_7548_1613558946.wav|បៃឌូ ល្បី មិន ចាញ់ អាលីបាបា ទេ
+khmer-dataset/wavs/khm_7548_1634999275.wav|សណ្ឋាគារ ព្រីនសេស ក្រុង ព្រះ សីហនុ
+khmer-dataset/wavs/khm_7548_1655048761.wav|ជា ហាំង ស្រី លក់ គ្រឿង អេឡិចត្រូនិក
+khmer-dataset/wavs/khm_7548_1658871051.wav|កាលីហ្វញ៉ា ជា រដ្ឋ មួយ ដែល មាន សម្ភារៈ ប្រើប្រាស់ ទំនើប ទំនើប
+khmer-dataset/wavs/khm_7548_1675543500.wav|ងឿង និង យឺន ជា មនុស្ស ងឿងឆ្ងល់ ច្រើន
+khmer-dataset/wavs/khm_7548_1675668938.wav|វិទ្យុ និង ទូរទស្សន៍ អាស៊ី អាគ្នេយ៍
+khmer-dataset/wavs/khm_7548_1684376873.wav|សមុទ្រ ក្រហម ជា សមុទ្រ ដែល មាន ប្រយោជន៍ ជាង គេ
+khmer-dataset/wavs/khm_7548_1688651132.wav|រី ហាណា ជា តារា ចំរៀង ដ៏ ល្បី មួយ រូប
+khmer-dataset/wavs/khm_7548_1690074877.wav|សាលា វ៉ាន់ដា ហ្នឹង និយាយ ឱ្យ ចំ ទៅ ដូច នគរ ស្រី ល្វ
+khmer-dataset/wavs/khm_7548_1692302359.wav|ប្រវត្តិ អូន យ៉ាង ណា ក៏ បង នៅតែ ស្រលាញ់
+khmer-dataset/wavs/khm_7548_1697319293.wav|រឿង ព្យុះ ស្នេហ៍ អន្លង់ ទឹក ភ្នែក មាន ផ្សាយ ជូន ទស្សនា នៅ លើ កញ្ចក់ ទូរទស្សន៍ ម៉ាយ ធីវី
+khmer-dataset/wavs/khm_7548_1699784344.wav|យានដ្ឋាន ជួសជុល យានយន្ដ ឡៅ ប៊ុនឃាង
+khmer-dataset/wavs/khm_7548_1751592581.wav|ក្រុមហ៊ុន ជាតិ ធានារ៉ាប់រង កម្ពុជា
+khmer-dataset/wavs/khm_7548_1753737489.wav|សាលា បង្រៀន ថែ រក្សា សម្ផស្ស កម្ពុជា
+khmer-dataset/wavs/khm_7548_1755080003.wav|នី មុនីនាថ ខំ រក ប្រាក់ បង់ រំលស់ ថ្លៃ ផ្ទះ
+khmer-dataset/wavs/khm_7548_1776379774.wav|ន័រវែស  ម្យូហ្សៀម  ជា ឈ្មោះ សារមន្ទីរ បុរាណ មួយ
+khmer-dataset/wavs/khm_7548_1780235853.wav|សាលា ហ្សាម៉ាន់ អន្ដរជាតិ ដែល ជា គ្រឹះស្ថាន អប់រំ ប្រកប ដោយ គុណភាព ខ្ពស់ និង ទំនុកចិត្ត
+khmer-dataset/wavs/khm_7548_1831257086.wav|មាន ប្រជា ជន ជិត បី លាន នាក់ រស់នៅ ក្រុង រ៉ូម នៅ អ៊ីតាលី
+khmer-dataset/wavs/khm_7548_1847421255.wav|ខ្ញុំ ចង់ ទៅ លេង នៅ ទីក្រុង ហូជីមិញ ទីក្រុង យាំងហ្គូន និង ប្រទេស សិង្ហបូរី
+khmer-dataset/wavs/khm_7548_1880778640.wav|សាងែម យោល កូន ក្នុង អង្រឹង យំ ង៉ែង៉
+khmer-dataset/wavs/khm_7548_1882674737.wav|ព្យុងយ៉ាង ជា ផ្នែក មួយ នៃ កូរ៉េ ដែល មាន សីតុណ្ហភាព ត្រជាក់ ខ្លាំង
+khmer-dataset/wavs/khm_7548_1885236224.wav|ភោជនីយដ្ឋាន និង ផ្ទះ សំណាក់ ផ្កា ឈូក
+khmer-dataset/wavs/khm_7548_1891984401.wav|ស្រលាញ់ មនុស្ស ម្នាក់ គ្មាន ហេតុផល
+khmer-dataset/wavs/khm_7548_1954719684.wav|ពួក យើង បាន ទៅ ធ្វើ បុណ្យ នៅ វត្ត អរុណ
+khmer-dataset/wavs/khm_7548_1962343222.wav|សាលា តិចណូ មាន សិស្ស ពូកែ ច្រើន ណាស់
+khmer-dataset/wavs/khm_7548_1963693758.wav|សាលា បៀលប្រាយ បាន បើក សាខា គ្រប់ ខេត្ត ក្រុង នៅ ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_1984060347.wav|រ៉ូប៊ើត  ទៅ លេង  វីសហ្វ  ជាមួយ  ហួភិញ
+khmer-dataset/wavs/khm_7548_2017680038.wav|ស៊ី អិន ស៊ី ជា ប៉ុស្តិ៍ ទូរទស្សន៍ ដែល ផ្ដោត សំខាន់ លើ អាជីវកម្ម និង ព័ត៌មាន
+khmer-dataset/wavs/khm_7548_2022965601.wav|អាកាសយានដ្ឋាន អន្តរជាតិ សៀមរាប អង្គរ
+khmer-dataset/wavs/khm_7548_2051410559.wav|បេសកកម្ម គ្រូ ពេទ្យ សង្គ្រោះ បន្ទាន់
+khmer-dataset/wavs/khm_7548_2058532132.wav|សប្បាយ គឺ ជា គេហទំព័រ នាំ មុខ គេ ក្នុង ប្រទេស កម្ពុជា សម្រាប់ យុវវ័យ
+khmer-dataset/wavs/khm_7548_2061714562.wav|សេវា ពិគ្រោះ យោបល់ និង ចិត្តសាស្ត្រ
+khmer-dataset/wavs/khm_7548_2069405849.wav|អៀរ៉ា ធ្វើ មុខ ក្រញេវក្រញូវ
+khmer-dataset/wavs/khm_7548_2073847694.wav|ពោធិរង្សី ជា វត្ត មួយ ដែល ស្ថិត ក្នុង ភូមិ ឃ្មង់
+khmer-dataset/wavs/khm_7548_2086419155.wav|ឯ សំពៅ នោះ ក៏ កើត ទៅ ជា ភ្នំ ធំ មួយ មាន រាង ជា សំពៅ សុទ្ធសាធ ហៅ ថា ភ្នំ សំពៅ
+khmer-dataset/wavs/khm_7548_2088795473.wav|សណ្ឋាគារ អ៊ីនធើខន់ មាន ម្ហូប ខ្មែរ ដែល មាន រសជាតិ ឆ្ងាញ់
+khmer-dataset/wavs/khm_7548_2132683748.wav|ភោជនីយដ្ឋាន ផាក កាហ្វេ នៅតែ ឈរ លំដាប់ មុខ គេ ហើយ មាន សាខា ច្រើន ក្នុង ស្រុក
+khmer-dataset/wavs/khm_7548_2133285951.wav|យើង អាច លក់ ផលិតផល មួយចំនួន តាម ឡាញ បាន
+khmer-dataset/wavs/khm_7548_2166209025.wav|យុត្តិធម៌ គ្មាន ទេ សំរាប់ អ្នក ស្មោះ
+khmer-dataset/wavs/khm_7548_2170671377.wav|ភ្ញៀវ កិត្តិយស ដែល បាន ឈ្នះ រង្វាន់ ធំ ប័ណ្ណ ទឹក ប្រាក់ ហាសិប ដុល្លារ ពី ភោជនីយដ្ឋាន ស្ប៉ាក និង តាវ៉ាន់ដាង
+khmer-dataset/wavs/khm_7548_2183793184.wav|ការ គ្រប់គ្រង សាច់ប្រាក់ ងាយស្រួល
+khmer-dataset/wavs/khm_7548_2185309956.wav|សិស្ស ហ្សាម៉ាន់ ប្តេជ្ញា អភិវឌ្ឍ ខ្លួន ជា សសរ ទ្រូង សង្គម
+khmer-dataset/wavs/khm_7548_2190377975.wav|ពិធី សម្ពោធ បើក ហាង ហ្វដ ត្រូវ បាន ធ្វើ ឡើង នៅ ថ្ងៃ នេះ
+khmer-dataset/wavs/khm_7548_2199381539.wav|យេស៊ូ បាន ជួយ ប្រោស ជីវិត មនុស្ស ជា ច្រើន
+khmer-dataset/wavs/khm_7548_2222619084.wav|មនុស្ស ប្រុស មិន ខូច ស្រី មិន ស្រលាញ់
+khmer-dataset/wavs/khm_7548_2225912258.wav|ពេញចិត្ត កាត់ តែម និង អ៊ុត ទូរសព្ទ
+khmer-dataset/wavs/khm_7548_2248421483.wav|ក្រុមហ៊ុន លក់ ម្ហូបអាហារ ជីប ស៊្រុន
+khmer-dataset/wavs/khm_7548_2272778543.wav|ម្កុដ ពេជ្រ លក់ គ្រឿង អលង្ការ សុទ្ធ ល្អ និង មាន តម្លៃ សមរម្យ
+khmer-dataset/wavs/khm_7548_2291218525.wav|សាលា ចំណេះដឹង ទូទៅ ហេលឡូ អាមេរិកាំង
+khmer-dataset/wavs/khm_7548_2314264389.wav|រ៉ូណាល់ឌីញ៉ូ ជា កីឡា ករ បាល់ទាត់ ដែល មាន រូបរាង សង្ហារ
+khmer-dataset/wavs/khm_7548_2343822276.wav|វ៉ុលវ៉ូ ផលិត និង ចែកចាយ គ្រឿង ចក្រ ច្រើន ប្រភេទ ដូចជា ឡាន ក្រុង ឡាន ដឹក ទំនិញ និង សម្ភារៈ សំណង់
+khmer-dataset/wavs/khm_7548_2347300926.wav|កុំ ស្លាប់ ដូច ពស់ កុំ រស់ ដូច កង្កែប
+khmer-dataset/wavs/khm_7548_2358969452.wav|សណ្ឋាគារ ផាកវេ បាន បើក ដំណើរការ តាំងពី ឆ្នាំ ពីរ ពាន់ ដប់ មក ម្ល៉េះ
+khmer-dataset/wavs/khm_7548_2359982409.wav|ពាក្យ សច្ចា ប្រណិធាន ជាតិ សិង្ហបុរី
+khmer-dataset/wavs/khm_7548_2369622962.wav|យានដ្ឋាន ជួសជុល យានយន្ដ លី ប៊ុនលីម
+khmer-dataset/wavs/khm_7548_2390537025.wav|រោងចក្រ  ដេស៊ីហ្គល  ផលិត កង់ រថយន្ត
+khmer-dataset/wavs/khm_7548_2396806766.wav|មាន សូរ្យ គ្រាស ជា រូប ចិញ្ចៀន នៅ អូស្ត្រាលី ឆ្នាំ នេះ
+khmer-dataset/wavs/khm_7548_2399730210.wav|តូរេហ្វែកសិន ជា ក្រុមហ៊ុន ទេសចរណ៍ ទៅ ប្រទេស កូរ៉េ
+khmer-dataset/wavs/khm_7548_2404091397.wav|មន្ទីរ ព្យាបាល ធ្មេញ ស្មាយល៍ ហូលីវូដ
+khmer-dataset/wavs/khm_7548_2416203677.wav|ល្ងាច នេះ មាន ណាត់ នៅ សាប៊ូ សាប៊ូ
+khmer-dataset/wavs/khm_7548_2429604414.wav|នៀផលលីថេន  ហាង លក់ សម្ភារៈ ក្មេង លេង
+khmer-dataset/wavs/khm_7548_2489382250.wav|ហ្គ៊ីបបុង ដើរ ផ្សារ នៅ ថ្ងៃ នេះ
+khmer-dataset/wavs/khm_7548_2517343351.wav|ឆេងអ៊ន់ រៀន ជប៉ុន បាន ល្អ
+khmer-dataset/wavs/khm_7548_2517379837.wav|ការិយាល័យ កិច្ចការ ច្បាប់ កម្ពុជា
+khmer-dataset/wavs/khm_7548_2519015575.wav|លោក គែន ជា អ្នក លក់ ផ្លែ ឈើ នៅ ផ្សារ អូឡាំពិក
+khmer-dataset/wavs/khm_7548_2529805715.wav|មន្ទីរ ពាណិជ្ជ កម្ម ខេត្ត ព្រះ សីហនុ
+khmer-dataset/wavs/khm_7548_2557996526.wav|ក្រុមហ៊ុន អាហរ័ណ នីហរ័ណ អ៊ុយញ៉ុង
+khmer-dataset/wavs/khm_7548_2563250875.wav|តើ ទីក្រុង សាន់ហ្វ្រាន់ស៊ីស្កូ មាន កន្លែង កម្សាន្ត ច្រើន ទេ
+khmer-dataset/wavs/khm_7548_2566685434.wav|ប្រវត្តិសាស្ត្រ ខ្មែរ មុន សម័យ អង្គរ
+khmer-dataset/wavs/khm_7548_2592751596.wav|គាត់ មាន កម្ពស់ ទាប ក្រញុញ ញ៉ុញ
+khmer-dataset/wavs/khm_7548_2612392588.wav|មន្ទីរ ពេទ្យ ឈឺន មីន ជា មន្ទីរពេទ្យ ពេទ្យ ព្យាបាល រោគ ស្ត្រី
+khmer-dataset/wavs/khm_7548_2628989849.wav|ព្រះ ពុទ្ធសាសនា និង វិទ្យាសាស្ត្រ
+khmer-dataset/wavs/khm_7548_2635772140.wav|ប្រព័ន្ធ សេដ្ឋកិច្ច ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_2649020267.wav|វឿត  និង  វឿន  បើក ភោជនីយដ្ឋាន ថ្មី
+khmer-dataset/wavs/khm_7548_2666400452.wav|សាលា អន្តរជាតិ រ៉ូយ៉ាល់ អាមេរិកាំង
+khmer-dataset/wavs/khm_7548_2670627914.wav|រដ្ឋមន្ត្រី ក្រសួង ធម្មការ និង សាសនា
+khmer-dataset/wavs/khm_7548_2713723295.wav|ភាព ខុស គ្នា រវាង អ្នក មាន និង អ្នក ក្រ
+khmer-dataset/wavs/khm_7548_2727752279.wav|សាលា ក្រហម ជា សាលា រដ្ឋ ដែល មាន តម្លៃ សិក្សា សមរម្យ បើ ប្រៀបធៀប នឹង សាលា ផ្សេង ទៀត
+khmer-dataset/wavs/khm_7548_2728161918.wav|អាំងទែហ្វែរ៉ុង  ជា ប្រូតេអ៊ីន សម្រាប់ ការពារ មេរោគ
+khmer-dataset/wavs/khm_7548_2731155406.wav|ប្លាតុង ជា ទស្សនវិទូ ដ៏ ល្បី ម្នាក់
+khmer-dataset/wavs/khm_7548_2796409719.wav|ហាង លក់ គ្រឿង យន្ដ និង គ្រឿង ម៉ាស៊ីន
+khmer-dataset/wavs/khm_7548_2887073712.wav|ក្រុមហ៊ុន ការ៉ូ សេរ៉ាមិច រ៉ូយ៉ាល់
+khmer-dataset/wavs/khm_7548_2887732051.wav|គណៈ មេធាវី នៃ ព្រះ រាជាណាចក្រ កម្ពុជា
+khmer-dataset/wavs/khm_7548_2896382796.wav|មជ្ឈមណ្ឌល កែ សម្ផស្ស ព្រាប សុវត្ថិ
+khmer-dataset/wavs/khm_7548_2902563847.wav|សាលា បាក់ទូក មាន សិស្ស ប្រឡង បាន និទ្ទេស អេរាល់ ឆ្នាំ
+khmer-dataset/wavs/khm_7548_2931259667.wav|អប្សរា ជា អត្តសញ្ញាណ ជាតិ ខ្មែរ
+khmer-dataset/wavs/khm_7548_3007358677.wav|វិទ្យាស្ថាន ភាសា អង់គ្លេស ខូលីនវ៉ូត
+khmer-dataset/wavs/khm_7548_3046904202.wav|ឌិផាតមិន  ក្រុមហ៊ុន ផ្ដល់ សេវា កម្ម ប្រាក់ កម្ចី
+khmer-dataset/wavs/khm_7548_3051568325.wav|យ៉ែម មាន ចំការ កៅស៊ូ ប្រាំ ហិកតារ
+khmer-dataset/wavs/khm_7548_3060127852.wav|សិស្ស សាលា ដូរ្យតន្ត្រី និង សិល្បៈ គំនូរ  ស៊ីមហ្វូនី  បង្ហាញ ទេពកោសល្យ
+khmer-dataset/wavs/khm_7548_3070070334.wav|អូប៉ូ ជា ក្រុមហ៊ុន អេឡិចត្រូនិក របស់ ចិន ដែល មាន ទីតាំង នៅ ក្នុង តំបន់ ក្វាងទុង
+khmer-dataset/wavs/khm_7548_3081519815.wav|វៀតណាម មាន ការ រីកចំរើន ផ្នែក សេដ្ឋកិច្ច យ៉ាង ខ្លាំង
+khmer-dataset/wavs/khm_7548_3086796513.wav|បៀរហ្គាឌែន  បើក ស្ទើរ គ្រប់ កន្លែង នៅ ប៉ៃលិន
+khmer-dataset/wavs/khm_7548_3134056842.wav|ស្រេង ប៊ូ លក់ និង ជួសជុល ម៉ាស៊ីន ដេរ
+khmer-dataset/wavs/khm_7548_3141688427.wav|គីមហ្កិច  ជា និស្សិត រៀន នៅ សាកល វិទ្យាល័យ ជាតិ គ្រប់គ្រង
+khmer-dataset/wavs/khm_7548_3154821831.wav|មន្ទីរ ពេទ្យ បង្អែក រាជធានី ភ្នំពេញ ប្រកាស សម្រាក ចំនួន ពីរ ថ្ងៃ
+khmer-dataset/wavs/khm_7548_3174890097.wav|ប្រាសាទ លលៃ ស្ថិត ក្នុង ខេត្ត សៀមរាប
+khmer-dataset/wavs/khm_7548_3268204585.wav|រស្មី កម្ពុជា បាន ប្រកាស ថា ស្ពាន អ្នកលឿង បាន ដាក់ ឱ្យ ប្រើប្រាស់ ហើយ
+khmer-dataset/wavs/khm_7548_3270603247.wav|មន្ទីរ ពេទ្យ បង្អែក រាជធានី ភ្នំពេញ ជួយ ដល់ ប្រជា ជន ក្រីក្រ
+khmer-dataset/wavs/khm_7548_3301895399.wav|ឌែកហ្គឺ  ចូលចិត្ត ស្រាបៀរ  ថៃហ្គើ
+khmer-dataset/wavs/khm_7548_3309576746.wav|ហ្សិតតា  មាន កុំព្យូទ័រ យួរ ដៃ ប្រាំ គ្រឿង
+khmer-dataset/wavs/khm_7548_3326200744.wav|អ្នក ប្រដាល់ វាយ គ្នា អ៊ឹះអ៊ះ ដើម្បី បាន ប្រាក់ ឧបត្ថម្ភ
+khmer-dataset/wavs/khm_7548_3328565884.wav|សាប៊ូ សាប៊ូ ជា ភោជនីយដ្ឋាន ដែល មាន លក់ អាហារ ប៊ូហ្វេ និង ម្ហូប ជប៉ុន
+khmer-dataset/wavs/khm_7548_3350792518.wav|លោក ប្រធានាធិបតី ប៉េត្រូ បូរ៉ូសិនកូ កើត នៅ ថ្ងៃ ទី ម្ភៃ ប្រាំមួយ ខែ កញ្ញា ឆ្នាំ មួយ ពាន់ ប្រាំបួន រយ ហុកសិប ប្រាំ
+khmer-dataset/wavs/khm_7548_3359104129.wav|មេប៊ែង ជា ធនាគារ ធំ មួយ របស់ ម៉ាឡេស៊ី ដែល បាន បើក សាខា នៅ កម្ពុជា កាលពី ឆ្នាំ មួយ ពាន់ ប្រាំបួន រយ កៅសិប បី
+khmer-dataset/wavs/khm_7548_3374727580.wav|លោក ប្រធានាធិបតី ចិន ស៊ី ជីនពីង នឹង អញ្ជើញ ទៅ ដល់ ទីក្រុង សេអ៊ូល ក្រោម ការ ទទួល ស្វាគមន៍ ពី សំណាក់ លោកស្រី ប្រធានាធិបតី កូរ៉េ ខាង ត្បូង ប៉ាក់ គុនហេ
+khmer-dataset/wavs/khm_7548_3386480406.wav|ផ្ទះ សំណាក់ វែរហោស មាន ទីតាំង នៅ ភ្នំពេញ
+khmer-dataset/wavs/khm_7548_3412151647.wav|លោក អភិបាល ខេត្ត កណ្ដាល បញ្ជូន មន្ត្រី ជំនាញ ចុះ វាស់វែង ដី ឱ្យ អ្នក កាសែត ខេមបូឌា ដេលី
+khmer-dataset/wavs/khm_7548_3430039051.wav|ភូកេត បង្កើត តំបន់ សេដ្ឋកិច្ច ថ្មី មួយ ទៀត
+khmer-dataset/wavs/khm_7548_3441012749.wav|អង្គរ ទិព្វ បោះពុម្ព និង ឆ្លាក់ ត្រា
+khmer-dataset/wavs/khm_7548_3447480289.wav|បៀរហ្កាដិន មជ្ឈមណ្ឌល កំសាន្ត ពេញនិយម
+khmer-dataset/wavs/khm_7548_3464711250.wav|ព្រះ សង្ឃ និង និស្សិត ខេត្ត បាត់ដំបង ចែក ចំណីអាហារ ដល់ អ្នក ជំងឺ នៅ មន្ទីរ ពេទ្យ ខេមរបុត្រ
+khmer-dataset/wavs/khm_7548_3495858175.wav|មនុស្ស ជា ច្រើន ត្មិះ ដៀល ទង្វើ របស់ គាត់
+khmer-dataset/wavs/khm_7548_3530707572.wav|សាលា ជ័យ ថាវី បង្រៀន គួរ សម្រាប់ ត្រៀម ប្រឡង បាក់ឌុប
+khmer-dataset/wavs/khm_7548_3545179562.wav|ផ្សារ សុវណ្ណា មាន លក់ សម្លៀកបំពាក់ ស្អាត ស្អាត និង មាន តម្លៃ សមរម្យ
+khmer-dataset/wavs/khm_7548_3550645250.wav|លោក អូបាម៉ា និយាយ ថា ក្រុង វ៉ាស៊ីនតោន មាន ការ ចាប់អារម្មណ៍ ចំពោះ ប្រទេស អ៊ីរ៉ង់ យ៉ាង ខ្លាំង
+khmer-dataset/wavs/khm_7548_3554576544.wav|ឡាំង ឡន លក់ គ្រឿង សំណង់ និង អគ្គិសនី
+khmer-dataset/wavs/khm_7548_3576040989.wav|សណ្ឋាគារ សូហ្វីតែល ភូគីត្រា ភ្នំពេញ ជាប់ ចំណាត់ ថ្នាក់ ជា សណ្ឋាគារ ឆ្នើម តំបន់ អាស៊ី អាគ្នេយ៍
+khmer-dataset/wavs/khm_7548_3583284007.wav|ភោជនីយដ្ឋាន សាច់ អាំង ជប៉ុន អូរ៉ាតេ
+khmer-dataset/wavs/khm_7548_3603679724.wav|សកលវិទ្យាល័យ អាមេរិកាំង ភ្នំពេញ
+khmer-dataset/wavs/khm_7548_3649818745.wav|លូ សៀណា សំបូរ ទៅ ដោយ ទេសភាព ស្រស់ បំព្រង
+khmer-dataset/wavs/khm_7548_3684476211.wav|ប្រវត្តិ ក្រុមហ៊ុន ស្រាបៀរ កម្ពុជា
+khmer-dataset/wavs/khm_7548_3746465738.wav|លោក  ហ្គង់  មាន ចំការ ទំពាំងបាយជូរ ដ៏ ធំ មួយ
+khmer-dataset/wavs/khm_7548_3751756802.wav|លីអូណាដូ ដាវីន ស៊ី ជា អ្នក ផ្តើម គំនិត បង្កើត យន្តហោះ មុន គេ
+khmer-dataset/wavs/khm_7548_3776017168.wav|អូរែខល ល្បី ខាង រក ដៃគូ ជំនួញ
+khmer-dataset/wavs/khm_7548_3782337141.wav|វ៉ិចតូរៀ ជា មន្ទីរ ពេទ្យ ឯកទេស រោគ ស្ត្រី
+khmer-dataset/wavs/khm_7548_3788091673.wav|មជ្ឈមណ្ឌល វប្បធម៌ បារាំង ឬ ហៅ កាត់ ថា សាលា អាលីយ៉ង់
+khmer-dataset/wavs/khm_7548_3788803738.wav|ពឿត ជា ប្អូន របស់ ពឿប
+khmer-dataset/wavs/khm_7548_3790188559.wav|លោក អគ្គ បណ្ឌិត ប៊ុន សាវង្ស មាន កម្មវិធី ផ្សព្វផ្សាយ ព្រះ ធម៌ ជា ទៀងទាត់
+khmer-dataset/wavs/khm_7548_3793098684.wav|រថយន្ត អូឌី មាន តម្លៃ រាប់ លាន ដុល្លារ
+khmer-dataset/wavs/khm_7548_3808831326.wav|ឆែកផញ ជា តំបន់ ដែល មាន ការ អភិវឌ្ឍ
+khmer-dataset/wavs/khm_7548_3815189021.wav|សៀវភៅ ឪពុក អ្នក មាន បង្រៀន កូន អ្នក ក្រ
+khmer-dataset/wavs/khm_7548_3825241440.wav|អៀង ហេង លក់ ស្បង់ ជីពរ ទៀន ព្រះ វស្សា
+khmer-dataset/wavs/khm_7548_3846369130.wav|ឡេសហ្គីយ៉ាន  ជា មជ្ឈមណ្ឌល ជន ចាស់ជរា
+khmer-dataset/wavs/khm_7548_3882969000.wav|កន្តុមអ៊ឺត ត្រូវ ជា កូន របស់ ពូ ពឺង
+khmer-dataset/wavs/khm_7548_3904488521.wav|ខោអាវ កីឡា អាឌីដាស មាន គុណភាព ល្អ ណាស់
+khmer-dataset/wavs/khm_7548_3916098384.wav|មហាត្មៈគន្ធី ជា អ្នក ប្រាជ្ញ នៃ ប្រទេស ឥណ្ឌា
+khmer-dataset/wavs/khm_7548_3939785069.wav|លី ឃើឈាង បាន តស៊ូ រហូត ក្លាយ ជា មនុស្ស ម្នាក់ ក្នុង ចំណោម អ្នក មាន លុយ ច្រើន ជាង គេ នៅ អាស៊ី
+khmer-dataset/wavs/khm_7548_3958828704.wav|ការ កាត់ បន្ថយ ភាព ក្រីក្រ នៅ កម្ពុជា
+khmer-dataset/wavs/khm_7548_3981615808.wav|ផ្គត់ផ្គង់ ជួសជុល និង គ្រឿង បន្លាស់
+khmer-dataset/wavs/khm_7548_3997865482.wav|តាំង គីមម៉េង លក់ គ្រឿង បន្លាស់ ម៉ូតូ
+khmer-dataset/wavs/khm_7548_4000900685.wav|ដាវីដ  ខូភើហ្វៀល  លេង សៀក ដូច មែនទែន
+khmer-dataset/wavs/khm_7548_4024504753.wav|វិទ្យាស្ថាន បណ្តុះបណ្តាល កម្ពុជា
+khmer-dataset/wavs/khm_7548_4026968395.wav|លោក ប្រធានាធិបតី ចច ប៊ូស ត្រូវ បាន គេ លប ធ្វើ ឃាត កាលពី ខែ មេសា នៅ ប្រទេស គុយវ៉ែត តែ មិន បាន សំរេច
+khmer-dataset/wavs/khm_7548_4031871061.wav|ការ លុបបំបាត់ ការ ប្រកាន់ ពូជសាសន៍
+khmer-dataset/wavs/khm_7548_4066174613.wav|ស៊ីរី ជា ប្រទេស ដែល មាន ប្រជា ជន ក្រីក្រ ច្រើន
+khmer-dataset/wavs/khm_7548_4079928427.wav|អាលីហ្សា  ជា តារា បង្ហាញ ម៉ូត
+khmer-dataset/wavs/khm_7548_4083599474.wav|ផ្សារ សូរិយា ជា ផ្សារ ទំនើប មុន គេ នៅ ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_7548_4108323078.wav|សាលា ប៊ែលធី បាន បើក សាខា ទាំង អស់ ចំនួន សាមសិប ហើយ
+khmer-dataset/wavs/khm_7548_4134715882.wav|ព្រែក ជីក ស៊ុយអេ គឺ ជា ច្រក ដ៏ សំខាន់ មួយ ក្នុង ការ ដឹក ជញ្ជូន តាម ផ្លូវ ទឹក ឆ្លងកាត់ តាម សមុទ្រ មេឌីទែរ៉ាណេ ទៅ កាន់ សមុទ្រ ក្រហម
+khmer-dataset/wavs/khm_7548_4136516484.wav|ប្អូន ស្រី ខ្ញុំ បាន ទៅ ធ្វើការ នៅ ឈៀង រ៉ៃ
+khmer-dataset/wavs/khm_7548_4136677644.wav|ប្រជា ជន ស្រីលង្កា ភាគ ច្រើន គោរព សាសនា ព្រះ ពុទ្ធ
+khmer-dataset/wavs/khm_7548_4141848057.wav|ឆ័រហ្សា ច្នៃ ម៉ូត សម្លៀកបំពាក់ ប្លែក ប្លែក
+khmer-dataset/wavs/khm_7548_4148148093.wav|រោងចក្រ នេះ បាន ផលិត ស្រាបៀរ ដោយ ដាក់ ស្លាក សញ្ញា ពីរ គឺ ស្រាបៀរ អង្គរ និង ស្រាបៀរ បាយ័ន
+khmer-dataset/wavs/khm_7548_4164254192.wav|ក្រុមហ៊ុន គ្រឿង សំអាង ហ្គោលឌិន ហឺប
+khmer-dataset/wavs/khm_7548_4174430402.wav|លែធើរ៉ល  ប្រភព នៃ បច្ចេកវិទ្យា ទំនើប
+khmer-dataset/wavs/khm_7548_4183503041.wav|ម្ហូប នៅ ភោជនីយដ្ឋាន ផ្ទះ ម៉ែ ក្មេក ពិត ជា ឆ្ងាញ់ មែន
+khmer-dataset/wavs/khm_7548_4211543553.wav|ក្រុមហ៊ុន ញូ អេស៊ា ត្រានីត ខេមបូឌា
+khmer-dataset/wavs/khm_7548_4222307300.wav|ស្ថានីយ៍ ប្រេង ឥន្ធនៈ តេលា ទន្លេ សាប
+khmer-dataset/wavs/khm_7548_4272267792.wav|កាល បរិច្ឆេទ ប្រវត្តិសាស្ត្រ កម្ពុជា
+khmer-dataset/wavs/khm_8029_0028005762.wav|មនុស្ស ប្រាំ នាក់ នៅ បាវិត បាត់បង់ ជីវិត ដោយ អគ្គិភ័យ
+khmer-dataset/wavs/khm_8029_0064357273.wav|លោក សុភ័ណ្ឌ ណារី ត្រូវ បាន គេ តាមដាន ជីវិត សិល្បៈ របស់ លោក
+khmer-dataset/wavs/khm_8029_0080040048.wav|ក្រុម គ្រូ ពេទ្យ ស្ម័គ្រ ចិត្ត យុវជន
+khmer-dataset/wavs/khm_8029_0141556636.wav|នាយ វីតាមីនសេ បាន ជួយ ដល់ អង្គការ កុមារ កំព្រា
+khmer-dataset/wavs/khm_8029_0166696471.wav|កិច្ចការ ស្រាវជ្រាវ អំពី សេដ្ឋកិច្ច
+khmer-dataset/wavs/khm_8029_0206409645.wav|ស្រី តូច ចំណាន មាន កូន បួន នាក់ ជាមួយ លោក គិត ម៉េង
+khmer-dataset/wavs/khm_8029_0245461159.wav|អ៊ីពែបូល ជា ឈ្មោះ សមីការ មួយ ក្នុង មេរៀន គណិតវិទ្យា
+khmer-dataset/wavs/khm_8029_0252788569.wav|រដ្ឋមន្ត្រី ម៉ាំ ល្ហុង ច្រៀង ដូច សំលេង របស់ ខេមរៈ សិរីមន្ត
+khmer-dataset/wavs/khm_8029_0266122901.wav|វ៉ន វីវ៉ា បាន ដណ្តើម ខ្សែ ក្រវាត់ ពី កីឡា ករ ថៃ
+khmer-dataset/wavs/khm_8029_0272819691.wav|ចន អេឡិច ហ្សូរ៉ា មិន សូវ ល្បី ទេ
+khmer-dataset/wavs/khm_8029_0317983376.wav|ស្តេច កន មិន បាន ក្បត់ ប្រទេស ជាតិ ទេ
+khmer-dataset/wavs/khm_8029_0354407528.wav|នាយ កុយ ជា តារា កំប្លែង ដែល មាន កិត្តិនាម ល្បី
+khmer-dataset/wavs/khm_8029_0380749872.wav|ការ គ្រប់គ្រង ប្រព័ន្ធ ម៉ៅការ សំណង់
+khmer-dataset/wavs/khm_8029_0436208457.wav|ប៊ុនឃឺន  ជា មនុស្ស ស្មោះត្រង់
+khmer-dataset/wavs/khm_8029_0453084626.wav|អានដា បាន បង្កើត ស្តាយ ប្លែក ប្លែក ជា ច្រើន
+khmer-dataset/wavs/khm_8029_0469938981.wav|ការ អភិវឌ្ឍ កម្មវិធី កុំព្យូទ័រ
+khmer-dataset/wavs/khm_8029_0475041773.wav|លីអូណាដូ ឌីខាព្រីអូ សម្ដែង បាន ល្អ ដែរ តែ មិន ដែល ឈ្នះ ពាន អូស្កា សោះ
+khmer-dataset/wavs/khm_8029_0495735504.wav|ក្បត់ ធ្វើ អ្វី បើ ស្លាប់ ដូច គ្នា
+khmer-dataset/wavs/khm_8029_0508459051.wav|ស្រី ស្រី ឥឡូវ ចូលចិត្ត ស្លៀក ខើច ខ្លី
+khmer-dataset/wavs/khm_8029_0573180394.wav|បាន ស្នាក់នៅ ជាមួយ បងប្អូន ជីដូន មួយ នៅ ម្ដុំ ផ្សារ អូរ ឫស្សី
+khmer-dataset/wavs/khm_8029_0610634272.wav|ប្អូន ខ្ញុំ រៀន នៅ សាលា បញ្ញាសាស្ត្រ ជំនាញ អង់គ្លេស
+khmer-dataset/wavs/khm_8029_0634091190.wav|សូ មុយឃៀង ជា សភាចារ្យ និង សាស្ត្រាចារ្យ ដែល គួរ ឱ្យ គោរព
+khmer-dataset/wavs/khm_8029_0651738701.wav|ប្រុស ប្រុស ចូលចិត្ត ស្លៀក ខោ សំយេះ
+khmer-dataset/wavs/khm_8029_0656382319.wav|គំរោង អភិវឌ្ឍន៍ ទីក្រុង រណប ហ្គ្រេន ភ្នំពេញ
+khmer-dataset/wavs/khm_8029_0715156528.wav|សួន ចិន្ដា មាន សំលេង ស្រួយ ពី ធម្មជាតិ
+khmer-dataset/wavs/khm_8029_0799894596.wav|សាកល វិទ្យាល័យ បញ្ញាសាស្ដ្រ ធ្វើ បុណ្យ កតញ្ញូ ចំពោះ អ្នក មាន គុណ
+khmer-dataset/wavs/khm_8029_0895084292.wav|រេនេ ដេកាតស៍ ជា អ្នក ប្រាជ្ញ វ័យ ក្មេង ម្នាក់
+khmer-dataset/wavs/khm_8029_0969169351.wav|កិច្ច ប្រតិបត្តិការ ដែល មាន កិច្ច ធានា
+khmer-dataset/wavs/khm_8029_0990558582.wav|អេចឌីធីវី  ជា ឈ្មោះ កម្មវិធី ទូរទស្សន៍
+khmer-dataset/wavs/khm_8029_1002368927.wav|មនុស្ស យ៉ាង តិច បី នាក់ ស្លាប់ ដោយសារ ឆេះ ក្លឹប នៅ ចាក់អង្រែ ក្រោម
+khmer-dataset/wavs/khm_8029_1020765252.wav|ការ ប្រលង ឆមាស លើក ទី ពីរ ក្នុង សាលា បច្ចេកទេស ដុនបូស្កូ
+khmer-dataset/wavs/khm_8029_1028940636.wav|សកម្មភាព សេដ្ឋកិច្ច តំបន់ អាស៊ីប៉ាស៊ីហ្វិក មាន ការ កើន ឡើង
+khmer-dataset/wavs/khm_8029_1062001549.wav|គ្រប់ ប្រទេស ទាំង អស់ ត្រូវ ពង្រឹង ការ គោរព សិទ្ធិមនុស្ស
+khmer-dataset/wavs/khm_8029_1081125855.wav|កាល ប្រវត្តិ វិទ្យា ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_8029_1096957161.wav|ឱម ណាគ្រី បាន ចូលរួម បទ សម្ភាសន៍ នៅ ផ្សារ ទំនើប អេអន
+khmer-dataset/wavs/khm_8029_1153664112.wav|រៀន សេដ្ឋកិច្ច និង ច្បាប់ នៅ សាលា រូល
+khmer-dataset/wavs/khm_8029_1176703074.wav|លាប ឡេ ហ្នឹង ទៅ មាន អារម្មណ៍ ថា ដូចជា ឃ្មិល មុខ
+khmer-dataset/wavs/khm_8029_1209561458.wav|ហ្សូណូ បាន ចូល លេង កម្មវិធី ពេញចិត្ត ឬ អត់
+khmer-dataset/wavs/khm_8029_1271216707.wav|ការ បង្កើត រោងចក្រ ស្រាបៀរ កម្ពុជា
+khmer-dataset/wavs/khm_8029_1280072290.wav|បុងហ្ស៊ួ មាន ន័យ ថា ចាប់ ដៃ រលាក់
+khmer-dataset/wavs/khm_8029_1317440348.wav|នាយ គ្រឿន បាន ចូលរួម សម្ដែង ក្នុង រឿង ភូមិ អត់ មនុស្ស
+khmer-dataset/wavs/khm_8029_1400136817.wav|ការ ត្រួត ពិនិត្យ ស្ថានភាព ខាង ក្រៅ
+khmer-dataset/wavs/khm_8029_1423692761.wav|ខួប ព្រះ មហា ក្សត្រ នរោត្តម សីហមុនី
+khmer-dataset/wavs/khm_8029_1437474470.wav|កំពុង ប្រព្រឹត្ត ទៅ នៅ វត្ត សំបួរមាស ខណ្ឌ ដង្កោរ
+khmer-dataset/wavs/khm_8029_1541123801.wav|លីអូណាដូ ដាវីន ស៊ី ជា វិចិត្រករ ដៃ ឯក
+khmer-dataset/wavs/khm_8029_1604173457.wav|កែវ តារា ភព មាន សំបុរ ស្រអែម ប៉ុន្តែ សង្ហារ
+khmer-dataset/wavs/khm_8029_1611150059.wav|កា វិនិយោគ នៅ តំបន់ សេដ្ឋកិច្ច ពិសេស
+khmer-dataset/wavs/khm_8029_1617246369.wav|ជន ជាតិ ភាគ តិច កួយ បី ភូមិ នៅ ឃុំ ប្រមេរ ស្រុក ត្បែងមានជ័យ ខេត្ត ព្រះវិហារ
+khmer-dataset/wavs/khm_8029_1617484261.wav|ព្រះ អង្គ ឌួង ជា ព្រះ មហា ក្សត្រ របស់ ខ្មែរ
+khmer-dataset/wavs/khm_8029_1636406674.wav|ហ្សាមហ្សារ ជា ភោជនីយដ្ឋាន បរទេស នៅ ទួលគក
+khmer-dataset/wavs/khm_8029_1667995671.wav|នាយ វ៉ាងដឺ មាន កេរ្តិ៍ ឈ្មោះ ល្បី ជាង ឪពុក របស់ ខ្លួន
+khmer-dataset/wavs/khm_8029_1670362603.wav|ក្រុម ប្រឹក្សា អាជ្ញា កណ្ដាល កម្ពុជា
+khmer-dataset/wavs/khm_8029_1670384092.wav|សារឿប និង យឿប ទៅ កំសាន្ត នៅ ភ្នំ បូកគោ
+khmer-dataset/wavs/khm_8029_1743690304.wav|ស៊ីវហ្គិច និយាយ ចិន ឡើង រូ
+khmer-dataset/wavs/khm_8029_1868928672.wav|ក្រុម បាល់ទាត់ ជម្រើស ជាតិ កម្ពុជា
+khmer-dataset/wavs/khm_8029_1909568786.wav|ក្រុង បាត់ដំបង នឹង រៀបចំ តំបន់ ដើរ កម្សាន្ត
+khmer-dataset/wavs/khm_8029_1940295032.wav|ក្រសួង ក្នុង ព្រះ រាជាណាចក្រ កម្ពុជា
+khmer-dataset/wavs/khm_8029_2030853985.wav|មុខរបរ ជា កម្មករ រោងចក្រ ស្នាក់នៅ ផ្ទះ ជួល ម្ដុំ សួន កាណាឌីយ៉ា
+khmer-dataset/wavs/khm_8029_2114790766.wav|ការ គ្រប់គ្រង ហានិភ័យ ហិរញ្ញ វត្ថុ
+khmer-dataset/wavs/khm_8029_2150363051.wav|ហ៊ុន ទៀន ជា ស្តេច ដំបូង គេ បង្អស់ របស់ នគរ ភ្នំ
+khmer-dataset/wavs/khm_8029_2264919634.wav|មហា វិថី ព្រះ សុរាម្រិត មាន ភាព ស្ងប់ស្ងាត់ ពេល បុណ្យ ភ្ជុំ បិណ្ឌ
+khmer-dataset/wavs/khm_8029_2266615774.wav|ការ អភិវឌ្ឍន៍ វិស័យ វិនិយោគ នៅ កម្ពុជា
+khmer-dataset/wavs/khm_8029_2280125830.wav|ថ្ងៃ បូជា ព្រះ បរមសព សម្ដេច ឪ នៅ វាល មេរុ ត្រូវ បាន កំណត់
+khmer-dataset/wavs/khm_8029_2317949377.wav|ហ្ស៊កដានី ជា ឈ្មោះ ប្រទេស មួយ អឺរ៉ុប
+khmer-dataset/wavs/khm_8029_2321897481.wav|កត្តា នាំ ឱ្យ ទទួល ជោគជ័យ ក្នុង មុខ ជំនួញ
+khmer-dataset/wavs/khm_8029_2368352983.wav|ការ ទទួល ខុស ត្រូវ ផ្នែក ព្រហ្មទណ្ឌ
+khmer-dataset/wavs/khm_8029_2395374325.wav|មន្ត្រី អង្គការ ក្រៅ រដ្ឋាភិបាល បាន ដាក់ ពាក្យ បណ្ដឹង ទៅ តុលាការ ខេត្ត ក្រចេះ
+khmer-dataset/wavs/khm_8029_2594014287.wav|មជ្ឈមណ្ឌល កំសាន្ត ឌីអេហ្គោ
+khmer-dataset/wavs/khm_8029_2626931573.wav|ពូ ញួញ ទិញ ញញួរ នៅ អ៊ីម៉ាញូល
+khmer-dataset/wavs/khm_8029_2633782438.wav|លោក រ៉ូប៊ើត ជា តារា ភាពយន្ត ដ៏ មាន ប្រជាប្រិយភាព
+khmer-dataset/wavs/khm_8029_2661415446.wav|សុខ សីឡាលីន បាន បាត់ ពី សិល្បៈ
+khmer-dataset/wavs/khm_8029_2806206175.wav|អភិបាល ខេត្ត កំពង់ឆ្នាំង សំណេះសំណាល ជាមួយ និស្សិត
+khmer-dataset/wavs/khm_8029_2810162453.wav|សិប្បកម្ម ផលិត ក្រដាស គ្មាន ស្លាក យីហោ ក្បែរ វត្ត មហា មន្ត្រី
+khmer-dataset/wavs/khm_8029_2818624602.wav|ក្រុម ប្រឹក្សា សន្តិសុខ អន្តរជាតិ
+khmer-dataset/wavs/khm_8029_2818932411.wav|គ្រីស្ត៍ម៉ាស់ ជា ពិធី បុណ្យ ដ៏ ធំ មួយ នៅ អឺរ៉ុប
+khmer-dataset/wavs/khm_8029_2830360032.wav|ក្រុម សិល្បៈ ជួប គ្រោះថ្នាក់ ចរាចរណ៍
+khmer-dataset/wavs/khm_8029_2837398059.wav|ឱក សុគន្ធ កញ្ញា មាន អ្នក គាំទ្រ ច្រើន ជាង តារា ចម្រៀង ដទៃ
+khmer-dataset/wavs/khm_8029_2851518149.wav|សេដ្ឋា រស់នៅ ខេត្ត កោះកុង
+khmer-dataset/wavs/khm_8029_2874232462.wav|ការ ចិញ្ចឹម ជ្រូក ក្នុង ប្រទេស កម្ពុជា
+khmer-dataset/wavs/khm_8029_2932029305.wav|កំលោះ ញ៉ិមញ៉ុម ក្រមុំ ញ៉េវញ៉ាវ
+khmer-dataset/wavs/khm_8029_3012073281.wav|ការ ប្រែប្រួល អាកាសធាតុ នៅ កម្ពុជា
+khmer-dataset/wavs/khm_8029_3070049476.wav|ការ ចិញ្ចឹម ជ្រូក ជា លក្ខណៈ គ្រួសារ
+khmer-dataset/wavs/khm_8029_3090746499.wav|អ្នកស្រី អ៊ុក សុផា ជា សាស្ត្រាចារ្យ នៃ សកល វិទ្យាល័យ ភូមិន្ទ វិចិត្រសិល្បៈ
+khmer-dataset/wavs/khm_8029_3157104880.wav|សឿ សុធារ៉ា បាន បង្កើត កូន ស្រី ដ៏ ស្រស់ ស្អាត ម្នាក់
+khmer-dataset/wavs/khm_8029_3195169308.wav|លោក អៀង ស៊ីធុល ជា ព្រឹទ្ធាចារ្យ សិល្បៈ បុរាណ ខ្មែរ
+khmer-dataset/wavs/khm_8029_3232080872.wav|កម្មវិធី ព័ត៌មាន ស្ត្រី នៅ កម្ពុជា
+khmer-dataset/wavs/khm_8029_3265475707.wav|កម្លាំង សមត្ថកិច្ច និង កម្មករ កំពុង ប្រឈមមុខ ដាក់ គ្នា ក្នុង ចម្ងាយ មួយ ម៉ែត្រ នៅ ស្ពាន ស្ទឹងមានជ័យ
+khmer-dataset/wavs/khm_8029_3286427518.wav|កំនើន ប្រជា ជន ប៉ះពាល់ ដល់ ការ អប់រំ
+khmer-dataset/wavs/khm_8029_3320059490.wav|ប៉ីប៉ីលី បាន រក ចំណូល យ៉ាង ច្រើន តាម រយៈ ហ្វេសប៊ុក
+khmer-dataset/wavs/khm_8029_3341222638.wav|ឈៀហ្វូល ជួសជុល និង ដំឡើង កម្មវិធី ទូរសព្ទ ដៃ
+khmer-dataset/wavs/khm_8029_3398653315.wav|កាបូប លុយ អ្នក ដំណើរ នៅ ព្រលាន យន្តហោះ
+khmer-dataset/wavs/khm_8029_3430499235.wav|ការ វាយ តំលៃ ការ អនុវត្តន៍ របស់ ធនាគារ
+khmer-dataset/wavs/khm_8029_3441081588.wav|ហេង ពិទូ មិន យក លំនាំ តាម បទ ចម្រៀង គេ ទេ
+khmer-dataset/wavs/khm_8029_3485624718.wav|កញ្ញា គ្រាប់ កាហ្វេ កូន ទា រូប អាក្រក់
+khmer-dataset/wavs/khm_8029_3497077331.wav|កីឡា ករ វ៉ន វីវ៉ា មាន កំពស់ ខ្ពស់ ជាង គេ នៅ ស្រុក ខ្មែរ
+khmer-dataset/wavs/khm_8029_3531948921.wav|ការ ថែទាំ ទារក នៅ ក្នុង ផ្ទៃ របស់ ម្តាយ
+khmer-dataset/wavs/khm_8029_3575980813.wav|ស្ពាន អាកាស ក្បាល ថ្នល់ ជួយ សម្រួល ចរាចរ បាន ច្រើន
+khmer-dataset/wavs/khm_8029_3582253530.wav|កម្ពុជា ក្នុង សម័យ អាណានិគម បារាំង
+khmer-dataset/wavs/khm_8029_3595778401.wav|អឺហ្សែន ជា ឈ្មោះ បុរស ម្នាក់ ដែល ល្បី ពេញ ហ្វេសប៊ុក
+khmer-dataset/wavs/khm_8029_3606549847.wav|ពិធី ការិនី សម្តី ផ្អែម ខៀវ សាន សាណា បាន ឃ្លាត ឆ្ងាយ ពី សិល្បៈ
+khmer-dataset/wavs/khm_8029_3615910170.wav|លីអូណាដូ ដាវីន ស៊ី ជា មនុស្ស មាន គំនិត ច្នៃប្រឌិត តាំងពី នៅ ក្មេង
+khmer-dataset/wavs/khm_8029_3629031349.wav|ជន រង គ្រោះ បាន ចូល មក តាម ច្រក អន្តរជាតិ ពោធិចិនតុង
+khmer-dataset/wavs/khm_8029_3631477103.wav|នាយ ចឺម ជា តារា ចម្រៀង នៅ ផលិតកម្ម សាន់ដេ
+khmer-dataset/wavs/khm_8029_3632267291.wav|ក្រុង ប៉ោយប៉ែត នឹង ខ្វះ ទឹក ស្អាត ប្រើ ចាប់ ពី សប្តាហ៍ ក្រោយ ទៅ
+khmer-dataset/wavs/khm_8029_3661462396.wav|ក្រម នីតិ វិធី ព្រហ្មទណ្ឌ អន្តរកាល
+khmer-dataset/wavs/khm_8029_3664700399.wav|លោក ខេហ្គ ជា អ្នក ជំនួញ មាន ទ្រព្យសម្បត្តិ ច្រើន
+khmer-dataset/wavs/khm_8029_3673146837.wav|ញូវហ្គីណេ ជា ហាង លក់ ផលិតផល ទំនើប
+khmer-dataset/wavs/khm_8029_3694947460.wav|អាន វិសាល មិន បាន ចេញ បទ ចម្រៀង ថ្មី ទេ នៅ ឆ្នាំ នេះ
+khmer-dataset/wavs/khm_8029_3717407303.wav|ច្បាប់ អចលនទ្រព្យ មាន សុពលភាព ចាប់ ពី ថ្ងៃ នេះ តទៅ
+khmer-dataset/wavs/khm_8029_3721811432.wav|មាន ភ្ញៀវ ទេសចរណ៍ ជា ច្រើន ទៅ ទស្សនា ប្រាសាទ អង្គរធំ
+khmer-dataset/wavs/khm_8029_3764264370.wav|នាង ស្វែង សុជាតា បាន ធ្វើ អោយ មាន ការ ភ្ញាក់ ផ្អើល កើត ឡើង នៅ ពេល ឃើញ នាង កោរ សក់
+khmer-dataset/wavs/khm_8029_3782712579.wav|ខុស ខ្លាំង មែន ទេ ដែល អូន នៅ ស្រលាញ់ បង
+khmer-dataset/wavs/khm_8029_3789523540.wav|សៀវភៅ គណិត វិទ្យា បែង ចែក ជា ពីរ គឺ គណិត វិទ្យា និង ធរណីមាត្រ
+khmer-dataset/wavs/khm_8029_3876217387.wav|អេឡិច ចាន់ត្រា បាន បន្ត ការ សិក្សា នៅ សាកល វិទ្យាល័យ បៀលប្រាយ
+khmer-dataset/wavs/khm_8029_3909250250.wav|អាហ្វហ្គានីស្ថាន ជា ប្រទេស ដែល ញាំញី ដោយ សង្គ្រាម
+khmer-dataset/wavs/khm_8029_3913373211.wav|ស៊ុំ សុម៉ាលី បាន បង្ហាញ ស្នាដៃ តាម រយៈ ខ្សែ ភាពយន្ត នាង កាកី
+khmer-dataset/wavs/khm_8029_3977247891.wav|នាយ គ្រឿន ជា តារា កំប្លែង ស្ងួត
+khmer-dataset/wavs/khm_8029_4098322154.wav|នាយ ប៊ូម ជា តារា កំប្លែង មិន សូវ ល្បី
+khmer-dataset/wavs/khm_8029_4110117399.wav|ខៀវ សាន សាណា និង តាប៊ុយ មាន ទំនាក់ទំនង ស្អិត រមួត ក្រៅ ឆាក
