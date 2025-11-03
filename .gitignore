@@ -3,9 +3,14 @@ outdir_female/
 outdir_male/
 khmer-dataset-male/
 khmer-dataset-female/
+km_kh_male/
+km_kh_male.zip
+km_kh_female/
+km_kh_female.zip
 tacotron2_statedict.pt
 waveglow_256channels_universal_v5.pt
 pre-training-model/
 inference_Tacotron2.ipynb
 
 __pycache__
+.DS_Store
